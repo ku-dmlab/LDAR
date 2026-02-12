@@ -1,0 +1,1886 @@
+[
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Hound of the Baskervilles.txt",
+    "comp_parts": [
+      2,
+      3
+    ],
+    "question": "What contrasting opinions do Stapleton and Frankland exhibit regarding the use of legal measures and the enforcement of laws on the moor?",
+    "answer": "Stapleton is portrayed as someone who avoids legal entanglements to maintain his interests, as seen in his deceptive actions, while Frankland actively engages in legal battles out of a sense of public duty and a desire to assert legal rights, even when it brings no personal gain."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "NVIDIA Corporation.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What percentage of NVIDIA's revenue for fiscal year 2024 came from a single customer in the Compute & Networking segment, and how does this demonstrate a risk presented in the Risk Factors?",
+    "answer": "In fiscal year 2024, 13% of NVIDIA's revenue came from a single customer in the Compute & Networking segment, illustrating the risk of revenue concentration from limited partners and distributors, as mentioned in the Risk Factors."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Pere Goriot.txt",
+    "comp_parts": [
+      1,
+      3
+    ],
+    "question": "How do the situations with Vautrin and Eugene in the two segments reveal the influence of wealth and social connections in Parisian life?",
+    "answer": "Both segments depict the dramatic impact of wealth and social connections, as Eugene hesitates to accept lavish gifts and connections from Mme. de Nucingen despite being drawn to the luxury, while Vautrin attempts to manipulate Eugene into a wealthy marriage, highlighting the pervasive power of financial and social status."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_23.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How do the authors of paper 0 and paper 1 address the challenge of outdated knowledge in Large Language Models (LLMs)?",
+    "answer": "In paper 0, the authors propose knowledge editing techniques for LLMs to allow efficient post-hoc corrections and updates, while paper 1 discusses Retrieval-Augmented Generation (RAG) as a solution that integrates external knowledge bases to provide real-time updates to the information processed by LLMs."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_18.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How do the training approaches for enhancing table understanding differ between paper 0 and paper 1?",
+    "answer": "Paper 0 focuses on using CHAIN-OF-TABLE framework for step-by-step tabular reasoning, guiding LLMs to generate operations and transform tables dynamically, whereas paper 1 implements a large-scale pretraining of LLaMA-2 with a corpus of diverse tables and Mask-Then-Predict pretraining for improving LLMs' predictive tasks on tabular data."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Nineteen Eighty Four.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What are the consequences of expressing dissent or resistance against the Party in both segments of the text?",
+    "answer": "In both segments, expressing dissent or resistance against the Party leads to severe punishments, such as vaporization or arrest by the Thought Police, often resulting in death or forced confessions."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Nineteen Eighty Four.txt",
+    "comp_parts": [
+      0,
+      4
+    ],
+    "question": "How do Winston's views on Big Brother and the Party evolve between his initial rebellious thoughts and his experiences in the Ministry of Love?",
+    "answer": "Initially, Winston harbors rebellious thoughts against Big Brother and the Party, but after his experiences of torture and psychological manipulation in the Ministry of Love, he ultimately succumbs and professes love for Big Brother."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "Esperion Therapeutics Inc.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What changes occurred in the net product sales of NEXLETOL and NEXLIZET from 2022 to 2023, and how did the collaboration revenue compare during the same period?",
+    "answer": "Net product sales of NEXLETOL and NEXLIZET increased from $55.9 million in 2022 to $78.3 million in 2023, while collaboration revenue also grew from $19.6 million in 2022 to $38.0 million in 2023."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_20.md",
+    "comp_parts": [
+      0,
+      3
+    ],
+    "question": "How do the design strategies for iterative self-refinement in image generation in paper 0 compare to the feature integration approach for video quality assessment in paper 3?",
+    "answer": "Paper 0 implements iterative self-refinement in image generation using GPT-4V's feedback loop to optimize T2I prompts, whereas paper 3 integrates diverse quality-aware features from pre-trained models into SimpleVQA to enhance BVQA without iterative feedback."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Mrs. Dalloway.txt",
+    "comp_parts": [
+      0,
+      4
+    ],
+    "question": "How does Mrs. Dalloway's recollection of Peter Walsh in one segment contrast with Peter Walsh's reflections about his situation and relationships, particularly with women, in the other segment?",
+    "answer": "In the first segment, Mrs. Dalloway remembers Peter with nostalgia and reflects on their past with a sense of unresolved emotions, while in the second segment, Peter Walsh reflects on his dependency and complex feelings towards women, including his jealousy, and is torn between his old affections for Clarissa and his current entanglements with Daisy."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_10.md",
+    "comp_parts": [
+      2,
+      3
+    ],
+    "question": "How do the TS-Align framework in paper 2 and the TinyGSM approach in paper 3 address the scalability limitations of data annotation in large language models?",
+    "answer": "Paper 2's TS-Align framework employs a teacher-student collaboration model to automate preference data extraction, while paper 3's TinyGSM approach uses synthetic data generated by GPT-3.5 to train small models, both aiming to reduce dependence on costly human annotations."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Catcher in the Rye.txt",
+    "comp_parts": [
+      1,
+      3
+    ],
+    "question": "What similarities can be found in the way the narrator compares older men, like his cab driver and Mrs. Morrow's son, to morons or bastards?",
+    "answer": "The narrator expresses disdain for both the cab driver, implying his supposed ignorance about the ducks, and Mrs. Morrow's son, Ernest, whom he considers a moron devoid of sensitivity, highlighting his general cynicism and mistrust of people."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_26.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How do the translation strategies differ between the document-level machine translation models in paper 0 and the context-aware machine translation model with coreference resolution in paper 1?",
+    "answer": "Paper 0 emphasizes adapting LLMs using fine-tuning methods and prompt strategies for specific translation tasks, while paper 1 employs a coreference resolution sub-model to improve translation by predicting coreference features in the input."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "NVIDIA Corporation.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What percentage of NVIDIA's total revenue for fiscal year 2024 was generated by a single customer within the Compute & Networking segment, and what challenges does this concentration pose?",
+    "answer": "Sales to one customer, Customer A, represented 13% of total revenue for fiscal year 2024, posing challenges like potential revenue impact from losing or being unable to sell to such major customers due to trade restrictions."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Wonderful Wizard.txt",
+    "comp_parts": [
+      0,
+      4
+    ],
+    "question": "What mode of transportation does Oz suggest to Dorothy as a way to leave the country, and how is this method realized?",
+    "answer": "Oz suggests using a balloon to leave the country, which is realized by sewing together strips of silk and filling it with hot air to make it float."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Pere Goriot.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "What is the significance of the character Father Goriot in relation to the social ambitions of Eugene de Rastignac?",
+    "answer": "Father Goriot represents the sacrifices and emotional ties often exploited by the socially ambitious, as seen when Eugene attempts to navigate the complex social hierarchies with knowledge of Goriot's past and family relationships to gain favor and insight into Parisian society."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_22.md",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How do papers 1 and 2 address the challenges of deploying AI-generated content (AIGC) services in mobile edge networks?",
+    "answer": "Paper 1 discusses the need for cloud-edge-mobile collaboration to optimize resource allocation, latency, and data privacy while Paper 2 proposes a joint model caching and inference framework to manage resources effectively, emphasizing the use of pretrained foundation models in edge intelligence."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Blue Castle.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What changes in Valancy's life and mindset occur from the earlier part of the story to later, impacting her decisions regarding love and freedom?",
+    "answer": "Initially, Valancy feels trapped in a life of emptiness and duty, leading her to rebel for personal freedom, and later she actively pursues love by proposing to Barney Snaith, prioritizing her happiness over societal norms."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_5.md",
+    "comp_parts": [
+      2,
+      4
+    ],
+    "question": "How do the long-context understanding capabilities in MC-ViT from paper 2 and RULER from paper 4 differ in terms of the limitations they address?",
+    "answer": "MC-ViT in paper 2 extends video context through memory consolidation for long video understanding, while RULER in paper 4 evaluates language models on various synthetic tasks revealing their limitations in retrieval and aggregation beyond retrieval from long contexts."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Cranford.txt",
+    "comp_parts": [
+      1,
+      4
+    ],
+    "question": "How do Miss Matty's views on social class and business reflect the social dynamics of Cranford?",
+    "answer": "Miss Matty's hesitant transition into selling tea reflects Cranford's rigid social dynamics, as she initially fears that engaging in trade might compromise her social standing, but later finds community support and adjusts to her new role."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "EXACT SCIENCES CORPORATION.txt",
+    "comp_parts": [
+      2,
+      4
+    ],
+    "question": "How did the research and development expenses change from 2022 to 2023 compared to sales and marketing expenses, and what were the main reasons for these changes?",
+    "answer": "Research and development expenses increased by $32.5 million due to higher personnel expenses and facility costs, while sales and marketing expenses decreased by $118.9 million primarily due to reduced marketing costs and a realignment of the sales force."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_7.md",
+    "comp_parts": [
+      0,
+      4
+    ],
+    "question": "How do the methodologies in paper 0 and paper 4 leverage large language models for their respective applications of recommendation systems and particle accelerator tuning?",
+    "answer": "In paper 0, large language models are utilized for graph augmentation to improve recommendation systems by enhancing user-item interactions and item attributes, whereas in paper 4, LLMs are used for autonomous tuning of particle accelerators through natural language prompts, aiming to simplify complex tuning tasks."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Unbearable Lightness of Being.txt",
+    "comp_parts": [
+      2,
+      4
+    ],
+    "question": "How does Tereza's perception of a 'concentration camp' metaphor evolve over time and relate to the reality of the Czech political situation?",
+    "answer": "Tereza initially uses the 'concentration camp' metaphor to describe the obliteration of privacy in her family life, later extending it to the Czech political situation, drawing parallels between her loss of personal space and the oppressive regime, highlighted by both the secret police activities and her past encounters with censorship and monitoring."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "C.H. ROBINSON WORLDWIDE, INC..txt",
+    "comp_parts": [
+      3,
+      4
+    ],
+    "question": "How did the revenue recognition policy related to in-transit shipments change from December 31, 2022, to December 31, 2023?",
+    "answer": "The revenue for contracts where the transit period was partially complete declined from $257.6 million at December 31, 2022, to $189.9 million at December 31, 2023, due to macroeconomic and industry factors impacting transportation costs."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Frankenstein; Or, The Modern Prometheus.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How does Victor Frankenstein's reaction to adversity differ from Robert Walton's approach to his own challenges?",
+    "answer": "Victor Frankenstein is overwhelmed by guilt and despair due to his creation's consequences, leading to isolation and self-destructive behavior, whereas Robert Walton, despite facing loneliness and the harsh conditions of exploration, remains hopeful and seeks companionship and advice from others."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_20.md",
+    "comp_parts": [
+      1,
+      3
+    ],
+    "question": "What are the main types of features extracted and utilized in the models proposed in paper 1 and paper 3, and how do they differ in their application to visual quality assessment?",
+    "answer": "In paper 1, DEsignBench emphasizes design-specific capabilities like text rendering, color harmony, and composition, while paper 3's model utilizes quality-aware features from BIQA and BVQA models, focusing on spatial and temporal aspects to assess video quality."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_11.md",
+    "comp_parts": [
+      1,
+      4
+    ],
+    "question": "How do the studies in paper 1 and paper 4 approach the issue of electronic exchange-correlation effects in dense plasmas?",
+    "answer": "Paper 1 utilizes ab initio path integral Monte Carlo (PIMC) simulations to access electronic correlations without nodal restrictions in warm dense matter, while paper 4 presents quasi-exact PIMC results focusing on dynamic exchange-correlation effects in the strongly coupled electron liquid, introducing a Fourier-Matsubara series expansion for accurate analysis."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_10.md",
+    "comp_parts": [
+      3,
+      4
+    ],
+    "question": "How do papers 3 and 4 approach improving performance of smaller or weaker models, and what are some similarities in their techniques?",
+    "answer": "Both papers 3 and 4 emphasize the use of auxiliary verification or confidence mechanisms to enhance model performance, with paper 3 utilizing verifiers for small models in mathematical reasoning, while paper 4 implements auxiliary confidence losses to avoid imitating weak supervisor mistakes in NLP tasks."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Catcher in the Rye.txt",
+    "comp_parts": [
+      2,
+      3
+    ],
+    "question": "How does the protagonist's emotional state and behavior in social settings contrast after interaction with Lillian and during the outing with Sally?",
+    "answer": "While the protagonist feels frustrated and depressed after his encounter with Lillian, leading him to leave a place he initially enjoyed, his outing with Sally starts out positively but quickly devolves into conflict, highlighting his internal chaos and dissatisfaction with societal norms."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_12.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "What are the main security risks associated with Large Language Models (LLMs) in paper 0 and multimodal LLMs (MLLMs) in paper 1?",
+    "answer": "Paper 0 primarily focuses on the risks of privacy leakage, toxicity, bias, hallucinations, and model attacks in LLMs, emphasizing module-oriented risks; whereas paper 1 highlights vulnerabilities from the integration of image modalities, such as cross-modal training weaknesses and the potential for adversarial perturbations in MLLMs."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Mrs. Dalloway.txt",
+    "comp_parts": [
+      1,
+      4
+    ],
+    "question": "How do Clarissa and Peter Walsh perceive each other's life choices throughout their encounters?",
+    "answer": "Clarissa questions her decision not to marry Peter, viewing his life as filled with adventure, while Peter reflects on Clarissa's societal achievements and considers her life one of conventional success despite the constraints he believes it imposes on her."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_8.md",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What common challenges do the knowledge editing techniques in paper 0 and the generalization approaches in paper 2 address in large language models?",
+    "answer": "Both papers address the challenge of managing vast parameter spaces in LLMs; paper 0 focuses on efficient and effective post-hoc modifications to LLMs to maintain or enhance knowledge without retraining, while paper 2 develops non-vacuous generalization bounds to confirm LLMs' ability to generalize beyond training data."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "A Room with a View.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What contrasting views does Lucy have of Mr. Emerson at the Pension Bertolini and later at her engagement announcement?",
+    "answer": "At the Pension Bertolini, Lucy is intrigued yet cautious about Mr. Emerson, finding him unorthodox but potentially kind, while later at her engagement she regards his past behavior unfavorably and expresses concern about his proximity."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_30.md",
+    "comp_parts": [
+      2,
+      3
+    ],
+    "question": "How does the use of data filtering networks (DFNs) in paper 3 compare to the data filtering techniques used in paper 2 for improving dataset quality?",
+    "answer": "Paper 3 uses data filtering networks trained on specific high-quality datasets to algorithmically generate state-of-the-art datasets, whereas paper 2 utilizes a combination of CLIP score filtering and image-based clustering with specific heuristics to curate image-text datasets."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "MediaAlpha, Inc..txt",
+    "comp_parts": [
+      2,
+      5
+    ],
+    "question": "What was the percentage change in the Company's total revenue from the Property & Casualty insurance vertical from 2021 to 2023, compared to the Health insurance vertical for the same period?",
+    "answer": "The Company's total revenue from Property & Casualty insurance vertical decreased by 60.7% from $417,715,000 in 2021 to $164,234,000 in 2023, while the Health insurance vertical saw a 5.6% increase from $176,459,000 in 2021 to $186,275,000 in 2023."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Persuasion.txt",
+    "comp_parts": [
+      3,
+      4
+    ],
+    "question": "How do Anne Elliot's perceptions of Mr. Elliot change from the conversations with Mrs. Smith?",
+    "answer": "Anne initially perceives Mr. Elliot as respectable and agreeable, but after learning from Mrs. Smith about his past actions and true motives, she realizes he is disingenuous and driven by selfish interests."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Souls of Black Folk.txt",
+    "comp_parts": [
+      0,
+      3
+    ],
+    "question": "What obstacles faced black tenants and landowners in Dougherty County, and how did they reflect broader social issues described in relation to the Freedmen's struggles?",
+    "answer": "Black tenants and landowners in Dougherty County faced economic exploitation, such as high rents and unfair practices, reflecting broader social issues like racial prejudice, lack of economic opportunity, and the struggle for self-sufficiency following Emancipation."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Philosopher’s Stone.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How is Harry's recognition and fame established in his early experiences at Hogwarts compared to his first encounters with other magical people?",
+    "answer": "At Hogwarts, Harry experiences immediate fame and attention from his peers, highlighted by whispers and stares, while his first encounters with the magical community outside Hogwarts, like the Dursleys' reaction to him receiving a letter, initially do not convey the same recognition until the revelation of his identity by Hagrid."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_19.md",
+    "comp_parts": [
+      0,
+      3
+    ],
+    "question": "What are the main differences in the approach to model editing as presented in paper 0 and paper 3?",
+    "answer": "Paper 0 focuses on knowledge editing through a unified categorization of methods like resorting to external knowledge and editing intrinsic knowledge, while paper 3 introduces MEMoE, a model editing framework using a Mixture of Experts architecture prioritizing sparse model adjustments through knowledge anchor routing."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Picture of Dorian Gray.txt",
+    "comp_parts": [
+      2,
+      4
+    ],
+    "question": "What is Dorian Gray's initial reaction to the change in his portrait, and how does it evolve over time?",
+    "answer": "Initially, Dorian Gray is horrified and sees the portrait as a visible emblem of conscience, intending to live a pure life, but over time, he grows to rely on it to bear the burden of his sins and continue his life of vice."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Harry Potter and the Chamber of Secrets.txt",
+    "comp_parts": [
+      2,
+      3
+    ],
+    "question": "What is the nature of the conflict that leads Harry to question the Sorting Hat's decision, and how is this tension reflected in his encounter with the hat in Dumbledore's office?",
+    "answer": "Harry is conflicted about the Sorting Hat's decision because it suggested he could be in Slytherin, which his experience with the hat in Dumbledore's office confirms by reiterating he would have done well in Slytherin, causing Harry to feel sickened by the prospect."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Blue Castle.txt",
+    "comp_parts": [
+      0,
+      3
+    ],
+    "question": "In what ways do Valancy's perceptions of her surroundings and circumstances change after her wedding to Barney compared to before?",
+    "answer": "Before marrying Barney, Valancy perceives her surroundings as drab and unfulfilling, feeling constrained by societal expectations, but after her wedding, she views her life with Barney as liberating and vibrant, deriving joy from the natural beauty and freedom of Mistawis."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "White Fang.txt",
+    "comp_parts": [
+      1,
+      3
+    ],
+    "question": "How does White Fang's relationship with humans evolve from his initial encounters to his experiences later on?",
+    "answer": "Initially, White Fang is wary and aggressive towards humans, seeing them as oppressors, but later he develops a bond of trust and love with Weedon Scott, who teaches him kindness and changes his perception of humans."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Anne Frank The Diary of a Young Girl.txt",
+    "comp_parts": [
+      1,
+      3
+    ],
+    "question": "How does Anne's relationship with her parents, particularly her mother, influence her emotional state throughout her writings?",
+    "answer": "Anne's strained relationship with her mother, marked by lack of understanding and emotional connection, contributes significantly to her feelings of isolation and longing for someone who truly understands her, which is evident in both her diaries."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_22.md",
+    "comp_parts": [
+      2,
+      3
+    ],
+    "question": "How do the challenges and solutions proposed for resource allocation in edge intelligence differ between paper 2 and paper 3?",
+    "answer": "Paper 2 discusses joint caching and inference frameworks focusing on GPU resource management in edge servers, whereas paper 3 addresses computing and storage resource allocation using MEC and federated learning, emphasizing collaborative multi-enterprise platforms."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Anne of Green Gables.txt",
+    "comp_parts": [
+      0,
+      4
+    ],
+    "question": "How do Anne's aspirations and plans change between her time at Green Gables and her experience at Queen's?",
+    "answer": "At Green Gables, Anne aspires to study at Queen's and eventually go to Redmond College, but after Matthew's death and Marilla's health issues, she decides to stay and teach in Avonlea, prioritizing helping Marilla over her academic ambitions."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Persuasion.txt",
+    "comp_parts": [
+      2,
+      3
+    ],
+    "question": "What contrasting views do Anne and Lady Russell have towards Mr. Elliot's character at different points in the narrative?",
+    "answer": "Anne is initially skeptical of Mr. Elliot's character and remains cautious, while Lady Russell is consistently convinced of his merits and supportive of a potential union between him and Anne."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Scarlet Letter.txt",
+    "comp_parts": [
+      0,
+      3
+    ],
+    "question": "How does the transformation of Hester Prynne's character over time affect the perception of her scarlet letter in the community?",
+    "answer": "Initially, the scarlet letter is a symbol of shame for Hester, but over time, due to her good deeds and strength of character, the community begins to view it as a symbol of her ability and worth."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_18.md",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How do paper 1 and paper 2 differ in their approach to utilizing PLMs for tasks involving structured inputs?",
+    "answer": "Paper 1 focuses on adapting LLMs such as Llama-2 for predictive tasks in tabular data through specialized pretraining, while paper 2 benchmarks PLMs like GPT-3.5 and PaLM on data-to-text generation tasks using metrics like ROUGE, emphasizing few-shot and finetuning effectiveness."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_10.md",
+    "comp_parts": [
+      1,
+      3
+    ],
+    "question": "In what way do papers 1 and 3 address the challenge of enhancing model performance using self-generated or synthetic data, and what are the outcomes of their methods?",
+    "answer": "Paper 1 introduces STIC, leveraging self-generated image descriptions to improve LVLMs, achieving up to a 4.0% accuracy gain across benchmarks, while paper 3 presents TinyGSM, a synthetic dataset for mathematical reasoning, enabling a small model to attain 81.5% accuracy on GSM8K, surpassing the performance of its GPT-3.5 teacher."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Brave New World.txt",
+    "comp_parts": [
+      3,
+      4
+    ],
+    "question": "How is the notion of 'freedom' explored differently in the actions of the Savage when interacting with the Deltas and Mustapha Mond?",
+    "answer": "The Savage's notion of 'freedom' leads him to violently reject soma to liberate the Deltas, while in conversation with Mustapha Mond, he advocates for the right to unhappiness, equating true freedom with the ability to experience suffering and instability."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_27.md",
+    "comp_parts": [
+      2,
+      4
+    ],
+    "question": "What are the key differences in dataset creation and model improvement strategies between paper 2 and paper 4 for enhancing GUI automation and multimodal reasoning tasks?",
+    "answer": "Paper 2 introduces the GUIDE dataset specifically for GUI task automation and develops V-Zen for precise grounding, while paper 4 proposes a 'list items one by one' paradigm with SoM datasets to boost visual reasoning and understanding in multimodal LLMs."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Wonderful Wizard.txt",
+    "comp_parts": [
+      2,
+      4
+    ],
+    "question": "What attempts do Dorothy and her companions make to find a way back to Kansas in both segments of the text?",
+    "answer": "In the first segment, Dorothy learns she must kill the Wicked Witch of the West for Oz to help her return, while in the second segment, Dorothy attempts to leave with Oz in a balloon and later tries the Winged Monkeys, before Glinda reveals the power of her Silver Shoes."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_22.md",
+    "comp_parts": [
+      0,
+      3
+    ],
+    "question": "How does the application of generative AI in the physical layer of ISAC systems, as discussed in paper 0, compare to the use of AI in enhancing industrial operations within the Industrial Metaverse described in paper 3?",
+    "answer": "Paper 0 focuses on using generative AI for signal processing tasks like channel estimation in ISAC systems, while paper 3 discusses AI's role in modeling and decision-making to optimize industrial processes, highlighting adaptations in respective domains."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Harry Potter and the Chamber of Secrets.txt",
+    "comp_parts": [
+      3,
+      4
+    ],
+    "question": "How does Harry's experience with the Sorting Hat differ from his realization after defeating Tom Riddle?",
+    "answer": "While the Sorting Hat suggests Harry might do well in Slytherin, Harry's later realization after defeating Tom Riddle confirms his belonging in Gryffindor as it highlights his courage and choice to resist dark influences."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "Paratek Pharmaceuticals Inc.txt",
+    "comp_parts": [
+      1,
+      3
+    ],
+    "question": "How did Paratek's financial position affect their ability to utilize net operating loss carryforwards after the merger, and what was the impact on regulatory operations?",
+    "answer": "Paratek's financial position was impacted by ownership changes from the merger that limited the use of net operating loss carryforwards, which could materially affect cash flow and operations as government regulations require cost compliance in various areas."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_21.md",
+    "comp_parts": [
+      1,
+      3
+    ],
+    "question": "How do the quantization methods introduced in LoQT (paper 1) and SqueezeLLM (paper 3) differ in their handling of large language models?",
+    "answer": "LoQT focuses on efficient training with low-rank adapters and quantization for pretraining and fine-tuning models, while SqueezeLLM employs sensitivity-based non-uniform quantization and dense-and-sparse decomposition specifically for inference efficiency and lossless compression up to 3-bit precision."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "MediaAlpha, Inc..txt",
+    "comp_parts": [
+      0,
+      5
+    ],
+    "question": "How did the revenue from Open Marketplace transactions compare to Private Marketplace transactions in the year ended December 31, 2023?",
+    "answer": "In the year ended December 31, 2023, Open Marketplace transactions generated $378,730,000 in revenue, which was significantly higher than Private Marketplace transactions which generated $9,419,000."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "Esperion Therapeutics Inc.txt",
+    "comp_parts": [
+      1,
+      4
+    ],
+    "question": "How did Esperion Therapeutics, Inc.'s net loss change from 2022 to 2023 and what were the factors contributing to this change?",
+    "answer": "Esperion Therapeutics, Inc.'s net loss decreased from $233.7 million in 2022 to $209.2 million in 2023, primarily due to increased net product sales and collaboration revenue, partially offset by increased selling, general, and administrative expenses."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_16.md",
+    "comp_parts": [
+      2,
+      3
+    ],
+    "question": "How do paper 2 and paper 3 differ in their approach to handling biases within their benchmarks?",
+    "answer": "Paper 2 focuses on incorporating both cognitive and implicit biases into simulated patient and doctor agents to study their effects on diagnostic accuracy and agent interactions, while paper 3 does not specifically focus on biases in agent interactions but emphasizes contamination and fairness in multilingual evaluation benchmarks."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "Tesla, Inc..txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What were the factors contributing to the change in automotive sales revenue and gross margin from 2022 to 2023?",
+    "answer": "Automotive sales revenue increased by $11.30 billion due to a rise in Model 3 and Model Y deliveries, while the gross margin decreased from 28.5% to 19.4% due to lower average selling prices and increased costs."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_2.md",
+    "comp_parts": [
+      0,
+      3
+    ],
+    "question": "How do the computational efficiency strategies differ in the pre-training methods of paper 0 and the inference methods in paper 3?",
+    "answer": "Paper 0 proposes a replaced token detection pre-training task that enhances computational efficiency by leveraging a discriminator learning from all input tokens, whereas paper 3 enhances inference efficiency through a sequence tagging approach with custom transformations, achieving up to tenfold faster speeds than traditional seq2seq Transformer systems."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_15.md",
+    "comp_parts": [
+      3,
+      4
+    ],
+    "question": "What are the key challenges related to Retrieval-Augmented Generation processes discussed in paper 3 and how do they compare with the abilities assessed in paper 4's Retrieval-Augmented Generation Benchmark?",
+    "answer": "Paper 3 highlights challenges in IR systems using LLMs, focusing on data scarcity, interpretability, and inaccuracies due to contextually plausible yet wrong responses, while paper 4's Retrieval-Augmented Generation Benchmark evaluates LLMs on noise robustness, negative rejection, information integration, and counterfactual robustness, reflecting concerns about noise and erroneous data in RAG contexts."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Secret Garden.txt",
+    "comp_parts": [
+      0,
+      3
+    ],
+    "question": "What role does the concept of a 'secret garden' play in the development of Mary and Colin's characters?",
+    "answer": "For Mary, the 'secret garden' represents a place of growth and healing, transforming her from a self-absorbed and contrary child into a caring and inquisitive person, while for Colin, it becomes a magical sanctuary that promotes recovery, courage, and the belief in life beyond his illness."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_24.md",
+    "comp_parts": [
+      1,
+      3
+    ],
+    "question": "In the context of variational quantum algorithms optimization, how do the approaches proposed in paper 1 and paper 3 differ in terms of leveraging quantum noise?",
+    "answer": "Paper 1 leverages quantum shot-noise for optimization by dynamically adjusting shot numbers in its SantaQlaus algorithm, while paper 3 uses quantum reinforcement learning for join order optimization but does not explicitly focus on leveraging quantum noise in its methodology."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_25.md",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How does the approach to anomaly detection using domain adaptation in paper 0 compare to the use of AI techniques in anomaly detection described in paper 2, particularly in terms of handling diverse data types?",
+    "answer": "Paper 0 uses domain adaptation and contrastive learning to address anomaly detection in time series data by focusing on domain shift and generating synthetic anomalies, while paper 2 discusses the application of AI to handle diverse data types like metrics, logs, and traces for anomaly detection, emphasizing the use of multimodal techniques."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "2U, Inc..txt",
+    "comp_parts": [
+      0,
+      3
+    ],
+    "question": "How did Full Course Equivalent (FCE) enrollments change in both the Degree Program Segment and the Alternative Credential Segment from 2022 to 2023?",
+    "answer": "FCE enrollments decreased by 16.7% in the Degree Program Segment from 233,635 in 2022 to 194,574 in 2023, while they increased by 4.5% in the Alternative Credential Segment from 93,471 in 2022 to 97,647 in 2023."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_11.md",
+    "comp_parts": [
+      3,
+      4
+    ],
+    "question": "How do the static density response properties of full two-component warm dense hydrogen in paper 3 compare with those of the strongly coupled electron liquid described in paper 4?",
+    "answer": "In paper 3, the static density response of warm dense hydrogen is computed considering both electron-electron and electron-proton interactions, while in paper 4, the static density response of the strongly coupled electron liquid is analyzed using the local field correction approach within the Matsubara frequency framework, highlighting differences in system components and theoretical approaches."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "Mind Medicine (MindMed) Inc..txt",
+    "comp_parts": [
+      3,
+      4
+    ],
+    "question": "Between December 31, 2022, and December 31, 2023, how much of the equity securities registered under the shelf registration statement was issued by the company?",
+    "answer": "Between December 31, 2022, and December 31, 2023, the company issued $0.2 million of equity securities, as the availability decreased from $100.0 million to $99.8 million."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_1.md",
+    "comp_parts": [
+      2,
+      3
+    ],
+    "question": "How do the methods proposed in paper 2 and paper 3 differ in addressing the challenge of optimizing dataset quality for improving language model performance?",
+    "answer": "Paper 2 proposes Self-Augmented Preference Optimization (SAPO) to dynamically update LLM training data for better alignment with human preferences, while paper 3 employs synthetic corruption informed pruning (SCIP) to identify and remove low-quality data in code datasets by exploiting embedding space characteristics."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_29.md",
+    "comp_parts": [
+      3,
+      4
+    ],
+    "question": "How do the multilingual strategies for enhancing non-English language processing in paper 3 and paper 4 compare to their impact on model performance?",
+    "answer": "Paper 3 improves Chinese language processing by enhancing LLaMA's vocabulary, pre-training with Chinese data, and using LoRA for adaptation, whereas paper 4 employs Cross-Lingual-Thought prompting to boost multilingual capabilities across various languages, enhancing reasoning and understanding tasks."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_8.md",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What are the different approaches to knowledge retention and generalization in large language models as discussed in paper 1 and paper 2?",
+    "answer": "Paper 1 emphasizes enhancing parametric knowledge through a systematic pipeline for data construction and infusion to improve LLMs' knowledge retention and integration capabilities, while paper 2 focuses on compressibility and generalization bounds, showing that larger LLMs can better compress and generalize beyond training data due to effectively capturing regularities."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_12.md",
+    "comp_parts": [
+      2,
+      3
+    ],
+    "question": "How do approaches to security in LLM-based systems in paper 2 and statistical watermarking in paper 3 address the issue of detecting harmful or unauthorized content?",
+    "answer": "Paper 2 examines the susceptibility of LLM-based agents to adversarial attacks by increasing agent interactions and vulnerabilities, while paper 3 proposes a statistical watermarking framework as a hypothesis testing problem aimed at identifying machine-generated texts, focusing on distinguishing watermarking efficacy to detect unauthorized or manipulated content."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Adventures of Tom Sawyer.txt",
+    "comp_parts": [
+      1,
+      4
+    ],
+    "question": "How does Tom Sawyer's perception of adventure and danger change from his initial plans in the forest to his experiences in the cave?",
+    "answer": "Initially, Tom views adventure as a thrilling and carefree pursuit, imagining himself as a pirate and bandit, but his real experiences in the cave, where he faces genuine fear and danger, bring a sobering reality to his adventurous fantasies."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_27.md",
+    "comp_parts": [
+      3,
+      4
+    ],
+    "question": "What contrasting methodologies do paper 3 and paper 4 propose for improving the performance of large models on specific domain tasks?",
+    "answer": "Paper 3 proposes FMint, a foundation model using error correction for enhanced simulation accuracy in ODEs, while paper 4 introduces 'list items one by one,' a paradigm to improve MLLMs' visual reasoning by using tagged visual datasets."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_7.md",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "In what ways do GraphGPT from paper 0 and Open-TI from paper 1 utilize large language models to perform domain-specific tasks, and how do their focus areas differ?",
+    "answer": "GraphGPT in paper 0 focuses on enhancing graph learning tasks with LLMs by aligning structural graph information with language models for better generalization, while Open-TI from paper 1 leverages LLMs in traffic intelligence tasks, incorporating traffic simulation and control functionalities with augmented language capabilities."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_1.md",
+    "comp_parts": [
+      2,
+      4
+    ],
+    "question": "How do the SAPO approach in paper 2 and the ReST^EM approach in paper 4 address the limitation of reliance on human-generated data in LLM training, and how do they utilize model-generated data differently?",
+    "answer": "SAPO in paper 2 employs off-policy RL with a replay buffer to dynamically update training data without pre-collected paired datasets, while ReST^EM in paper 4 uses EM to iteratively fine-tune on model-generated data with a binary feedback mechanism, both reducing reliance on human data but employing different sampling and optimization strategies."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_0.md",
+    "comp_parts": [
+      2,
+      4
+    ],
+    "question": "What iterative training approach is utilized in paper 2 for enhancing instruction following and reward modeling ability, and how does it compare to the approach used in paper 4 for improving mathematical reasoning in small language models?",
+    "answer": "In paper 2, an Iterative DPO framework is used for self-rewarding models that improve instruction following and reward modeling, whereas paper 4 uses iterative preference learning with Direct Preference Optimization (DPO) and Kahneman-Tversky Optimization (KTO) to enhance SLMs' performance on math problems."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_17.md",
+    "comp_parts": [
+      0,
+      3
+    ],
+    "question": "How do WARM in paper 0 and Elastic Reset in paper 3 address the challenge of reward hacking differently in reinforcement learning from human feedback?",
+    "answer": "WARM in paper 0 uses weight averaging of multiple run-specific reward models to enhance reliability and robustness, whereas Elastic Reset in paper 3 leverages periodic resets of the LM to an exponential moving average state to mitigate language model drift and maintain alignment with rewards."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "Mind Medicine (MindMed) Inc..txt",
+    "comp_parts": [
+      2,
+      4
+    ],
+    "question": "What are the potential effects of regulatory changes on Mind Medicine's EU operations concerning data exclusivity and medical device regulations?",
+    "answer": "Regulatory changes in the EU, such as the proposal to reduce data exclusivity from eight to six years and the MDR governing medical devices, could affect Mind Medicine's product development timelines and compliance requirements, impacting their ability to market products efficiently in the EU."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_13.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "In paper 0 and paper 1, what are the respective taxonomies proposed for assessing risks and biases in large language model systems?",
+    "answer": "Paper 0 proposes a module-oriented risk taxonomy focused on the input, language model, toolchain, and output modules of LLM systems, while paper 1 categorizes research on LLM fairness into metrics, bias mitigation algorithms, and evaluation resources, specifying types like embedding-based and probability-based metrics."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_3.md",
+    "comp_parts": [
+      2,
+      3
+    ],
+    "question": "What are the differences between the scanpath sampling strategies used in paper 3 and the image compression methods proposed in paper 2?",
+    "answer": "Paper 3 uses a PID controller-based sampler for generating realistic scanpaths in panoramic video prediction, while paper 2 builds an end-to-end 360-degree image compression system utilizing pseudocylindrical representations and convolutions for optimized rate-distortion performance."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_14.md",
+    "comp_parts": [
+      0,
+      3
+    ],
+    "question": "In paper 0 and paper 3, how do the authors propose the utilization of code to enhance the capabilities of large language models (LLMs) as intelligent agents?",
+    "answer": "Paper 0 introduces CodeAct to consolidate LLM actions into executable code integrated with a Python interpreter for self-debugging and complex task-solving, while paper 3 emphasizes code's role in enhancing reasoning, execution, and feedback automation, facilitating LLMs to function as intelligent agents with structured task decomposition."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Anne Frank The Diary of a Young Girl.txt",
+    "comp_parts": [
+      2,
+      4
+    ],
+    "question": "How do Anne's feelings towards her own independence and maturity differ from her relationship with Peter?",
+    "answer": "Anne is aware of her growing independence and feels more mature than her peers, while her relationship with Peter provides her with comfort and emotional connection, balancing her desire for autonomy with the need for companionship."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_27.md",
+    "comp_parts": [
+      0,
+      4
+    ],
+    "question": "How do the approaches to enhancing multimodal learning in MM-LLMs (paper 0) and SoM-LLaVA (paper 4) differ in their handling of visual information to improve reasoning and understanding?",
+    "answer": "Paper 0 focuses on leveraging pre-trained components and integrating them through efficient parameter tuning, while paper 4 introduces the 'list items one by one' paradigm with labeled visual tags and demonstrates its effectiveness in reducing hallucinations and enhancing visual grounding."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_24.md",
+    "comp_parts": [
+      2,
+      3
+    ],
+    "question": "How do the authors of paper 2 and paper 3 view the current state and potential advantage of quantum machine learning in their respective studies?",
+    "answer": "While paper 2 suggests that classical benchmarks often outperform quantum models and quantumness may not be crucial, paper 3 acknowledges quantum reinforcement learning does not outperform classical methods but emphasizes potential in parameter efficiency and future hardware enhancements for practical database management applications."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_15.md",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "In what ways do the challenges identified in the implementation of RAG systems in paper 0 compare to the limitations of LLM-based CRS systems discussed in paper 2?",
+    "answer": "Both papers highlight the dependency on external inputs to improve system performance, with paper 0 identifying failure points when systems can't match the domain-specific retrieval needs, and paper 2 pointing out the necessity of external knowledge and goal guidance to enhance LLM-based CRS task accuracy."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "Paratek Pharmaceuticals Inc.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What are the factors affecting the commercialization success of NUZYRA in the U.S. as mentioned in the financial statements?",
+    "answer": "The success of NUZYRA's commercialization in the U.S. depends on securing starting materials, maintaining manufacturing arrangements, producing sufficient quantities, building sales and marketing capabilities, gaining product acceptance, obtaining sufficient reimbursement, and maintaining compliance with FDA requirements as mentioned in the financial statements."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Scarlet Letter.txt",
+    "comp_parts": [
+      0,
+      4
+    ],
+    "question": "How does Hester Prynne's relationship with the scarlet letter evolve from the beginning of the story to when she returns to New England?",
+    "answer": "Initially, Hester Prynne is ashamed of the scarlet letter and its public scorn, but over time, as she returns to New England by choice, it becomes a symbol of wisdom and penitence that she chooses to wear."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_14.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How do the frameworks CodeAct in paper 0 and Automatic Tool Chain in paper 1 differ in terms of handling tool integrations for LLMs?",
+    "answer": "CodeAct in paper 0 focuses on using executable Python code for integrating LLMs with existing software packages, leveraging pre-acquired programming knowledge, while Automatic Tool Chain in paper 1 emphasizes creating an automatic tool-use chain through programming and introduces a black-box probing method for expanding the toolset."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "Esperion Therapeutics Inc.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How much did Esperion's net product sales increase from 2022 to 2023, and how much did their collaboration revenue increase within the same period?",
+    "answer": "Esperion's net product sales increased from $55.9 million in 2022 to $78.3 million in 2023, while their collaboration revenue increased from $19.6 million in 2022 to $38.0 million in 2023."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_5.md",
+    "comp_parts": [
+      1,
+      4
+    ],
+    "question": "How do paper 1 and paper 4 employ language models for handling long-context tasks, and what are their primary methods for evaluating these capabilities?",
+    "answer": "Paper 1 introduces LLoVi, which uses short-term visual captioning and language model reasoning for long-range video question answering, while paper 4 presents RULER, a benchmark designed to evaluate long-context language models on tasks like retrieval, multi-hop tracing, and aggregation; both emphasize their evaluation strategies with paper 1 focusing on video-specific tasks and paper 4 on synthetic testing across diverse task types."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "A Room with a View.txt",
+    "comp_parts": [
+      1,
+      4
+    ],
+    "question": "How does Lucy's approach to relationships and personal freedom evolve over the narrative?",
+    "answer": "Initially, Lucy is indecisive and influenced by societal expectations, leading her to feel constrained in her engagement to Cecil, but she ultimately chooses personal freedom and love, as seen in her decision to break off the engagement and face her true feelings for George."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Picture of Dorian Gray.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How does Dorian Gray's initial reaction to his portrait reflect his personal transformation and influence by Lord Henry and Basil Hallward?",
+    "answer": "Dorian initially admires his portrait but becomes obsessed with his own beauty and the fear of aging after Lord Henry influences him, leading to his disdain for the static nature of the portrait, whereas Basil's admiration represents his unchanged idea of Dorian's pure character."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_13.md",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What common challenges in data privacy do paper 0 and paper 2 address in the context of large language model systems and supply chains?",
+    "answer": "Both papers address challenges in data privacy within large language models, with paper 0 focusing on privacy leakage during interactions and storage, and paper 2 emphasizing the need for privacy-preserving algorithms in the model's development and supply chains."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "MediaAlpha, Inc..txt",
+    "comp_parts": [
+      3,
+      4
+    ],
+    "question": "How did the decrease in P&C insurance revenue contribute to the overall decline in total revenue for the year ended December 31, 2023 compared to 2022?",
+    "answer": "The P&C insurance revenue decreased by $60.1 million in 2023, primarily due to reduced customer acquisition spending by P&C carriers, contributing significantly to the overall decline in total revenue by $70.9 million compared to 2022."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_3.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How do the neural network designs in paper 0 and paper 1 utilize differential operators differently?",
+    "answer": "Paper 0 uses parabolic, hyperbolic, and second-order differential operators to derive new stable CNN architectures, while paper 1 employs parameterized differential operators to create efficient CNNs on unstructured grids, showcasing distinct applications of differential operators in neural network design."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Sun Also Rises.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How does the relationship between Robert Cohn and Brett Ashley evolve from the beginning of the journey to Spain to their arrival in the Basque country?",
+    "answer": "Initially, Cohn is eager and nervous to see Brett, reflecting a hopeful and expectant attitude, but as the journey progresses, particularly after learning of her stay in San Sebastian with him, Cohn's position becomes awkward, and he is portrayed as being a source of jealousy and tension amongst the group."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_8.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How do papers 0 and 1 approach the challenge of integrating external and parametric knowledge sources in LLMs?",
+    "answer": "Paper 0 focuses on editing intrinsic knowledge within LLMs through knowledge editing methods, while paper 1 deconstructs knowledge fusion into scenarios and evaluates LLMs' ability to integrate external and parametric knowledge, emphasizing the challenges of knowledge retention and elicitation."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_12.md",
+    "comp_parts": [
+      0,
+      3
+    ],
+    "question": "How do paper 0 and paper 3 compare in their discussions of watermarking in large language models, particularly with respect to the challenges and solutions they propose?",
+    "answer": "Paper 0 discusses watermarking as a tool to mitigate improper uses and ethical concerns of LLMs, focusing on the need for systematic risk assessment, while paper 3 provides a statistical framework for evaluating watermarking performance, addressing challenges of detecting machine-generated text with statistical guarantees."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Souls of Black Folk.txt",
+    "comp_parts": [
+      1,
+      3
+    ],
+    "question": "What role does the educational and economic circumstance play in the situation of black people as presented?",
+    "answer": "In the context discussed, educational deprivation and economic exploitation together form a cycle that hinders black progress, as political disfranchisement limits access to resources that could break this cycle, causing a prevalence of poverty and reduced opportunities."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Persuasion.txt",
+    "comp_parts": [
+      2,
+      4
+    ],
+    "question": "How did Anne's perception of Mr. Elliot change after her conversation with Mrs. Smith, and how did this affect her future plans?",
+    "answer": "After learning from Mrs. Smith about Mr. Elliot's true character, Anne realized he was disingenuous and selfish, which allowed her to feel relieved from any tenderness or obligation towards him and focus on her relationship with Captain Wentworth."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_23.md",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "According to both paper 0 and paper 2, how does the Knowledge Neuron (KN) Thesis conceptualize the role of MLP weights in storing knowledge, and what are the differing views or limitations presented?",
+    "answer": "Paper 0 emphasizes the potential of MLP weights within LLMs to store knowledge akin to 'knowledge neurons,' supporting model editing, while paper 2 critiques this thesis, arguing that MLP weights merely store 'token expression patterns' rather than true knowledge, undermining the robustness and conceptual clarity of the KN Thesis."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_1.md",
+    "comp_parts": [
+      1,
+      3
+    ],
+    "question": "How do the synthetic corruption methods in paper 3 inform data pruning techniques compared to the Direct Preference Optimization methods used in paper 1 for human image synthesis?",
+    "answer": "Paper 3 uses synthetic corruption to identify dataset weaknesses by moving embeddings to smaller clusters or further from centroids, facilitating efficient low-quality data pruning, while paper 1 employs Direct Preference Optimization to align image outputs with human preferences, focusing on semantic differences between winning and losing samples for improving image fidelity."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "C.H. ROBINSON WORLDWIDE, INC..txt",
+    "comp_parts": [
+      4,
+      5
+    ],
+    "question": "What was the percentage change in the net property and equipment values for C.H. Robinson Worldwide, Inc. between December 31, 2022, and December 31, 2023?",
+    "answer": "The net property and equipment values decreased by approximately 9.2% from $159,432,000 on December 31, 2022, to $144,718,000 on December 31, 2023."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "3D Systems Corp..txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What were the main factors contributing to the decline in gross profit for 3D Systems Corporation in the year ended December 31, 2022, as compared to 2021?",
+    "answer": "The decline in gross profit for 3D Systems Corporation in 2022 compared to 2021 was primarily due to divestitures, lower sales volumes in the dental market, and inflationary cost pressures, as indicated by the financial data provided."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Anne of Green Gables.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How do Anne and Marilla's perceptions of each other evolve during their time at Green Gables?",
+    "answer": "Initially, Marilla views Anne as a troublesome responsibility, while Anne sees Marilla as strict and unsympathetic; however, over time, Marilla develops a deep affection for Anne, and Anne learns to appreciate Marilla's care and guidance."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_21.md",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How do the compression methods in paper 0 and paper 2 address the challenge of maintaining performance while significantly reducing model size?",
+    "answer": "In paper 0, AQLM employs MultiCodebook Quantization with additive quantization to compress weights below 3 bits per parameter, optimizing codebooks across entire layer blocks, whereas in paper 2, CALDERA uses a low-rank, low-precision decomposition to approximate weight matrices and enhances zero-shot performance using low-rank factors amenable to further fine-tuning."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_16.md",
+    "comp_parts": [
+      1,
+      3
+    ],
+    "question": "How do the diagnostic systems in paper 1 and the multilingual language models in paper 3 compare in their handling of multilingual data?",
+    "answer": "Paper 1 focuses on enhancing diagnostic accuracy and accessibility using language models with planners on medical dialogues in a monolingual English context, while paper 3 evaluates multilingual performance using 83 languages, highlighting gaps in language support and contamination issues in multilingual datasets."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_25.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How does the anomaly detection model proposed in paper 0 compare to those surveyed in paper 1 in terms of handling data scarcity and domain adaptation challenges?",
+    "answer": "The DACAD model in paper 0 specifically addresses data scarcity and domain adaptation by using contrastive learning and synthetic anomaly injection, while paper 1 surveys various deep learning models, highlighting their limitations in these aspects without proposing specific solutions."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Secret Garden.txt",
+    "comp_parts": [
+      2,
+      4
+    ],
+    "question": "How does Mary and Colin's interaction in the secret garden influence their personal transformations and attitudes towards life?",
+    "answer": "Mary's discovery of the secret garden leads to her friendship with Colin, where their time spent together in the garden helps both children heal physically and emotionally, transforming them into healthier, happier, and more confident individuals."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Frankenstein; Or, The Modern Prometheus.txt",
+    "comp_parts": [
+      0,
+      4
+    ],
+    "question": "What motivates both the protagonist in 'Frankenstein' and the explorer Walton in their respective pursuits?",
+    "answer": "Both are driven by an insatiable quest for knowledge and discovery; Walton seeks to explore uncharted territories for glory and advancement, while Victor Frankenstein's ambition leads him to create life, resulting in consequences he did not foresee."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_4.md",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How do the approaches for bias mitigation in generative models described in paper 0 and paper 2 differ in terms of their implementation and objectives?",
+    "answer": "Paper 0 presents TabFairGAN, which uses a fairness constraint in a Wasserstein GAN to generate unbiased tabular data, focusing on demographic parity, while paper 2 surveys debiasing methods across multiple domains, proposing a taxonomy including generative methods like GANs to mitigate biases, primarily in vision and language tasks."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Catcher in the Rye.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How does Holden Caulfield's attitude towards aggression and confrontation manifest in his interactions with others throughout the text?",
+    "answer": "Holden exhibits aversion to physical aggression both in his reluctant confrontation with Stradlater and Maurice, demonstrating a tendency to avoid direct conflict despite his internal frustration and insults towards others."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_2.md",
+    "comp_parts": [
+      3,
+      4
+    ],
+    "question": "How do the GECToR presented in paper 3 and STAR benchmark introduced in paper 4 approach the task of improving or evaluating machine reasoning capabilities?",
+    "answer": "GECToR in paper 3 focuses on improving grammatical error correction using a sequence tagging system for real-world language processing, while the STAR benchmark in paper 4 evaluates situated reasoning in real-world videos by combining situation abstraction with logical reasoning tasks."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_9.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How do paper 0 and paper 1 address the issue of bias in large language models?",
+    "answer": "Paper 0 outlines a taxonomy of ethical and social risks, emphasizing the mitigation of bias in training data and evaluation, whereas paper 1 conducts a study on gender, ethnicity, and religion bias, recognizing the need for anti-bias countermeasures in model deployment."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_4.md",
+    "comp_parts": [
+      0,
+      3
+    ],
+    "question": "How do the debiasing strategies compare between the generative approach in paper 0 and the machine unlearning-based strategy in paper 3?",
+    "answer": "Paper 0 employs a generative adversarial network to create unbiased datasets while maintaining demographic parity, whereas paper 3 utilizes a machine unlearning-based strategy to remove biases by identifying and unlearning harmful samples using a counterfactual dataset."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Sun Also Rises.txt",
+    "comp_parts": [
+      1,
+      4
+    ],
+    "question": "How does Brett's interaction with different male characters in the book reveal her relationships and emotional complexities?",
+    "answer": "Brett's relationship with Jake shows deep, unresolved love and complexity, while her interactions with Cohn and Romero display a pattern of emotional entanglements and the resulting troubles."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Wonderful Wizard.txt",
+    "comp_parts": [
+      0,
+      3
+    ],
+    "question": "What event marks the beginning of Dorothy's journey in 'The Wonderful Wizard of Oz', and how does this journey ultimately resolve in terms of freeing the characters and fulfilling their desires?",
+    "answer": "Dorothy's journey begins with her house being carried away by a cyclone to the Land of Oz, and it resolves with her melting the Wicked Witch of the West, freeing her friends and fulfilling their desires through the Wizard's symbolic gifts, although he is revealed to be a fraud."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Anne of Green Gables.txt",
+    "comp_parts": [
+      3,
+      4
+    ],
+    "question": "What positive impact does Anne have on Marilla according to both book segments?",
+    "answer": "Anne's presence brings joy, comfort, and love into Marilla's life, making her a better and happier person despite her stern disposition."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_21.md",
+    "comp_parts": [
+      1,
+      4
+    ],
+    "question": "How do paper 1 and paper 4 differ in their approach to reducing memory requirements for large-language model training and inference?",
+    "answer": "Paper 1 focuses on reducing memory usage during training by using low-rank adapters and quantization with the LoQT method, whereas paper 4 addresses the issue by compressing mixture-of-experts architectures using the QMoE framework to facilitate efficient inference with sub-1-bit compression."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Anne Frank The Diary of a Young Girl.txt",
+    "comp_parts": [
+      2,
+      3
+    ],
+    "question": "How does Anne Frank's perception of solitude and loneliness change as reflected in her relationships with Peter, in contrast to her feelings of isolation from her family?",
+    "answer": "Anne initially feels isolated within her family and longs for a deeper connection, but as her relationship with Peter develops, she finds companionship and understanding in him, offering her a sense of relief and connection that she craves."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_6.md",
+    "comp_parts": [
+      3,
+      4
+    ],
+    "question": "How do the techniques proposed in paper 3 and paper 4 address the distinct phases of LLM inference to improve performance and reduce interference?",
+    "answer": "Paper 3 introduces Splitwise, which splits LLM inference into prompt and token generation phases to optimize resource allocation and improve throughput, while paper 4 presents TetriInfer, which disaggregates prefill and decode phases to handle interference using specialized scheduling and resource prediction."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Unbearable Lightness of Being.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How do Tomas's and Tereza's views on the weight of actions and experiences differ as illustrated in their respective reflections on love and infidelity?",
+    "answer": "Tomas views love and sexuality as separate and pursues infidelities lightly, seeking freedom from emotional weight, whereas Tereza seeks a unique and binding connection through fidelity, viewing infidelities as a betrayal that threaten the foundation of her relationship with Tomas."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "EXACT SCIENCES CORPORATION.txt",
+    "comp_parts": [
+      1,
+      3
+    ],
+    "question": "How did Exact Sciences Corporation’s cash and cash equivalents at the end of 2023 compare with their amount at the beginning of the year, and what was the cause of this change based on their cash flow activities?",
+    "answer": "Exact Sciences Corporation's cash and cash equivalents increased from $242.5 million at the beginning of 2023 to $605.4 million by the end of the year, driven by positive net cash provided by operating activities and an increase in net cash provided by financing activities, including proceeds from the issuance of convertible notes."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_28.md",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How do the approaches to studying substitutability in correspondence in paper 0 and paper 2 differ?",
+    "answer": "Paper 0 investigates the role of water as a radiation protection agent in ionized pyrrole through experimental observation of hydrogen-bonded water molecules, while paper 2 introduces a notion of substitutability for correspondences, or unified gross substitutes, to study monotone comparative statics in equilibrium problems."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_2.md",
+    "comp_parts": [
+      1,
+      4
+    ],
+    "question": "How do the benchmarks for evaluating reasoning in NLP tasks differ between paper 1 and paper 4?",
+    "answer": "Paper 1 presents a benchmark focused on evaluating NLP tasks through a unified text-to-text transformer model across various tasks like summarization and translation, while paper 4 introduces the STAR benchmark to evaluate situated reasoning in real-world videos, emphasizing human-object interaction, temporal sequence analysis, action prediction, and feasibility."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "C.H. ROBINSON WORLDWIDE, INC..txt",
+    "comp_parts": [
+      1,
+      3
+    ],
+    "question": "What were the primary factors affecting C.H. Robinson's financial performance in 2023 as indicated in the financial statements?",
+    "answer": "C.H. Robinson's financial performance in 2023 was primarily affected by weak freight demand and excess carrier capacity leading to reduced net income and operating cash flow, alongside declines in transportation rates."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "2U, Inc..txt",
+    "comp_parts": [
+      3,
+      5
+    ],
+    "question": "How did the adjusted EBITDA change from 2022 to 2023 for both the Degree Program Segment and the Alternative Credential Segment?",
+    "answer": "The adjusted EBITDA for the Degree Program Segment increased by $34 million from $180.7 million in 2022 to $214.7 million in 2023, while the Alternative Credential Segment's negative adjusted EBITDA improved by $11.7 million from -$55.6 million in 2022 to -$43.9 million in 2023."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_0.md",
+    "comp_parts": [
+      2,
+      3
+    ],
+    "question": "In paper 2 and paper 3, how do the approaches differ in handling the scarcity and cost of preference data for aligning large language models with human feedback?",
+    "answer": "Paper 2 introduces a self-rewarding mechanism where the model evaluates and improves its own responses using AI feedback, while paper 3's Kahneman-Tversky Optimization uses a binary signal of desirability, making it less reliant on preference data."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "Block, Inc..txt",
+    "comp_parts": [
+      2,
+      4
+    ],
+    "question": "How much interest income did Block, Inc. earn from customer funds in 2023, and how did it compare to the previous years?",
+    "answer": "In 2023, Block, Inc. earned $153.5 million in interest income from customer funds, which was immaterial in both 2022 and 2021."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "Tesla, Inc..txt",
+    "comp_parts": [
+      3,
+      5
+    ],
+    "question": "How did Tesla's short-term investments and inventory change from December 31, 2022, to December 31, 2023?",
+    "answer": "Tesla's short-term investments increased from $5,932 million in 2022 to $12,696 million in 2023, while inventory increased from $12,839 million in 2022 to $13,626 million in 2023."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "3D Systems Corp..txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did the operating income for Healthcare Solutions and Industrial Solutions segments change from 2021 to 2022?",
+    "answer": "The operating income for Healthcare Solutions decreased by $43.5 million from $69.4 million in 2021 to $25.9 million in 2022, while for Industrial Solutions it decreased by $25.7 million from $48.6 million in 2021 to $22.8 million in 2022."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Unbearable Lightness of Being.txt",
+    "comp_parts": [
+      2,
+      3
+    ],
+    "question": "How do Tereza's feelings of inadequacy and her relationship dynamics with Tomas illustrate the concept of 'Es muss sein!' in both texts?",
+    "answer": "Tereza's feelings of inadequacy and her perception of Tomas's infidelities highlight the weighty, almost inescapable mandate of 'Es muss sein!' as a representation of her struggles with identity and love, while Tomas's reflections on his choices and his professional sacrifices depict 'Es muss sein!' as an internal imperative that drives his existential decisions and his eventual search for a lighter, more liberated existence."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Enchanted April.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How do Mrs. Wilkins and Mrs. Arbuthnot each react to the prospect of inviting their husbands to San Salvatore?",
+    "answer": "Mrs. Wilkins is enthusiastic and invites her husband Mellersh despite initial misgivings, while Mrs. Arbuthnot is hesitant and conflicted about inviting Frederick due to their longstanding estrangement and her doubts about his interest."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "EXACT SCIENCES CORPORATION.txt",
+    "comp_parts": [
+      2,
+      5
+    ],
+    "question": "What was the total stock-based compensation expense for Exact Sciences Corporation for the year ended December 31, 2023, and how does it compare to the unrecognized compensation cost related to non-vested stock-based compensation arrangements as of the same date?",
+    "answer": "The total stock-based compensation expense for Exact Sciences Corporation for the year ended December 31, 2023, was $231.3 million, while the expected total unrecognized compensation cost related to non-vested stock-based compensation arrangements was approximately $354.8 million."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_0.md",
+    "comp_parts": [
+      0,
+      4
+    ],
+    "question": "How do the TinyGSM approach in paper 0 and the Orca-Math method in paper 4 differ in terms of dataset size and model performance on the GSM8K benchmark?",
+    "answer": "TinyGSM in paper 0 uses a larger synthetic dataset of 12.3M problems achieving 81.5% accuracy on GSM8K, whereas Orca-Math in paper 4 uses a smaller dataset of 200K problems but attains a higher accuracy of 86.81% on the same benchmark."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "NVIDIA Corporation.txt",
+    "comp_parts": [
+      1,
+      5
+    ],
+    "question": "What was the change in NVIDIA's net income from January 29, 2023, to January 28, 2024, and how does this compare to the change in revenue for the same period?",
+    "answer": "NVIDIA's net income increased from $4.37 billion on January 29, 2023, to $29.76 billion on January 28, 2024, while revenue increased from $26.97 billion to $60.92 billion during the same period."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Brave New World.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How do Lenina and Bernard's views on the social order and individual freedom differ based on their experiences in the Reservation and their reflections afterwards?",
+    "answer": "Lenina expresses disgust at the Reservation's conditions and prefers conformity to the World State's norms, while Bernard is critical of the World State's conformity and questions the lack of individual freedom, longing for personal uniqueness and deeper human emotions."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Hound of the Baskervilles.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "What character traits of Dr. Mortimer are revealed through his interactions with Holmes and Watson?",
+    "answer": "Dr. Mortimer is portrayed as curious and somewhat nervous; he respects Holmes' expertise and seeks his assistance in the matter, showing his reliance on detective skills despite his scientific background."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Nineteen Eighty Four.txt",
+    "comp_parts": [
+      0,
+      3
+    ],
+    "question": "What is the role of doublethink in controlling the population according to both texts?",
+    "answer": "Doublethink enables the Party to control the population by making members accept contradictory beliefs, ensuring the regime's stability and the denial of reality to maintain power."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_29.md",
+    "comp_parts": [
+      1,
+      3
+    ],
+    "question": "What methods do paper 1 and paper 3 propose for enhancing multilingual capabilities in LLMs, and how do their approaches differ?",
+    "answer": "Paper 1 suggests using question translation data without annotated answers to improve multilingual alignment, while paper 3 enhances Chinese language capabilities by expanding vocabulary and incorporating specific Chinese datasets for LLMs."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_9.md",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How do the risk management strategies proposed in paper 0 for language models compare to the memory management strategies in paper 2 for reducing costs in data centers?",
+    "answer": "Paper 0 emphasizes structuring risks with mitigation using participatory, social, and technical methods to improve inclusivity and fairness in language models while paper 2 introduces TierScape's multi-tiered memory management with software-defined tiers to reduce TCO by balancing performance and cost efficiency."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_11.md",
+    "comp_parts": [
+      0,
+      4
+    ],
+    "question": "How do the treatments of X-ray Thomson Scattering (XRTS) and the use of imaginary-time correlations differ between paper 0 and paper 4?",
+    "answer": "Paper 0 focuses on modeling free-bound transitions in XRTS to improve the accuracy of warm dense matter state diagnostics, while paper 4 emphasizes the use of imaginary-time correlation functions to derive Matsubara frequency corrections in electron gases."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_15.md",
+    "comp_parts": [
+      1,
+      4
+    ],
+    "question": "How do the retrieval-augmented models in paper 1 and paper 4 address the challenge of dealing with noisy information in external documents?",
+    "answer": "Paper 1's ADAPT-LLM model improves its performance dynamically by determining when to retrieve additional context, thereby handling noise by only retrieving when necessary, whereas paper 4 identifies noise robustness as one of the fundamental abilities, finding that current LLMs are still significantly challenged by noise in Retrieval-Augmented Generation benchmarks."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_16.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How do the diagnostic systems proposed in paper 0 and paper 1 differ in their approach to improving AI-driven disease diagnosis?",
+    "answer": "Paper 0 introduces AMIE, a conversational AI optimized with a self-play environment for diagnostic dialogue, while paper 1 proposes a system using external planners to enhance large language models' planning abilities for proactive information gathering and differential diagnosis."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Adventures of Tom Sawyer.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How does Tom Sawyer's relationship with Aunt Polly and Huckleberry Finn reflect the duality of his life in terms of discipline and freedom?",
+    "answer": "Tom Sawyer's relationship with Aunt Polly highlights his efforts to avoid discipline, contrasting with his friendship with Huckleberry Finn, which offers him the freedom and adventure he craves."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Souls of Black Folk.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "What role does education play in the aspirations for African American progress according to Du Bois, as seen in both the challenges following Emancipation and in Booker T. Washington's approach?",
+    "answer": "Du Bois highlights the necessity of higher education to solve deep-seated racial inequalities and train black leaders, while Booker T. Washington emphasizes industrial education and economic self-reliance as paths to progress, reflecting differing views on the best approach to African American advancement."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_17.md",
+    "comp_parts": [
+      2,
+      4
+    ],
+    "question": "How do paper 2 and paper 4 address the issue of incentive alignment in the context of reward models for language model fine-tuning?",
+    "answer": "Paper 2 focuses on designing DSIC mechanisms with payment schemes to promote truthful reporting of preferences during LLM fine-tuning, while paper 4 investigates reward model ensembles as a means to mitigate reward hacking, highlighting the limitations of ensembles without addressing incentives directly."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Enchanted April.txt",
+    "comp_parts": [
+      2,
+      4
+    ],
+    "question": "How do both Lady Caroline and Mrs. Fisher's attitudes evolve throughout their stay at San Salvatore?",
+    "answer": "Lady Caroline's initial desire for solitude gives way to a feeling of gratitude towards the place and fellow guests, while Mrs. Fisher transforms from being reserved and stern to becoming more open and amicable, ultimately enjoying herself and engaging with others."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_28.md",
+    "comp_parts": [
+      0,
+      3
+    ],
+    "question": "How do the mechanisms for reducing damage in pyrrole(H2O) described in paper 0 relate to the concept of substitutability in equilibrium transport models discussed in paper 3?",
+    "answer": "In paper 0, water acts as a protective agent by allowing alternative pathways for dissociation, while in paper 3, substitutability refers to the reallocation of supply and demand in response to price changes, highlighting adaptability as a key concept in both contexts."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_19.md",
+    "comp_parts": [
+      2,
+      3
+    ],
+    "question": "What are the key differences in knowledge editing approaches between paper 2 and paper 3 in terms of architecture and generalization?",
+    "answer": "Paper 2 focuses on uncovering knowledge circuits within language models using computation graphs, while paper 3 introduces MEMoE, which uses a Mixture of Experts architecture with knowledge anchor routing to enhance editing generalization without changing the original model parameters."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Secret Garden.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "In what ways do Martha and Mary Lennox's interactions reflect their understanding of each other's backgrounds?",
+    "answer": "Mary and Martha's interactions reveal a cultural and social divide, with Mary coming from a privileged background in India expecting to be served, while Martha, from a working-class Yorkshire family, is more independent and direct, leading to moments where Mary is surprised by Martha's manner and suggestions."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Picture of Dorian Gray.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What are the different reactions of Dorian Gray to Sibyl Vane's death before and after learning about it?",
+    "answer": "Initially, Dorian resolves to marry Sibyl as a way of making amends, but after learning of her death, he exhibits a detached and aesthetic view of the tragedy, perceiving it as a dramatic event rather than a personal loss."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_26.md",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How do the evaluation strategies for translation in paper 0 and paper 2 differ in their approach and focus?",
+    "answer": "Paper 0 uses metrics like $s$ BLEU, $d$ BLEU, and COMET for translation quality evaluation, while paper 2 employs Monolingual Human Preference (MHP) and Bilingual LLM Preference (BLP) that focus on human and LLM evaluator preferences without relying on reference translations."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_4.md",
+    "comp_parts": [
+      2,
+      4
+    ],
+    "question": "How do the debiasing evaluation metrics in paper 2 and paper 4 differ in terms of addressing fairness in neural networks and large language models?",
+    "answer": "Paper 2 primarily discusses fairness evaluation metrics such as Demographic Parity and Equality of Opportunity for neural models, while paper 4 introduces the BiasKE benchmark with metrics like Stereotype Score (SS), Paraphrase Stereotype Score (PS), and Differentiation Score (DS) to assess debiasing in large language models."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "A Room with a View.txt",
+    "comp_parts": [
+      3,
+      4
+    ],
+    "question": "How does Lucy's decision to end her engagement with Cecil differ from her response to Mr. Emerson's encouragement about her feelings for George?",
+    "answer": "Lucy ends her engagement with Cecil citing incompatibility and his desire to mold her, while Mr. Emerson's encouragement prompts her to confront her genuine feelings for George, highlighting her internal struggle between societal expectations and personal desires."
+  }
+]

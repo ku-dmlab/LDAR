@@ -1,0 +1,1442 @@
+[
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-ExchangeRight Income Fund-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What was the change in total assets and total liabilities for ExchangeRight Income Fund from December 31, 2023, to March 31, 2024?",
+    "answer": "From December 31, 2023, to March 31, 2024, total assets decreased from $1,171,540,000 to $1,166,321,000, and total liabilities increased from $634,498,000 to $638,742,000."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "A Christmas Carol.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What distinguishes Scrooge's initial attitude towards Christmas from his nephew Fred's view of the holiday?",
+    "answer": "Scrooge initially views Christmas with disdain, considering it a time for paying bills and lacking profit, while his nephew Fred sees it as a positive, joyful time when people are more generous and connect with others."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Little Prince.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "What character traits differentiate the little prince's relationship with the flower from his encounters with grown-ups on the different planets?",
+    "answer": "The little prince's relationship with the flower is marked by affection and misunderstanding, as he realizes the flower's fragility and inconsistency, whereas his encounters with grown-ups reveal their self-centered and nonsensical behavior, lacking genuine connection or understanding."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Death of Ivan Ilich.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How does the theme of deception affect Ivan Ilych's relationship with his family and Gerasim?",
+    "answer": "The theme of deception creates a barrier between Ivan Ilych and his family, who pretend he is simply ill rather than dying, in contrast to Gerasim's honest recognition of Ivan's condition and his comforting presence."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "32k",
+    "file": "32k_paper_4.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How do the implementation strategies for finite difference methods in seismic modeling differ between paper 0 and paper 1?",
+    "answer": "Paper 0 describes the use of the Minimod suite implementing seismic modeling with finite difference methods optimized for various HPC platforms using OpenMP and OpenACC, while paper 1 presents a novel algorithm on the WSE-2 architecture, leveraging localized communication to make the computation compute-bound rather than memory-bound."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Cepton, Inc.-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How did the net loss for Cepton, Inc. change from the three months ended March 31, 2023, to the three months ended March 31, 2024?",
+    "answer": "The net loss for Cepton, Inc. decreased from $14,742,000 for the three months ended March 31, 2023, to $6,833,000 for the same period in 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-CISO Global, Inc.-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did the total current assets and total current liabilities change for CISO Global, Inc. from December 31, 2023, to March 31, 2024?",
+    "answer": "CISO Global's total current assets decreased from $10,957,814 on December 31, 2023, to $9,276,063 on March 31, 2024, while total current liabilities increased from $26,071,102 to $32,604,126 in the same period."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "32k",
+    "file": "32k_paper_1.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How do the automatic evaluation results of contrastive decoding (CD) in paper 0 compare to those of contrastive search (CS) in paper 1 with respect to the MAUVE and coherence metrics?",
+    "answer": "In paper 0, contrastive decoding (CD) achieves the best MAUVE scores across evaluated benchmarks, whereas in paper 1, contrastive search (CS) obtains higher coherence scores but lags behind CD in MAUVE scores."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "Metamorphosis.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What are the differences in Gregor Samsa's relationship with his family and their perception of him before and after his transformation?",
+    "answer": "Before his transformation, Gregor was the sole provider and was respected, but after his transformation, his family becomes increasingly alienated, perceiving him as a burden and ultimately wishing to get rid of him."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Cepton, Inc.-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did Cepton, Inc.'s net loss change from the first quarter of 2023 to the first quarter of 2024?",
+    "answer": "Cepton, Inc.'s net loss decreased from $14,742,000 in the first quarter of 2023 to $6,833,000 in the first quarter of 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Can B Corp-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What was the change in the estimated fair value of the Company’s intangible assets from December 31, 2023, to March 31, 2024?",
+    "answer": "The estimated fair value of the Company's intangible assets decreased from $119,998 as of December 31, 2023, to $3,416 as of March 31, 2024."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "32k",
+    "file": "32k_paper_17.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How do paper 0 and paper 1 compare in their approaches to incorporating additional data for model improvement in customer behavior prediction?",
+    "answer": "Paper 0 enhances model performance by integrating LSTM probabilities derived from sequential data with static features, while paper 1 improves prediction accuracy by using multimodal deep learning combining text and demographic data to address consumer heterogeneity."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Time Machine.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What is the Time Traveller's understanding of time as a dimension and how does he utilize this understanding to build his invention?",
+    "answer": "The Time Traveller explains time as a fourth dimension comparable to space, where consciousness typically moves in one direction, and he uses this concept to create a machine that can travel through time, freely moving forward and backward."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-China Foods Holdings Ltd.-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How did the net loss change for the company from the three months ended March 31, 2023, to the three months ended March 31, 2024?",
+    "answer": "The net loss decreased from $107,871 for the three months ended March 31, 2023, to $61,661 for the same period in 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-HCW Biologics Inc.-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What was the reason for the substantial increase in general and administrative expenses for the three months ended March 31, 2024, compared to the same period in 2023?",
+    "answer": "The substantial increase in general and administrative expenses, totaling $2.9 million or 92%, was primarily due to an increase in professional fees related to legal actions, particularly those associated with the proceedings brought against the Company by Altor/NantCell, as detailed in both segments of the financial statements."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-FOCUS UNIVERSAL INC.-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did the revenue composition of Focus Universal Inc. change between IoT Products and IoT Installation Services from the three months ended March 31, 2023, to March 31, 2024?",
+    "answer": "The revenue from IoT Products increased significantly from $13,281 in 2023 to $179,505 in 2024, while the revenue from IoT Installation Services decreased from $222,814 in 2023 to $39,653 in 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-HIGH WIRE NETWORKS, INC.-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What was the change in the total operating lease liabilities for High Wire Networks, Inc. from December 31, 2023 to March 31, 2024, and what could this indicate about their lease agreements?",
+    "answer": "The total operating lease liabilities decreased from $280,307 on December 31, 2023, to $256,219 on March 31, 2024, indicating a reduction in lease obligations, potentially due to payments made towards the leases."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "THE GOLD-BUG.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What role does the golden scarabæus play in influencing Legrand's actions and decisions throughout the story?",
+    "answer": "Legrand becomes obsessed with the golden scarabæus, believing it holds the key to great treasure and prompting him to embark on a mysterious and dangerous expedition, convinced of its significance despite skepticism from others."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "32k",
+    "file": "32k_paper_13.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How do the methods for human feedback optimization in KTO from paper 0 and InsCP from paper 1 vary in their approach to aligning language models with human preferences?",
+    "answer": "KTO in paper 0 uses a binary signal to optimize model utility with a focus on cognitive biases, while InsCP in paper 1 integrates instruction tags during continual pre-training to maintain conversational proficiency and avoid losing RLHF capabilities."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Old Man and The Sea.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What are the old man's feelings towards the fish before and after the struggle?",
+    "answer": "Before the struggle, the old man respects and admires the fish, viewing it as a worthy opponent; after the struggle, despite feeling sorrow for its death, he sees the fish as a brother and laments its loss but knows it is not a defeat."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-China Foods Holdings Ltd.-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How did the net cash used in operating activities for China Foods Holdings Ltd. change from the three months ended March 31, 2023, to the three months ended March 31, 2024?",
+    "answer": "The net cash used in operating activities decreased from $75,450 for the three months ended March 31, 2023, to $49,186 for the three months ended March 31, 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Fathom Digital Manufacturing Corp-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What were the gross profits for Fathom Digital Manufacturing Corporation for the first quarter of 2024 and how did they compare to the first quarter of 2023?",
+    "answer": "The gross profit for the first quarter of 2024 was $7,966, which was lower than the $10,997 gross profit recorded in the first quarter of 2023, reflecting a decrease in gross profit margin from 31.4% to 27.3%."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-GIVEMEPOWER CORP-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What was the increase in long-term loans obligation from related parties for GiveMePower Corporation from December 31, 2023, to March 31, 2024?",
+    "answer": "The long-term loans obligation from related parties increased by $651 from $237,903 on December 31, 2023, to $238,553 on March 31, 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Global Gas Corp-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How did Global Gas Corporation's cash position change from December 31, 2023, to March 31, 2024, and what were the key factors contributing to this change?",
+    "answer": "Global Gas Corporation's cash position increased from $62,362 as of December 31, 2023, to $286,522 as of March 31, 2024, mainly due to net cash provided by investing activities amounting to $1,128,532 and a forward purchase agreement adding $125,000 in financing activities."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "32k",
+    "file": "32k_paper_2.md",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How do the query expansion methods in paper 0 and the dictionary expansion techniques in paper 2 differ in their treatment of semantic similarity?",
+    "answer": "Paper 0 utilizes large language models to generate pseudo-documents for expanding queries, relying on the models' training on web-scale text corpora for semantic similarity, while paper 2 uses a local graph-based approach with manifold learning and network science to explore semantic similarity through paths of word associations in a constructed semantic network."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "THE UNPARALLELED ADVENTURES OF ONE HANS PFAAL.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "What is the reaction of the citizens of Rotterdam to the emergence of the mysterious balloon in the sky compared to the narrator's own response to being at a high altitude in the balloon?",
+    "answer": "The citizens of Rotterdam react with excitement and confusion at the appearance of the balloon, whereas the narrator, while initially experiencing significant physical distress and fear at high altitude, eventually feels a sense of calm and reflects on his bold attempt to reach the moon."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "32k",
+    "file": "32k_paper_0.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How do papers 0 and 1 differ in their application of LSTM and its variants in the context of their respective domains?",
+    "answer": "Paper 0 applies a semantically controlled LSTM for natural language generation in spoken dialogue systems, while Paper 1 uses GRU, a variant of LSTM, integrated with SVM for binary intrusion detection in network traffic data."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Brand Engagement Network Inc.-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did Brand Engagement Network Inc.'s net loss for the three months ended March 31, 2024, compare to the same period in 2023?",
+    "answer": "The net loss for the three months ended March 31, 2024, was $6,884,409, which was $4,246,453 higher than the net loss of $2,637,956 for the same period in 2023."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "32k",
+    "file": "32k_paper_14.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How do the strategies for handling language tokenization challenges differ between paper 0 and paper 1 when adapting English-dominant LLMs to non-English languages?",
+    "answer": "Paper 0 suggests that vocabulary extension for language adaptation is unnecessary and presents efficient transfer with limited pretraining data, while paper 1 emphasizes reconstructing the tokenizer and vocabulary tailored for the Russian language to reduce computational inefficiency."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-CISO Global, Inc.-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How did the current liabilities and working capital deficit of CISO Global, Inc. change from December 31, 2023, to March 31, 2024?",
+    "answer": "CISO Global, Inc.'s current liabilities increased from $26,071,102 to $32,604,126, and the working capital deficit widened from $15,113,288 to $23,328,063."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Blue Star Foods Corp.-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How did the cash flow from operating activities for the company change between the first quarters of 2023 and 2024?",
+    "answer": "Cash used in operating activities decreased from $1,406,778 in the first quarter of 2023 to $679,928 in the first quarter of 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Blue Star Foods Corp.-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "What change occurred in the inventory allowance from December 31, 2023, to March 31, 2024?",
+    "answer": "The inventory allowance increased from $176,000 on December 31, 2023, to $336,049 on March 31, 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Chosen, Inc.-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How did The Chosen, Inc.'s net income (loss) change from the first quarter of 2023 to the same period in 2024?",
+    "answer": "The Chosen, Inc.'s net income changed from a profit of $3,516 thousand in the first quarter of 2023 to a loss of $21,655 thousand in the same period of 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-HCW Biologics Inc.-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did HCW Biologics Inc.'s operating expenses impact its net loss from the three months ended March 31, 2023, to the three months ended March 31, 2024?",
+    "answer": "Operating expenses increased by $2,735,307, contributing to a net loss increase of $2,397,375 from $5,070,686 in 2023 to $7,468,061 in 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-CalEthos, Inc.-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "What is the increase in total assets and accumulated deficit for CalEthos, Inc. from December 31, 2023, to March 31, 2024?",
+    "answer": "CalEthos, Inc.'s total assets increased by $997,000 from $2,580,000 to $3,577,000, and the accumulated deficit increased by $7,014,000 from $19,280,000 to $26,294,000 during this period."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Can B Corp-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "What was the change in total assets for Can B Corp. from December 31, 2023, to March 31, 2024, and how did it affect their going concern status?",
+    "answer": "Can B Corp.'s total assets decreased from $10,126,164 on December 31, 2023, to $5,322,259 on March 31, 2024, contributing to a negative working capital of $6,165,773 and raising substantial doubt about their ability to continue as a going concern."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-EQUUS TOTAL RETURN, INC.-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How did the fair value of the control investment in Morgan E&P, LLC change from December 31, 2023, to March 31, 2024, and what transactions significantly influenced this change?",
+    "answer": "The fair value of the control investment in Morgan E&P, LLC decreased from $30,853,000 on December 31, 2023, to $31,750,000 on March 31, 2024, significantly influenced by an additional $2.2 million follow-on debt investment."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-CFN Enterprises Inc.-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did the total assets and liabilities for CFN Enterprises Inc. change from December 31, 2023, to March 31, 2024?",
+    "answer": "Total assets increased from $5,459,232 to $6,063,561, and total liabilities increased from $18,890,238 to $20,131,138 for CFN Enterprises Inc. from December 31, 2023, to March 31, 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-DecisionPoint Systems, Inc.-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How did the net income and net sales change for DecisionPoint Systems, Inc. in the first quarter of 2024 compared to the first quarter of 2023?",
+    "answer": "In the first quarter of 2024, DecisionPoint Systems, Inc. reported a net loss of $0.8 million compared to a net income of $0.9 million in 2023, while net sales decreased by $1.4 million, or 5.3%, from $27,039,000 in 2023 to $25,618,000 in 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-ExchangeRight Income Fund-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What is the weighted average effective interest rate of the fixed-rate mortgage loans payable as of March 31, 2024, and how does it compare to the range of individual interest rates for these loans?",
+    "answer": "The weighted average effective interest rate on mortgage loans payable was 5.02% as of March 31, 2024, while individual interest rates for the fixed-rate mortgages range from 3.13% to 6.12%."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "32k",
+    "file": "32k_paper_9.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How do the quantum annealing techniques in paper 0 and paper 1 differ in their approach to solving combinatorial optimization problems on the Pegasus hardware graph?",
+    "answer": "Paper 0 demonstrates quantum annealing with quantum annealing correction to achieve scaling advantage relative to classical heuristics, while paper 1 introduces a 4-clique minor embedding technique to improve chain integrity and reduce breakage on the Pegasus hardware graph, highlighting different strategies for leveraging hardware capabilities."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Dominari Holdings Inc.-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did Dominari Holdings Inc.'s total assets and net loss change from March 31, 2023, to March 31, 2024?",
+    "answer": "Dominari Holdings Inc.'s total assets decreased from $57,558,000 as of December 31, 2023, to $52,194,000 as of March 31, 2024, while the net loss increased from $3,762,000 for the three months ended March 31, 2023, to $5,441,000 for the same period in 2024."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Strange Case Of Dr. Jekyll And Mr. Hyde.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "What are the different attitudes towards Mr. Hyde's character as expressed by Mr. Utterson and Dr. Lanyon?",
+    "answer": "Mr. Utterson is initially curious and later deeply worried by Mr. Hyde, suspecting him of controlling Dr. Jekyll, while Dr. Lanyon is shocked by Jekyll's connection to Hyde and views Jekyll's actions as unscientific and estranged from their friendship."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "THE UNPARALLELED ADVENTURES OF ONE HANS PFAAL.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What significant event initiates the public interest and commotion in Rotterdam, as described in the story's beginning?",
+    "answer": "The significant event is the appearance of a peculiar balloon made entirely of dirty newspapers, emerging from behind a cloud, which stirs great curiosity and astonishment among the citizens and officials of Rotterdam."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Global Gas Corp-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did the total current assets and total current liabilities change from December 31, 2023, to March 31, 2024, for Global Gas Corporation?",
+    "answer": "Total current assets decreased from $1,183,911 to $336,105, while total current liabilities decreased from $1,487,381 to $584,168."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Dominari Holdings Inc.-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What contributed to the change in the net operating loss for the company during the three months ended March 31, 2024, compared to the same period in 2023?",
+    "answer": "The net operating loss decreased by $1.0 million during the three months ended March 31, 2024, compared to the same period in 2023, due to a $2.3 million decrease in general and administrative expenses for the Aikido segment, offset by a $1.3 million loss from operations in the Dominari Financial segment."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Murders in the Rue Morgue.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What are the contrasting factors that contribute to Dupin's successful solution of the mystery compared to the police's failure?",
+    "answer": "Dupin's success is attributed to his innovative thinking by considering the unusual characteristics of the crime, whereas the police are hindered by their conventional methods and preconceived notions."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-CFN Enterprises Inc.-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How did the revenue from the Ranco subsidiary compare from March 31, 2024, to the corresponding fiscal period in 2023, and what impact did its acquisition have?",
+    "answer": "The Ranco subsidiary generated $3.7 million in revenue for the three months ended March 31, 2024, compared to no contribution in 2023, which significantly increased the company's total revenue by $3,731,635 primarily due to its acquisition in July 2023."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-ExchangeRight Income Fund-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did the rental revenue and property operating expenses change for ExchangeRight Income Fund from the three months ended March 31, 2023 to the three months ended March 31, 2024?",
+    "answer": "Rental revenue increased by $942,000 from $19,527,000 in the first quarter of 2023 to $20,469,000 in the same period of 2024, while property operating expenses increased by $35,000 from $2,870,000 to $2,905,000."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-CalEthos, Inc.-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How did CalEthos, Inc.'s net loss change from the three months ending March 31, 2023, to March 31, 2024?",
+    "answer": "CalEthos, Inc.'s net loss increased from $199,000 in the three months ending March 31, 2023, to $7,014,000 in the same period in 2024, primarily due to a $6,468,000 loss on extinguishment of debt in 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Blue Star Foods Corp.-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How did the net loss for Blue Star Foods Corp change from the three months ended March 31, 2023, to the same period in 2024, and what contributed to this change?",
+    "answer": "The net loss for Blue Star Foods Corp decreased from $1,951,402 for the three months ended March 31, 2023, to $1,093,095 for the same period in 2024, primarily due to reductions in salaries and wages, interest expense, and the loss on settlement of debt."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The CALL of CTHULHU.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What similarity can be observed between the figures of the stone statuettes mentioned in the two excerpts?",
+    "answer": "Both statuettes are grotesque with an octopus-like head, a scaly body, and possess incomprehensible hieroglyphs or characteristics that hint at an ancient, non-human origin."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Genprex, Inc.-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What are the timelines for the completion of the Phase 2a expansion and Phase 1 dose escalation portions of the Acclaim-1 and Acclaim-2 trials?",
+    "answer": "The enrollment of the Phase 2a expansion portion of the Acclaim-1 trial is expected to be completed by the end of 2024, while the Phase 1 dose escalation portion of the Acclaim-2 trial is expected to be completed in the second half of 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-form10-k.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How did ADM Endeavors, Inc.'s net income for the year ended December 31, 2023, compare to that of 2022, and what were the critical audit matters identified by the auditor in those years?",
+    "answer": "ADM Endeavors, Inc.'s net income for the year ended December 31, 2023, was $137,468, a decrease from $149,752 in 2022, with improper revenue recognition being a critical audit matter identified for 2023 but no critical audit matters for 2022."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-FLEXIBLE SOLUTIONS INTERNATIONAL INC-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How did the net income attributable to controlling interest change from the three months ended March 31, 2023, to the same period in 2024?",
+    "answer": "The net income attributable to controlling interest decreased from $884,369 in the three months ended March 31, 2023, to $457,226 in the same period in 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Brand Engagement Network Inc.-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How did the Company’s net loss change from the three months ended March 31, 2023, to the three months ended March 31, 2024, and what were the key factors contributing to this change?",
+    "answer": "The net loss increased from $2,637,956 in the three months ended March 31, 2023, to $6,884,409 in the same period of 2024, primarily due to increased general and administrative expenses related to transaction costs, employee costs, and professional fees associated with the Merger and acquisition activities."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-FORGE INNOVATION DEVELOPMENT CORP.-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did the net (loss) income and total equity for the three months ended March 31, 2024, compare to the same period in 2023 for Forge Innovation Development Corp.?",
+    "answer": "Forge Innovation Development Corp. reported a net loss of $680,209 and total equity of $2,638,210 for the three months ended March 31, 2024, compared to a net income of $471,656 and total equity of $3,080,317 for the same period in 2023."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "Bartleby, The Scrivener.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What strategies does the narrator employ to deal with Bartleby's refusal to work or leave the premises?",
+    "answer": "The narrator initially tries reasoning with Bartleby, suggesting alternate jobs and offering help, but eventually resolves to change offices to avoid further confrontation, as seen when Bartleby persistently refuses to comply with requests."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "32k",
+    "file": "32k_paper_5.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How do the limitations of LLMs' self-correction abilities discussed in paper 1 compare to their planning capabilities described in paper 0?",
+    "answer": "Paper 1 highlights that LLMs struggle with intrinsic self-correction in reasoning tasks without external feedback, while paper 0 argues that LLMs cannot plan autonomously but can aid in planning tasks as approximate knowledge sources within a neurosymbolic architecture."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Time Machine.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How does the Time Traveller’s perception of the Eloi and the Morlocks evolve throughout the narrative?",
+    "answer": "Initially, the Time Traveller sees the Eloi as a peaceful, if childlike, race and the Morlocks as a mysterious underground presence; however, he later discovers that the Eloi are essentially prey for the cannibalistic Morlocks, leading to a deeper fear and understanding of the relationship between the two species."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The CALL of CTHULHU.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What similarities exist between the stone idols described in the different locations within the two sections?",
+    "answer": "The stone idols from both the swamp in Louisiana and the ship in the ocean are characterized as having a similar hideous appearance and mysterious origin, both linked to the Cthulhu Cult."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-DecisionPoint Systems, Inc.-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "What were the net sales and net income for DecisionPoint Systems, Inc. for the three months ended March 31, 2024, compared to the unaudited pro forma net sales and net income for the same period in 2023, including the Macro acquisition?",
+    "answer": "For the three months ended March 31, 2024, DecisionPoint Systems reported net sales of $25,618,000 and a net loss of $832,000, while the unaudited pro forma results for the same period in 2023, including Macro, showed net sales of $37,980,000 and net income of $2,223,000."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "A Christmas Carol.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How does Scrooge's perception of Christmas differ between his encounters with his nephew in the beginning and during the Ghost of Christmas Present's visit?",
+    "answer": "In the beginning, Scrooge dismisses Christmas as a 'humbug' and refuses to celebrate it, whereas during the Ghost of Christmas Present's visit, he begins to see Christmas as a time of joy and togetherness, exemplified by his nephew's festive and warm gathering."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Chosen, Inc.-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What changes occurred in the General and Administrative expenses from the three months ended March 31, 2023, to the three months ended March 31, 2024, and what factors contributed to these changes?",
+    "answer": "General and Administrative expenses increased by $8,598 thousand or 160%, primarily due to higher legal, accounting, and professional fees related to arbitration and negotiations, increased IT and administrative expenses, and increased payroll expenses."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-GIVEMEPOWER CORP-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "What changes were observed in GiveMePower Corporation's cash and cash equivalents from December 31, 2023, to March 31, 2024?",
+    "answer": "GiveMePower Corporation's cash and cash equivalents increased from $516 on December 31, 2023, to $2,499 on March 31, 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-FLEXIBLE SOLUTIONS INTERNATIONAL INC-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did the total assets and total liabilities of Flexible Solutions International, Inc. change from December 31, 2023, to March 31, 2024?",
+    "answer": "The total assets increased from $55,471,055 on December 31, 2023, to $57,576,067 on March 31, 2024, while total liabilities increased from $17,202,983 to $18,484,956 during the same period."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "32k",
+    "file": "32k_paper_10.md",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How do the envisioned applications of large language models in healthcare from paper 1 compare with those in the context of theory-of-mind tasks in paper 2?",
+    "answer": "Paper 1 envisions LLMs aiding ICU diary writing by nurses to enhance emotional recovery, while paper 2 explores LLMs' capacity in theory-of-mind tasks for improved action inference in social contexts, demonstrating diverse applications of LLMs in human-centric tasks."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-GD Culture Group Ltd-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did GD Culture Group Limited's total liabilities as of March 31, 2024, compare to December 31, 2023?",
+    "answer": "GD Culture Group Limited's total liabilities increased from $2,048,669 as of December 31, 2023, to $2,198,481 as of March 31, 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-form10-k.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did the working capital of ADM Endeavors, Inc. change from December 31, 2022, to December 31, 2023?",
+    "answer": "The working capital of ADM Endeavors, Inc. improved from a deficit of $11,741 in 2022 to a positive $43,375 in 2023."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-EOS INC.-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How did the share of net sales from Taiwan as a percentage of total net sales change from Q1 2023 to Q1 2024 for EOS, Inc.?",
+    "answer": "The share of net sales from Taiwan as a percentage of total net sales decreased significantly from 89% in Q1 2023 to approximately 4% in Q1 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-EOS INC.-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did the cash and cash equivalents change for EOS, Inc. from December 31, 2023, to March 31, 2024, and what impact did this have on their current assets during the same period?",
+    "answer": "Cash and cash equivalents increased from $14,307 on December 31, 2023, to $64,506 on March 31, 2024, impacting total current assets, which decreased from $487,319 to $330,644 during the same period."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Fathom Digital Manufacturing Corp-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How did the gross profit margin change from Q1 2023 to Q1 2024 for Fathom Digital Manufacturing Corporation, and what challenges were cited as influencing this change?",
+    "answer": "The gross profit margin decreased from 31.4% in Q1 2023 to 27.3% in Q1 2024 due to lower sales volume and associated overhead absorption impacts."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-DecisionPoint Systems, Inc.-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How did the net income change from the three months ended March 31, 2023, to the three months ended March 31, 2024, and what were the main contributors to this change?",
+    "answer": "Net income decreased from $866,000 in the three months ended March 31, 2023, to a net loss of $832,000 in the three months ended March 31, 2024, mainly due to increased sales and marketing expenses, general and administrative expenses, and interest expenses."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Pearl.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How is the concept of hierarchy and equality depicted in the divine court as compared between the two parts?",
+    "answer": "In the first part, everyone is depicted as either a king or queen, embracing equality in the kingdom of God, while the second part describes a hierarchy where the Lamb leads and is praised by elders and angels, yet the innocence of all is celebrated, balancing hierarchy with communal equality and shared bliss."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Little Prince.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "In what way does the little prince's perception of his rose change after his interaction with the fox and the encounter with the garden of roses?",
+    "answer": "The little prince learns from the fox that his rose is unique because of the time and care he has dedicated to her, realizing that although the garden had many roses, his rose holds special emotional importance which makes her distinct."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Chosen, Inc.-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did the cash and cash equivalents change from December 31, 2023, to March 31, 2024, and what was the net cash flow provided by (used in) operating activities during this period?",
+    "answer": "Cash and cash equivalents decreased from $65,179,000 on December 31, 2023, to $19,117,000 on March 31, 2024, with net cash flow used in operating activities during this period amounting to $(41,782,000)."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "A Christmas Carol.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What are the two distinct attitudes towards Scrooge expressed by the people in the story, and how do they relate to Scrooge's transformation?",
+    "answer": "The Cratchit family and Scrooge's nephew express pity and eventually admiration for Scrooge, reflecting his transformation into a kind-hearted man, while the business associates and those who dealt with his possessions after his anticipated death exhibit disdain and mock him, underscoring his initial miserly nature."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-HIGH WIRE NETWORKS, INC.-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How did the total net carrying value of intangible assets and net equipment change from December 31, 2023, to March 31, 2024?",
+    "answer": "The total net carrying value of intangible assets decreased from $3,620,256 to $3,494,564, while net equipment value decreased from $1,026,293 to $977,368."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Strange Case Of Dr. Jekyll And Mr. Hyde.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What leads to Dr. Lanyon's death and its connection to Dr. Jekyll?",
+    "answer": "Dr. Lanyon's death results from the shock and horror he experiences after witnessing Dr. Jekyll transform into Mr. Hyde, revealing the dark secret that torments Jekyll and ultimately affects Lanyon's health."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Genprex, Inc.-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did Genprex, Inc.'s net loss and total stockholders' equity change from the first quarter of 2023 to the first quarter of 2024?",
+    "answer": "Genprex, Inc.'s net loss decreased from $9,202,774 in the first quarter of 2023 to $5,968,869 in the first quarter of 2024, and total stockholders' equity increased from $18,484,861 to $8,756,680 over the same period."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Edible Garden AG Inc-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How did the total inventory value change from December 31, 2023, to March 31, 2024, and what was the primary component contributing to this change?",
+    "answer": "The total inventory value increased from $678,000 to $814,000, with the primary component contributing to this change being the increase in work-in-progress inventory from $258,000 to $489,000."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "32k",
+    "file": "32k_paper_6.md",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How do the architectures in paper 1 and paper 2 differ in their approach to improving Transformer training stability and performance?",
+    "answer": "Paper 1 introduces an adaptive model initialization method (Admin) to stabilize training and enhance performance, especially in deep Transformers, while paper 2 leverages a modified BERT architecture with monotonic convolutional multihead attention to address both performance and interpretability in knowledge tracing tasks."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-FORGE INNOVATION DEVELOPMENT CORP.-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How did the total liabilities of Forge Innovation Development Corp. change from December 31, 2023, to March 31, 2024, and what were the factors contributing to this change?",
+    "answer": "The total liabilities increased from $5,987,982 as of December 31, 2023, to $6,174,348 as of March 31, 2024, primarily due to an increase in 'Due to related parties' and the 'Commercial loan.'"
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "Metamorphosis.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What is the impact of Gregor's transformation on the family's interactions and their attitudes towards him over time?",
+    "answer": "Initially, Gregor's family is concerned and tries to accommodate him, but as time passes and they become more burdened by his state, their interactions grow strained and they ultimately decide to rid themselves of him to reclaim a sense of normalcy."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "32k",
+    "file": "32k_paper_16.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "According to findings from paper 0 and paper 1, how does the number of languages used in multilingual instruction tuning affect the cross-lingual generalization of language models?",
+    "answer": "Paper 0 suggests that even a small number of languages can improve cross-lingual generalization significantly, whereas paper 1 indicates that increasing the number of languages can further enhance accuracy but with diminishing returns and varying results depending on the task and languages involved."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "32k",
+    "file": "32k_paper_3.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How do the approaches for incorporating context into ranking functions differ between the method proposed in paper 0 and in paper 1?",
+    "answer": "Paper 0 incorporates context using delta features comparing neighboring items, while paper 1 uses a self-attention mechanism to account for interactions between items during both training and inference."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-GBT Technologies Inc.-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How did GBT Technologies Inc.'s operating expenses and net income for the first quarter of 2024 compare to the same period in 2023?",
+    "answer": "For the first quarter of 2024, GBT Technologies Inc. decreased its operating expenses by 62% from $466,133 to $177,625, and turned a net loss of $5,629,713 in 2023 into a net income of $7,159,889 in 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Dominari Holdings Inc.-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What was the change in the net loss and general and administrative expenses for Dominari Holdings Inc. from the first quarter of 2023 to the first quarter of 2024?",
+    "answer": "Dominari Holdings Inc.'s net loss increased from $3,762 thousand in 2023 to $5,441 thousand in 2024, while general and administrative expenses increased from $3,834 thousand in 2023 to $4,172 thousand in 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-GBT Technologies Inc.-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How did the total fair value of marketable securities change from December 31, 2023, to March 31, 2024, and what were the main contributors to this change?",
+    "answer": "The total fair value of marketable securities decreased from $29,546 on December 31, 2023, to $27,377 on March 31, 2024, mainly due to a decline in the marketable securities from MetAlert Inc."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-DUOS TECHNOLOGIES GROUP, INC.-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How did the Company's revenue from Technology Systems change from March 31, 2023, to March 31, 2024, and how does this align with the changes in overall revenue?",
+    "answer": "The Company's revenue from Technology Systems decreased from $1,827,764 for the three months ended March 31, 2023, to $269,855 for the same period in 2024, aligning with the overall revenue decline from $2,644,288 to $1,070,680, primarily due to delays in the deployment of high-speed Railcar Inspection Portals."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "THE UNPARALLELED ADVENTURES OF ONE HANS PFAAL.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What challenges does the protagonist face in regulating the breathable atmosphere during the journey, and how do these challenges impact the continuation of their voyage?",
+    "answer": "The protagonist faces the challenge of the atmosphere becoming foul after an hour of breathing, necessitating frequent regeneration, with failure to do so risking the continuation of the voyage, as detailed in the innovative solution of setting up a water-clock to wake every hour to ensure the proper cycle of air regeneration."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Hapi Metaverse Inc.-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did Hapi Metaverse Inc.'s total stockholders' deficit change from December 31, 2023, to March 31, 2024?",
+    "answer": "Hapi Metaverse Inc.'s total stockholders' deficit increased from $2,563,665 on December 31, 2023, to $6,236,877 on March 31, 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Fathom Digital Manufacturing Corp-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did Fathom Digital Manufacturing Corporation's net cash provided by operating activities change from the three months ended March 31, 2023, to March 31, 2024?",
+    "answer": "Net cash provided by operating activities decreased from $500 thousand in the three months ended March 31, 2023, to $263 thousand in the three months ended March 31, 2024."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "Bartleby, The Scrivener.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What are the narrator's proposed solutions for dealing with Bartleby's refusal to leave the office, and how do they change over time?",
+    "answer": "Initially, the narrator plans to compassionately help Bartleby by offering money and assistance in finding a new place, but later resolves to move his own office to avoid Bartleby when these attempts fail."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-FLEXIBLE SOLUTIONS INTERNATIONAL INC-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "By how much did the balance of short-term borrowings under the line of credit increase from December 31, 2023, to March 31, 2024?",
+    "answer": "The short-term borrowings under the line of credit increased by $1,449,456 from $1,810,479 on December 31, 2023, to $3,259,935 on March 31, 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Charlie's Holdings, Inc.-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How did the fair value of derivative liabilities change in the first quarter of 2024 compared to the first quarter of 2023, and what impact did this have on net losses?",
+    "answer": "The fair value of derivative liabilities decreased by $144,000 in the first quarter of 2024 compared to a $223,000 decrease in 2023, contributing to a reduced net loss of $1,045,000 in 2024 from $1,390,000 in 2023."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The CALL of CTHULHU.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "What horrors are associated with the cults described in the stories of Wilcox and Inspector Legrasse?",
+    "answer": "Wilcox's story involves disturbing dreams and artistic creations linked to Cthulhu, while Inspector Legrasse's narrative centers on dark rituals and a mysterious statue connected to a cult worshiping the Great Old Ones."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "32k",
+    "file": "32k_paper_15.md",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How do the evaluation criteria and outcomes for the language models in the travel planning task of paper 0 compare with those of the Mistral 7B model described in paper 2?",
+    "answer": "In paper 0, language models struggle with complex planning tasks like TravelPlanner, achieving very low final pass rates, while Mistral 7B in paper 2 shows superior performance across various benchmarks, surpassing other models in mathematics, code generation, and reasoning, illustrating effectiveness even at smaller parameter sizes."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Edible Garden AG Inc-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did the net loss for Edible Garden AG Inc change from the three months ended March 31, 2023, to the three months ended March 31, 2024, and what contributed to this change?",
+    "answer": "The net loss for Edible Garden AG Inc increased from $2,879,000 in 2023 to $3,977,000 in 2024, primarily due to higher selling, general, and administrative expenses."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Global Gas Corp-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How did the net proceeds from the Business Combination change after accounting for liabilities assumed and other factors for Global Gas Corporation by March 31, 2024?",
+    "answer": "The net proceeds from the Business Combination changed from $1,225,223 to a reverse recapitalization net of $(446,994) after deducting derivative warrant liabilities, assumed liabilities, and other adjustments as of March 31, 2024."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Great Divorce.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What role does the 'Solid People' play in the understanding of choice for the Ghosts who visit, according to both the 'conversation with the Hard-Bitten Ghost' and the 'dialogue in the mountains'?",
+    "answer": "The 'Solid People' serve as guides who offer the Ghosts an opportunity to choose transformation and growth by staying in the mountains, demonstrating through dialogue that the choice to embrace reality, joy, and transformation over holding onto despair and self-deception is essential for the Ghosts’ progress."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "32k",
+    "file": "32k_paper_11.md",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How do the feedback and verification methods in paper 1 and paper 2 differ when improving autonomous vehicle behavior and plan generation?",
+    "answer": "In paper 1, feedback and behavior are adjusted based on the integration of a Visual Language Model with CARLA simulations for autonomous driving, while in paper 2, self-critiquing via LLMs in planning showed diminished performance compared to external sound verifiers, indicating differing efficacy of LLM feedback in their respective applications."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Pearl.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How is the concept of eternal reward and recognition presented differently in the context of heaven between the two characters in the book segments?",
+    "answer": "One character sees everyone who arrives in the Kingdom of God as either a queen or king, celebrating the progress of others without envy, while the other character questions the fairness of becoming a queen in heaven with little earthly experience or suffering."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "Daisy Miller.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What role does Daisy's mother play in response to Daisy's social interactions with men in both Vevey and Rome?",
+    "answer": "Daisy's mother is consistently portrayed as permissive and somewhat unaware, allowing Daisy to freely interact with men in both Vevey and Rome, as seen in her acceptance of Daisy's closeness with Mr. Giovanelli and absence from social gatherings."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-FOCUS UNIVERSAL INC.-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How did the net income (loss) from operations for the IoT Products segment change from the three months ended March 31, 2023, to the same period in 2024?",
+    "answer": "The net income (loss) from operations for the IoT Products segment improved from a loss of $1,943 in 2023 to a net income of $57,759 in 2024."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "THE GOLD-BUG.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "What role does the scarabæus play in Legrand's discovery and subsequent actions throughout the story?",
+    "answer": "The scarabæus is central to Legrand's obsession, leading to a treasure hunt that culminates in finding immense wealth hidden underground, which he believed the beetle symbolically indicated."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-FORGE INNOVATION DEVELOPMENT CORP.-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What was the net income (loss) of Forge Innovation Development Corp. for the three months ended March 31, 2024, and March 31, 2023, and how did the acquisition of Legend LP impact these results?",
+    "answer": "For the three months ended March 31, 2024, Forge Innovation Development Corp. incurred a net loss of $680,209, whereas, for the same period in 2023, the company reported a net income of $471,656, with the acquisition of Legend LP significantly contributing to the increased revenue and expenses and ultimately impacting the net results."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "32k",
+    "file": "32k_paper_8.md",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How do paper 1 and paper 2 address the issue of inference acceleration in large language models, and what differentiates their respective techniques?",
+    "answer": "Paper 1 proposes Kangaroo, a self-speculative decoding framework with a double early-exit mechanism to reduce latency and accelerate inference, whereas paper 2 leverages Grouped-Query Attention (GQA) and Sliding Window Attention (SWA) to enhance Mistral 7B's inference speed and efficiency."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Old Man and The Sea.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How does the old man's view of companionship relate to his reflection on his youth and dreams?",
+    "answer": "The old man values the companionship of the boy and reminisces about his youth and dreams of Africa, which underscores his longing for connection and the persistence of his spirit despite his current solitude."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-form10-k.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How did the change in cost of revenues as a percentage of total revenue compare between 2023 and 2022?",
+    "answer": "The cost of revenues increased from 67.3% of total revenue in 2022 to 71% in 2023, partially due to decreased Q1, 2023 sales."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Great Divorce.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How do the perspectives of the 'Tousle-Headed Poet' and the 'Hard-Bitten Ghost' differ in their views regarding their circumstances in the afterlife?",
+    "answer": "The 'Tousle-Headed Poet' is dissatisfied with his surroundings and believes that returning might be preferred by others provided he could find 'Recognition', while the 'Hard-Bitten Ghost' expresses a skeptical viewpoint, believing both the afterlife and their original home are controlled by the same deceitful mechanisms and sees no value in staying."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Edible Garden AG Inc-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What is the percentage change in total stockholders' deficit at Edible Garden AG Incorporated from December 31, 2023, to March 31, 2024?",
+    "answer": "The total stockholders' deficit at Edible Garden AG Incorporated increased by approximately 1,319.44% from $(288) thousand on December 31, 2023, to $(4,088) thousand on March 31, 2024."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Pearl.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What is the significance of the pearl and its representation in both the introductory and concluding parts of the text?",
+    "answer": "In the introduction, the pearl symbolizes an unattainable, precious object that the narrator mourns losing, while in the conclusion, the pearl is seen as a spiritual symbol of purity and divine will, reflecting the narrator's resignation to fate."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-GD Culture Group Ltd-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How did the GD Culture Group Limited's net loss for the three months ended March 31, 2024, compare to the same period in 2023, and what was the percentage change?",
+    "answer": "GD Culture Group Limited's net loss increased by approximately $4.1 million, or 19,410.7%, to approximately $4.2 million for the three months ended March 31, 2024, from $21,309 for the three months ended March 31, 2023."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Can B Corp-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What was the change in total assets for Can B Corp. from December 31, 2023, to March 31, 2024, and how does this compare to the change in total liabilities?",
+    "answer": "Total assets decreased from $10,126,164 on December 31, 2023, to $5,322,259 on March 31, 2024, while total liabilities decreased from $11,128,132 to $10,394,893, respectively."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Murders in the Rue Morgue.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "What contrasting perspectives on games like chess and whist are presented in the context of intellectual abilities?",
+    "answer": "The text suggests that chess is often mistakenly perceived as profound due to its complexity, requiring concentration more than acumen, whereas whist is portrayed as demanding true analytic skill understanding beyond the rules of the game."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-EQUUS TOTAL RETURN, INC.-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How did the fair value of control investments in Morgan E&P, LLC and Equus Energy, LLC differ between the periods ending March 31, 2024 and December 31, 2023?",
+    "answer": "The fair value of control investments in Morgan E&P, LLC decreased from $22.6 million to $21.25 million, whereas Equus Energy, LLC's fair value remained unchanged during the same period."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Old Man and The Sea.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What does the boy's determination to fish with Santiago despite the old man's lack of recent luck signify about their relationship?",
+    "answer": "The boy's determination to fish with Santiago, despite his lack of recent luck, signifies a deep bond of respect and affection, underscoring their mutual faith and admiration for one another."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Brand Engagement Network Inc.-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How did the net loss for Brand Engagement Network Inc. change from the first quarter of 2023 to the first quarter of 2024?",
+    "answer": "The net loss for Brand Engagement Network Inc. increased significantly from $2,637,956 in the first quarter of 2023 to $6,884,409 in the first quarter of 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-DUOS TECHNOLOGIES GROUP, INC.-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How did the disaggregated revenue from 'Turnkey Projects' change from the three months ended March 31, 2023, to the three months ended March 31, 2024?",
+    "answer": "The disaggregated revenue from 'Turnkey Projects' decreased significantly from $1,827,764 during the three months ended March 31, 2023, to $270,099 during the three months ended March 31, 2024."
+  }
+]

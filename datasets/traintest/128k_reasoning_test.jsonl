@@ -1,0 +1,695 @@
+[
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Philosopher’s Stone.txt",
+    "context_order": 3,
+    "question": "Why does Henry Thorn suspect that Shade is trying to steal something valuable from Hogwarts?",
+    "answer": "Henry Thorn suspects Shade is after something valuable because he overhears a conversation where Shade complains about getting past Fluffy, the three-headed dog, and mentions trying to watch all three of its heads. Henry connects this to Fluffy guarding the mysterious object that came from Gringotts and believes Shade may be trying to steal it."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_11.md",
+    "context_order": 3,
+    "question": "How does electronic localization around the protons affect the static electron-electron density response function \\( \\chi_{e e}(\\mathbf{q}) \\) at low densities in paper 3?",
+    "answer": "Electronic localization around the protons increases the static electron-electron density response \\( \\chi_{e e}(\\mathbf{q}) \\) at low densities compared to the uniform electron gas model due to the added weight of the elastic feature originating from electronic localization. This is evident from the reduced decay of \\( \\chi_{e e}(\\mathbf{q}) \\) at small wave numbers, highlighting the significance of electronic localization and its impact on the system's response to perturbations."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "The Sun Also Rises.txt",
+    "context_order": 5,
+    "question": "Why do you think Clara doesn't want to talk about her experience with Julian Vega despite revisiting it in conversation?",
+    "answer": "Clara likely feels conflicted because, on one hand, she wants to move past the emotional turmoil of her relationship with Vega but, on the other hand, it represents a significant and painful part of her recent experience that she cannot easily repress. Thus, her desire to avoid discussing it contrasts with the difficulty of truly letting go, as evident in how she continues to 'talk around it.'"
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_2.md",
+    "context_order": 3,
+    "question": "In paper 3, why is the iterative sequence tagging approach crucial for achieving improved grammatical error correction results compared to applying the GEC sequence tagger only once?",
+    "answer": "The iterative sequence tagging approach is crucial because some corrections in a sentence may depend on others, and applying the GEC tagger only once might not fully correct the sentence. By iteratively tagging and applying transformations, the model can resolve dependencies between corrections, as seen in Table 3 where complex adjustments are gradually made over iterations. This method ensures that most corrections, especially interdependent ones, are addressed, leading to enhanced overall correction performance."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Nineteen Eighty Four.txt",
+    "context_order": "full",
+    "question": "What is the significance of the phrase 'We are the dead' in the story?",
+    "answer": "'We are the dead' signifies the inevitability of defeat for those who oppose the Party. Edward and Anna recognize that from the moment they rebel against the Party, they are already doomed. Their efforts are futile under the surveillance and control of the Party, placing them in a state of living death, where their rebellion is ultimately meaningless."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "The Hound of the Baskervilles.txt",
+    "context_order": "full",
+    "question": "Why does Mr. Reginald Crawford initially suggest that the man they are investigating is a distinguished family doctor but later completely changes his deduction?",
+    "answer": "Crawford initially follows Turner Hawkins' reasoning based on the evidence from the visitor’s stick, assuming the man is a well-established family doctor. However, after a closer examination, Crawford deduces that the doctor was likely a much younger surgeon recently transitioning from a city hospital to country practice, using evidence such as the connection to 'C.C.H.' and clues indicating the visitor had not reached the senior level in the hospital, thus overturning the original assumption."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_5.md",
+    "context_order": 0,
+    "question": "In paper 0, how does the combination of token masking during contrastive pre-training and joint space-time attention help in managing memory consumption while maintaining performance in video understanding tasks?",
+    "answer": "Token masking during contrastive pre-training allows the model to save memory by reducing input size without significantly compromising semantic learning, as videos often contain redundant frames. When combined with joint space-time attention, which efficiently captures temporal dependencies, this approach manages memory consumption by effectively utilizing the available information and maintaining robustness against video-text alignment noise, thus preserving performance in tasks like text-video retrieval and captioning."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Anne of Green Gables.txt",
+    "context_order": 2,
+    "question": "Why did Clara feel humiliated when her name was written on the blackboard along with Rowan's after the written exams?",
+    "answer": "Clara felt mortified because she had a fierce rivalry with Rowan and intensely disliked him. Having their names written together as equals on the roll of honor was almost as embarrassing to her as a romantic 'take-notice,' which heightened her discomfort and undermined her desire to stand out individually."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_7.md",
+    "context_order": 4,
+    "question": "In paper 4, what factors make it challenging for LLMs to outperform state-of-the-art accelerator tuning methods like RLO and BO, despite being capable of solving tuning tasks?",
+    "answer": "LLMs face challenges in outperforming existing methods because, while they can handle complex tasks, they are not yet optimized for performance on specific tuning tasks like those addressed by RLO and BO. Additionally, LLMs incur high computational costs and longer inference times, leading to slower optimization processes, which makes them less competitive in efficiency compared to RLO and BO, which are designed specifically for such tuning tasks."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Nineteen Eighty Four.txt",
+    "context_order": 0,
+    "question": "Why does Edward think that even without writing 'DOWN WITH BIG BROTHER,' he is already guilty?",
+    "answer": "Edward believes that his rebellious thoughts against the Party constitute 'thoughtcrime,' which seals his fate regardless of whether he writes them down. He understands that merely thinking critically of Big Brother marks him as guilty in the eyes of the Thought Police because the Party monitors thoughts and does not require a physical act to punish dissent."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_5.md",
+    "context_order": 3,
+    "question": "In paper 3, why is Gemini 1.5 Pro capable of outperforming other models like Claude 2.1 and GPT-4 Turbo on the needle-in-a-haystack task across multiple modalities?",
+    "answer": "Gemini 1.5 Pro's architecture includes a mixture-of-experts design that allows it to expand its context window to up to 10 million tokens, providing it the ability to maintain high recall rates for retrieving information even in very long contexts. This large context capacity enables it to outperform models like Claude 2.1 and GPT-4 Turbo by effectively utilizing and managing extensive input data in text, video, and audio modalities, where these models with smaller context windows struggle."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "The Sun Also Rises.txt",
+    "context_order": 2,
+    "question": "Why do Ben and Munson make a bet about Clara and Liam's arrival, and how does it resolve?",
+    "answer": "Ben makes a bet with Munson out of irritation, challenging Munson's almost arrogant certainty that Clara and Liam will not arrive that night. Despite the bet, Clara and Liam do not arrive as Munson predicted, meaning that Ben loses the bet. This highlights Ben's frustration and the underlying tension between the characters."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_17.md",
+    "context_order": 2,
+    "question": "In paper 2, why do the authors highlight the need for a payment scheme in the context of truthful reporting by agents?",
+    "answer": "The authors emphasize the need for a payment scheme to ensure that truth-telling becomes a dominant strategy for agents. Without a payment rule, agents can gain higher utilities by strategically misreporting polarized preferences, thereby distorting the fine-tuning outcome. By introducing payments, the mechanism aligns agents' incentives with truthfully reporting their preferences to achieve accurate training results."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_9.md",
+    "context_order": 2,
+    "question": "In paper 2, how does the choice of memory allocator impact the trade-off between memory TCO savings and performance when using compressed memory tiers?",
+    "answer": "The choice of memory allocator impacts the trade-off as zsmalloc creates high memory TCO savings due to dense packing of compressed objects but incurs higher memory management overhead, thus increasing latency. In contrast, zbud offers faster access with lower management overhead but provides less TCO savings due to storing fewer compressed objects, thus shaping how aggressively data can be placed in compressed tiers without impacting performance significantly."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "The Wonderful Wizard.txt",
+    "context_order": 1,
+    "question": "Why did the Strawman allow himself to go first when the Fang offered to help them jump over the gulf?",
+    "answer": "The Strawman realized that if the Fang failed, he would not be injured, as the fall would not hurt him. He explained that Elara or the Iron Lumberjack could either be killed or injured, so it was safer for him to go first."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Anne Frank The Diary of a Young Girl.txt",
+    "context_order": 1,
+    "question": "Why does Emma feel conflicted about her relationship with her mother?",
+    "answer": "Emma feels that her mother fails to meet her internalized ideal of what a mother should be. Though she acknowledges they are opposites in personality, Emma finds it hard to overlook her mother's perceived shortcomings like sarcasm and untidiness, which create a gap between them that neither party seems to understand or bridge effectively."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "EXACT SCIENCES CORPORATION.txt",
+    "context_order": 4,
+    "question": "Based on the financial statement provided, what is the implied yield or rate of return on the available-for-sale debt securities at December 31, 2023?",
+    "answer": "The implied yield or rate of return on the available-for-sale debt securities can be determined by comparing the fair value of $243,703 thousand to the amortized cost of $243,649 thousand. The difference of $54 thousand suggests these assets are being held at a slight gain, producing a near-zero effective yield when we consider such a minimal difference against the entire value base."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_30.md",
+    "context_order": 1,
+    "question": "In paper 1, how does ARVideo improve training efficiency compared to VideoMAE, and what might be the reason for this efficiency gain?",
+    "answer": "ARVideo improves training efficiency by reducing training costs by 14% and GPU memory usage by 58% compared to VideoMAE. This efficiency gain can be attributed to ARVideo's strategy of using shorter sequence lengths by omitting the last cluster in the autoregressive modeling, which significantly reduces the computational and memory demands during training."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Philosopher’s Stone.txt",
+    "context_order": "full",
+    "question": "How does Henry Thorn successfully get past Fluffy?",
+    "answer": "Henry Thorn uses a flute given to him by Harlan Stone to play music. Since Fluffy, the three-headed dog, is lulled to sleep by music, Henry plays the flute, and the dog falls asleep, allowing him and his friends to get past the trapdoor that Fluffy is guarding."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_27.md",
+    "context_order": 1,
+    "question": "How do typographic attacks against Vision-LLMs pose a risk in autonomous driving systems, according to paper 1, and why might these attacks be more effective than gradient-based attacks?",
+    "answer": "Typographic attacks pose a risk in autonomous driving systems by exploiting the text-to-text alignment properties of Vision-LLMs, misleading the models' decision-making processes crucial for safety. Unlike gradient-based attacks, typographic attacks are more transferable across different Vision-LLMs without being restricted to a specific surrogate model, as they directly introduce misleading textual patterns in the visual data that overshadow the visual-language alignment, causing reasoning errors across various systems."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "White Fang.txt",
+    "context_order": 1,
+    "question": "Why was the she-wolf more drawn to the Indian camp than One Eye was, despite the danger?",
+    "answer": "The she-wolf was attracted to the camp not by hunger but by an instinctual desire to be closer to the fire, despite understanding its dangers. One Eye, on the other hand, was wary and driven by cautious survival instincts, prioritizing safety over the mysterious allure the camp held for the she-wolf."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Mrs. Dalloway.txt",
+    "context_order": 5,
+    "question": "What does Clarissa feel when she reflects on her role hosting the party, despite the noise and crowds around her?",
+    "answer": "Clarissa feels the weight of hosting, noting that while she has succeeded in orchestrating the event and enjoys the admiration of others, there's a hollowness behind the semblance of triumph. She acknowledges the effort required and feels that these social gatherings no longer fully satisfy her as they once did."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Frankenstein; Or, The Modern Prometheus.txt",
+    "context_order": 0,
+    "question": "What compels the narrator to pursue his voyage to the north despite the dangers?",
+    "answer": "The narrator is driven by a passionate thirst for discovery and glory. He envisions uncovering scientific secrets such as the source of magnetism and finding a passage near the pole, making him eager to overcome potential dangers for the perceived benefit to humanity."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_4.md",
+    "context_order": 3,
+    "question": "What is the reasoning behind using a small external dataset in the FMD framework proposed in paper 3 for debiasing trained models, and how does it compare to traditional methods?",
+    "answer": "The FMD framework uses a small external dataset to efficiently identify and remove biases by applying counterfactual analysis, avoiding the need for access to the original, potentially large, or unavailable training data typically needed for retraining. This approach allows for significant reductions in data and computational costs while maintaining or exceeding accuracy levels of traditional methods that require retraining on large datasets."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "EXACT SCIENCES CORPORATION.txt",
+    "context_order": 0,
+    "question": "What is the percentage increase in revenues from Exact Sciences' 2022 fiscal year to the 2023 fiscal year, and how does this relate to the company's profitability efforts?",
+    "answer": "Exact Sciences' revenues increased from $2.08 billion in 2022 to $2.50 billion in 2023, which represents a 20% increase. This growth in revenues supports the company's effort to accelerate its path to profitability, as evidenced by the $156.1 million positive cash flow from operating activities in 2023, an improvement of $379.7 million from the previous year."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_15.md",
+    "context_order": 0,
+    "question": "In paper 0, what are the key challenges software engineers face when ensuring the proper retrieval of relevant documents during the RAG query process, and how do they impact the generation of accurate answers?",
+    "answer": "The key challenges include selecting the appropriate chunk size during the indexing process and determining the optimal retrieval and re-ranking strategy during querying. If chunks are too small, they may miss relevant context, while chunks that are too large may introduce noise, leading to inaccurate or incomplete answers. Additionally, selecting top-k documents affects the likelihood of retrieving the correct content, impacting the relevance and accuracy of the answers generated."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_10.md",
+    "context_order": 2,
+    "question": "In paper 2, how does the TS-Align framework leverage the capabilities of a teacher model for improving the alignment process, and what benefits does this confer over solely using the student model?",
+    "answer": "TS-Align utilizes a large-scale teacher model to refine preference pair rankings generated by the student model, which initially provides coarse annotations from policy outputs. This collaboration allows for efficient annotation of large-scale datasets while progressively improving the student model's capability through knowledge distillation, leading to better and more reliable alignment as the student's performance is enhanced by the teacher's more robust ranking ability."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Harry Potter and the Chamber of Secrets.txt",
+    "context_order": 1,
+    "question": "Why is Mortem being made the Slytherin Seeker a point of tension during the Quidditch field encounter?",
+    "answer": "Mortem's appointment as the Slytherin Seeker creates tension because his father, Caspian Mortem, bought the entire Slytherin team brand-new Nimbus Two Thousand and One broomsticks, giving them an unfair advantage. Additionally, Mortem insults Isla by calling her a 'Mudblood,' deeply offending the Gryffindor team and worsening the conflict."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "The Souls of Black Folk.txt",
+    "context_order": 3,
+    "question": "Why does the black farmer, despite working hard for many years, not manage to escape debt?",
+    "answer": "The black farmer, often under the crop-lien system, has to rent land and borrow heavily for supplies at inflated prices, leaving almost no room for profit. The perpetual high rents demanded by absentee landlords and the manipulative practices of merchants trap the farmers in a cycle of debt, which is worsened by the lack of savings and legal protection."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_27.md",
+    "context_order": 0,
+    "question": "In paper 0, how does the input projector component contribute to the efficiency of training MM-LLMs, and what are the implications of its design on the overall training parameter size?",
+    "answer": "The input projector in MM-LLMs is designed to be lightweight compared to other components, aligning encoded features from various modalities to the LLM's text feature space. This design limits the proportion of trainable parameters to approximately 2% of the total, allowing MM-LLMs to be efficiently trained by reducing the computational load and parameter optimization required during training."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Pere Goriot.txt",
+    "context_order": 0,
+    "question": "What reasons might lead the boarders at Maison Vauquer to view Father Duval with contempt and suspicion, despite his generally quiet demeanor?",
+    "answer": "The boarders likely view Father Duval with contempt because of a combination of his mysterious behavior, his visible decline in wealth, and his association with multiple women he claims are his daughters. This leads to gossip and assumptions about his character, as well as the natural human tendency to belittle someone who appears weak or vulnerable without any obvious way to retaliate."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "3D Systems Corp..txt",
+    "context_order": 4,
+    "question": "How does the change in 3D Systems' net segment operating income from 2021 to 2022 correlate with the reported general corporate expenses, and what might this suggest about the company's cost management?",
+    "answer": "The net segment operating income for 3D Systems declined from $117,913 in 2021 to $48,649 in 2022, a decrease of $69,264. Meanwhile, general corporate expenses increased from $150,982 to $165,668. This suggests that although segment efficiency improved slightly, the increase in overall corporate expenses might indicate challenges in managing overarching company costs effectively."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Pere Goriot.txt",
+    "context_order": 5,
+    "question": "Why does Father Duval experience such despair during his final moments?",
+    "answer": "Father Duval's despair stems from the absence of his daughters, Camille and Helene, who he deeply longs to see before he dies. Over the years, he sacrificed everything for them, but now, in his final moments, they do not come to be with him, leaving him feeling unloved and betrayed, leading to his overwhelming sense of being forsaken and heartbroken."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Paratek Pharmaceuticals Inc.txt",
+    "context_order": "full",
+    "question": "What was the effect of the $36.4 million second procurement by BARDA on Paratek Pharmaceuticals' accounts receivable as of December 31, 2022?",
+    "answer": "The $36.4 million second procurement by BARDA contributed to the accounts receivable balance of $74.7 million as of December 31, 2022. This procurement comprised nearly half of the total accounts receivable at year-end, reflecting the addition of the outstanding amount claimed from BARDA for supplying NUZYRA."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Pere Goriot.txt",
+    "context_order": "full",
+    "question": "Why does Father Duval sell his spoons and forks?",
+    "answer": "Father Duval sells his spoons and forks to raise money for his daughter Camille, who is in despair because she cannot pay for her ball gown. He feels humiliated for not being able to help her immediately with the twelve thousand francs the day before, and this act is a desperate attempt to comfort her and ensure she has what she needs, even in the face of his own financial ruin."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "3D Systems Corp..txt",
+    "context_order": "full",
+    "question": "What were the primary reasons for the decrease in cash and cash equivalents from December 31, 2021, to December 31, 2022, and how did these factors impact the overall balance?",
+    "answer": "The decrease in cash and cash equivalents from $789.7 million at December 31, 2021, to $388.1 million at December 31, 2022, was primarily due to cash used for acquisitions and other investments totaling $103.7 million, cash used in operations amounting to $70.0 million, and capital expenditures of $20.9 million. These activities significantly reduced the overall balance by contributing to the outflow of cash resources."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "The Blue Castle.txt",
+    "context_order": "full",
+    "question": "Why does Elara believe she should leave Rowan after talking to Dr. Larkin?",
+    "answer": "Elara believed that Rowan married her out of pity because Dr. Larkin had falsely diagnosed her with a terminal heart condition. Upon learning that this diagnosis was a mistake and that she was healthy, she feels she has trapped Rowan in a marriage under false pretenses and should set him free."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "EXACT SCIENCES CORPORATION.txt",
+    "context_order": 3,
+    "question": "How did the changes in the investments in money market accounts and interest rates impact the cash provided by investing activities between 2022 and 2023?",
+    "answer": "The decrease in cash provided by investing activities from $74.1 million in 2022 to $49.7 million in 2023 was partially due to a $89.9 million decrease in cash from sales and maturities of marketable securities, as the company invested more in money market accounts in response to changes in interest rates and macroeconomic conditions."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Block, Inc..txt",
+    "context_order": 0,
+    "question": "What strategic change occurred in the reporting of the buy now, pay later (BNPL) platform in the fourth quarter of 2023, and what was the reasoning behind this change?",
+    "answer": "In the fourth quarter of 2023, the management reporting structure for the BNPL platform was changed to allocate its business activities and management fully to the Cash App segment. This transition aimed to better focus on consumer-based commerce as well as the development of financial tools within Cash App."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_29.md",
+    "context_order": 2,
+    "question": "In paper 2, why does Aya 23 outperform Aya 101 and other multilingual models despite covering fewer languages?",
+    "answer": "Aya 23 outperforms Aya 101 and other models due to its focus on allocating more model capacity to 23 languages, alleviating the 'curse of multilinguality' where models spread capacity too thinly across many languages. By concentrating resources, Aya 23 enhances performance on generative and discriminative tasks for the included languages, resulting in significant performance improvements over broader-coverage models like Aya 101."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "C.H. ROBINSON WORLDWIDE, INC..txt",
+    "context_order": "full",
+    "question": "What was the overall percentage decline in net income for C.H. Robinson Worldwide, Inc. from 2022 to 2023, and what factors contributed to this decline?",
+    "answer": "C.H. Robinson Worldwide, Inc.'s net income declined by 65.4% from 2022 to 2023. This decline was primarily attributed to the weak freight demand and excess carrier capacity that resulted in significantly reduced net income, as highlighted in the company's annual report for that period."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Tesla, Inc..txt",
+    "context_order": 5,
+    "question": "What main factor contributed to the decrease in gross profit for the automotive segment from 2022 to 2023, and how significant was this change?",
+    "answer": "The main factor contributing to the decrease in gross profit for the automotive segment from 2022 to 2023 was the reduction in gross profit from $20,565 million in 2022 to $16,519 million in 2023, a decrease of $4,046 million. This represents a significant financial performance drop, indicating adverse changes in cost efficiency or pricing strategy within the automotive segment."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_19.md",
+    "context_order": 3,
+    "question": "In paper 3, how does MEMoE address the challenge of balancing generalization and locality in model editing, and why might this provide an advantage over previous methods?",
+    "answer": "MEMoE addresses this challenge by using a Mixture of Experts (MoE) architecture and a knowledge anchor routing strategy that routes inputs requiring similar knowledge to the same expert. This approach retains the original model parameters unchanged, minimizing impact on the model's general ability, and enhances generalization by allowing specialized experts to focus on specific knowledge types, providing superior balance between generalization and locality compared to other methods."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "2U, Inc..txt",
+    "context_order": 3,
+    "question": "How did the change in FCE enrollments for the Degree Program Segment impact the total revenue change from 2022 to 2023, considering also the changes in average revenue per FCE enrollment?",
+    "answer": "The Degree Program Segment experienced a decrease in FCE enrollments from 233,635 in 2022 to 194,574 in 2023, which generally would reduce total revenue. However, this was offset by an increase in the average revenue per FCE enrollment from $2,447 in 2022 to $2,883 in 2023, mitigating the overall impact on revenue."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "The Hound of the Baskervilles.txt",
+    "context_order": 5,
+    "question": "Why did Kensington's wife ultimately decide to cooperate with Crawford against her husband?",
+    "answer": "Kensington's wife, previously loyal, turned against him after discovering that not only had he lied to her about key aspects of his life (including a proposal to marry her if she divorced), but he also had another woman, which fueled her realization of his total manipulation and deceit. Her feelings of betrayal and anger led her to fully cooperate with Crawford and reveal Kensington's schemes."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_4.md",
+    "context_order": 0,
+    "question": "In paper 0, how does the TabFairGAN model ensure both accuracy and fairness in synthetic data generation, and what advantage does this approach provide compared to other GANs?",
+    "answer": "The TabFairGAN model employs a two-phase training process: the first phase focuses on generating accurate synthetic data that closely follows the original data distribution, while the second phase introduces a fairness constraint into the generator's loss function to produce data with less discrimination based on the protected attributes. This approach not only achieves high-quality data similar to real datasets, but it also effectively reduces discrimination. Compared to other GANs, such as FairGAN, TabFairGAN is more stable, as it uses only one critic and is based on the Wasserstein GAN framework, which addresses issues like mode-dropping common in traditional GANs."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Anne of Green Gables.txt",
+    "context_order": 0,
+    "question": "Why does Mrs. Beatrice Harper first suspect something unusual when she sees Donald Forsythe driving over the hollow?",
+    "answer": "Mrs. Beatrice Harper suspects something unusual because Donald Forsythe had previously mentioned that he would be sowing turnip seeds that afternoon, yet he is seen dressed up, driving his buggy at a leisurely pace, indicating he is going out of Avonlea for some unexpected reason."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Anne of Green Gables.txt",
+    "context_order": 4,
+    "question": "Why does Clara feel that it would be a relief to sit down and have a good cry after turning down Rowan Blake's offer of friendship?",
+    "answer": "Clara realizes that she has truly forgiven Rowan and regrets her refusal, but she feels conflicted because of her pride. The emotional tension from this realization, combined with the awkward situation they went through, makes her feel like crying to release her feelings."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Tesla, Inc..txt",
+    "context_order": "full",
+    "question": "What was the main factor contributing to the change in Tesla's effective tax rate for the year ended December 31, 2023?",
+    "answer": "The main factor contributing to the change in Tesla's effective tax rate in 2023, which decreased from an 8% expense to a 50% benefit, was the release of the valuation allowance regarding U.S. federal and certain state deferred tax assets, amounting to $6.54 billion."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "The Catcher in the Rye.txt",
+    "context_order": 4,
+    "question": "Why does Stella repeatedly think that their father will 'kill' Miles?",
+    "answer": "Stella knows that Miles has been expelled from multiple schools, and when she realizes he got kicked out again, she’s convinced their father will be furious and punish Miles harshly because it's an ongoing issue, and they have high expectations for him."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "2U, Inc..txt",
+    "context_order": 4,
+    "question": "What potential financial impact does the Company face if it does not refinance or raise capital to reduce its debt in the short term, particularly regarding the term loan facility?",
+    "answer": "If the Company does not refinance or raise capital to reduce its debt in the short term, the maturity date of the outstanding term loan balance of $372.4 million could spring forward to January 30, 2025, due to the covenants in the Second Amended Credit Agreement. In this scenario, the Company's liquidity may not be sufficient to pay off the balance on the accelerated maturity date, indicating a risk of insufficient cash on hand or available liquidity."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "The Enchanted April.txt",
+    "context_order": 4,
+    "question": "What impact does Mr. Thompson's arrival have on Mrs. Parker?",
+    "answer": "Mr. Thompson's arrival leads to a transformation in Mrs. Parker's attitude. His charming demeanor and genuine appreciation of her make her feel valued, which helps her shed her former severity and brings out a more benevolent and playful side that others, including Lena, had not seen before."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "The Unbearable Lightness of Being.txt",
+    "context_order": 2,
+    "question": "Why does Natalia feel differently about beauty compared to Hans, especially regarding the Old Church in Amsterdam?",
+    "answer": "Natalia sees beauty as something that can only be experienced when it has been overlooked or betrayed by society, as she realized during her visit to a remote village church. Hans, however, views the emptiness of the Old Church as a symbol of personal liberation, hoping to sweep away the cultural vanities that stifle him. This contrast reveals that, for Natalia, beauty is fragile and rare, while for Hans, it symbolizes freedom from societal constraints."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_20.md",
+    "context_order": 1,
+    "question": "Why do the authors claim that DALL-E 3 is the most favorable model in DEsignBench evaluations, as per paper 1, and how is this conclusion supported by both human and GPT-4V evaluations?",
+    "answer": "The authors claim DALL-E 3 is the most favorable model based on human evaluation results showing that it consistently outranks Midjourney and SDXL across all evaluation categories on DEsignBench. This conclusion is further supported by the alignment between human judgments and GPT-4V evaluations, where GPT-4V also demonstrated a consistent preference for DALL-E 3 over other models in pairwise comparisons, indicating a strong concurrence with human evaluators."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_10.md",
+    "context_order": 3,
+    "question": "In paper 3, how does the use of a verifier model contribute to the performance improvement of small language models on the GSM8K benchmark?",
+    "answer": "The use of a verifier model allows the small language models to score and select the best generation from multiple candidates, thereby overcoming the limitations posed by a single generation output. The verifier distinguishes between correct and incorrect solutions based on a binary label, allowing the final output to have a much higher likelihood of accuracy compared to selecting a random or single candidate answer. This strategy enables small models to outperform the synthetic data's original efficiency accuracy, exemplified by the 1.3B model reaching 81.5% accuracy."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_1.md",
+    "context_order": 1,
+    "question": "In the context of paper 1, what is the significance of using a large image pool size (N) during the dataset construction for HG-DPO, and how does it impact the training of the human generation model?",
+    "answer": "The significance of using a large image pool size (N) during dataset construction for HG-DPO is that it increases the variety of images generated for each prompt, leading to the selection of winning and losing images with more meaningful semantic differences. This variety allows the model to learn better distinctions between preferred and non-preferred samples, resulting in improved human image generation in terms of natural poses and text-image alignment, as evidenced by higher win rates when larger pool sizes are employed."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "The Scarlet Letter.txt",
+    "context_order": "full",
+    "question": "Why does Reverend Master Clay ultimately decide to reveal the truth?",
+    "answer": "Reverend Master Clay decides to reveal the truth because he is overwhelmed with guilt and believes that only through confession can he relieve the immense spiritual burden he has carried for years. His failing health and the torment he feels from living a lie drive him to seek redemption before his impending death. At the scaffold, he realizes that revealing the secret is the climactic moment for his personal and spiritual salvation."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_13.md",
+    "context_order": 1,
+    "question": "In paper 1, how does the alignment with human feedback during the training of LLMs help mitigate bias, and what potential challenge might arise from using Reinforcement Learning with Human Feedback (RLHF)?",
+    "answer": "Alignment with human feedback, specifically through techniques like RLHF, helps mitigate bias by optimizing LLMs to follow instructions aligned with human values, such as helpfulness and respect, reducing the probability of generating biased content. However, the challenge arises when the human feedback itself contains subjective biases, inadvertently introducing those biases into the model and affecting its decision-making process."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_1.md",
+    "context_order": 2,
+    "question": "In paper 2, how does the SAPO algorithm's use of an EMA model contribute to stable and consistent learning, and why is this advantageous over an on-policy approach?",
+    "answer": "The SAPO algorithm utilizes an EMA model to average policy parameters across iterations, which helps stabilize the generation of rejected responses by reducing the volatility associated with updates at each training step. This stabilization is advantageous over an on-policy approach, which can suffer from rapid shifts in training data, leading to inconsistent learning outcomes and performance variability."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Frankenstein; Or, The Modern Prometheus.txt",
+    "context_order": 1,
+    "question": "What reasoning does Viktor Helmsworth use to determine that the creature he created was responsible for the murder of his brother Wilhelm?",
+    "answer": "Viktor Helmsworth reasons that nothing human could have committed the murder, and as soon as the thought crosses his mind that the creature was involved, he becomes convinced of it. The creature's gigantic stature and deformity, coupled with its appearance near the location of the murder during the storm, leads Viktor to believe that the creature is the only one capable of such horror."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Pere Goriot.txt",
+    "context_order": 4,
+    "question": "Why does Mme. de Breuil believe her husband is trying to involve her in dishonest business dealings?",
+    "answer": "Mme. de Breuil realizes that her husband needs her to assist him in his fraudulent schemes by letting him continue running shady business deals in her name. When he promises to give her liberty in exchange for her complicity, she sees it as an attempt to make her an accomplice in his wrongdoing while maintaining a facade of respectability."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "White Fang.txt",
+    "context_order": "full",
+    "question": "Why does Snow Claw eventually stop raiding the chicken coops?",
+    "answer": "Snow Claw ceases raiding the chicken coops after being harshly reprimanded by his master, who shows him the dead chickens and disciplines him. Through repeated exposure and the master's firm guidance, he learns that attacking chickens is against the law of the gods and is no longer acceptable behavior in his new environment."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Esperion Therapeutics Inc.txt",
+    "context_order": 0,
+    "question": "How does Esperion Therapeutics' approach to managing manufacturing risks affect their capacity to produce their commercial products?",
+    "answer": "Esperion relies on third-party contractors for manufacturing, which increases the risk of not having sufficient drug quantities or achieving acceptable cost or quality levels. This reliance underscores the importance of proper selection and monitoring of contract manufacturers to ensure they can consistently produce drugs to required standards, thus ensuring effective commercialization efforts."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Frankenstein; Or, The Modern Prometheus.txt",
+    "context_order": "full",
+    "question": "What is the main reason Viktor Helmsworth decides to destroy the second creature he was creating?",
+    "answer": "Viktor Helmsworth begins to fear that the second creature could be far more malignant than the first. He contemplates the possibility of the creatures hating each other, of the female refusing to comply with any promise, and even the potential threat of a new race of devils being propagated. These anxieties drive him to destroy the second creature to prevent such horrors from unfolding."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "White Fang.txt",
+    "context_order": 4,
+    "question": "Why does Snow Claw initially distrust Brandon Lane, but eventually become loyal to him?",
+    "answer": "Snow Claw distrusts Brandon Lane at first due to his past abuse by men, especially by Elegance Jones, which made him wary of hands and human touch. However, Lane's consistent patience and kindness, symbolized by gentle and soothing interactions over time, gradually reshape Snow Claw's fear into trust and eventually love, allowing him to accept Lane as his master."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Nineteen Eighty Four.txt",
+    "context_order": 2,
+    "question": "Why does Edward initially hesitate to get in contact with Anna after receiving her note?",
+    "answer": "Edward hesitates because he is torn between the fear that Anna may be an agent of the Thought Police, laying a trap for him, and a wild hope that she might be part of an underground resistance movement aimed at overthrowing the Party. His fear of danger and death contrasts with his unexplained hope for a chance of connection or rebellion."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Mind Medicine (MindMed) Inc..txt",
+    "context_order": 5,
+    "question": "How might the uncertainty in obtaining patent extensions impact the company's ability to maintain a competitive advantage in the market?",
+    "answer": "The uncertainty in obtaining patent extensions may result in a shorter duration of market exclusivity, allowing competitors to enter the market sooner and potentially leading to reduced revenue from product candidates. This could undermine the company's competitive advantage and affect its financial condition by increasing competition from similar or identical therapies."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "The Catcher in the Rye.txt",
+    "context_order": 3,
+    "question": "What does the narrator's experience with his former roommate, Slagle, reveal about his relationships with others?",
+    "answer": "The narrator's experience with Slagle highlights how material differences, like the quality of their suitcases, create tension and affect relationships. Despite initially finding humor in Slagle's complaints, the narrator realizes that such superficial disparities can lead to deeper feelings of resentment, complicating their relationship and ultimately leading them to request a room change."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_8.md",
+    "context_order": 0,
+    "question": "In paper 0, how do the authors categorize knowledge editing methods, and what reasoning supports this categorization?",
+    "answer": "The authors categorize knowledge editing methods into recognition, association, and mastery phases by drawing inspiration from human cognitive processes. This categorization mirrors the steps through which humans learn, starting from exposure to new knowledge, linking it to existing information, and finally integrating it fully into their cognitive structures, reflecting how LLMs might process and utilize knowledge similarly."
+  },
+  {
+    "type": "novel_fake",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "The Souls of Black Folk.txt",
+    "context_order": 5,
+    "question": "What leads Ambrose Cormac to ultimately reject the conditions placed on him by Bishop Winthrope?",
+    "answer": "Ambrose Cormac rejects Bishop Winthrope's conditions, which prohibited him from sitting in the church convention or seeking representation for his Negro church, because he saw these terms as an unjust denial of equality and recognition for his race. His decision reflects his commitment to dignity and principle, even at great personal and professional cost."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_22.md",
+    "context_order": 3,
+    "question": "How does the integration of Blockchain (BC) address security concerns in the Industrial Metaverse, as discussed in paper 3?",
+    "answer": "Blockchain enhances security in the Industrial Metaverse by providing a decentralized framework for secure data storage and trustworthy interactions between platforms, using identity verification and consensus mechanisms. This architecture mitigates risks like unauthorized data access and tampering, aligning with the need for continuous, secure data flow from physical sensors to digital twins (DT), making BC integral to the Industrial Metaverse's secure deployment."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Block, Inc..txt",
+    "context_order": 3,
+    "question": "In 2023, what was the primary driver behind the increase in total net revenue and how did it affect the gross profit ratio from Bitcoin revenue?",
+    "answer": "The primary driver behind the increase in total net revenue in 2023 was the $2.4 billion increase in Bitcoin revenue, which contributed 43% to total revenue. However, despite this significant contribution to revenue, the gross profit generated from Bitcoin remained low at only 3% of the total gross profit."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_28.md",
+    "context_order": 3,
+    "question": "In paper 3, why is the Jacobi sequence, derived from a $Q$ that is a Z-function which is also nonreversing, likely to converge to a solution?",
+    "answer": "The Jacobi sequence is likely to converge because nonreversing $Q$ functions are M-functions or M0-functions, which have properties ensuring that sequences initialized from subsolutions or supersolutions will converge. Specifically, M-functions are inverse isotone, ensuring stability and convergence of sequences, while M0-functions ensure consistency without inversion, preventing divergences like those shown in nonreversing examples."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_20.md",
+    "context_order": 3,
+    "question": "How does the incorporation of the MHSA module in the SimpleVQA framework enhance its performance in paper 3?",
+    "answer": "The MHSA module in the SimpleVQA framework enhances performance by enabling the model to capture salient frame regions that influence visual quality. This added focus allows for a more nuanced and fine-grained quality assessment, thereby improving the model’s ability to handle the diverse and complex distortions in social media videos."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_13.md",
+    "context_order": 0,
+    "question": "In paper 0, why do the authors emphasize the need for a comprehensive taxonomy for risks in LLM systems, and how does this taxonomy assist developers?",
+    "answer": "The authors of paper 0 emphasize the need for a comprehensive taxonomy to systematically enumerate and categorize potential risks throughout the various modules of LLM systems, as existing efforts typically focus on output content risks using assorted metrics. This taxonomy aids developers by quickly pinpointing specific modules associated with identified risks, allowing them to implement targeted mitigation strategies effectively and improve LLM systems' safety and reliability."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "Paratek Pharmaceuticals Inc.txt",
+    "context_order": 5,
+    "question": "How much was the estimated cash paid for operating lease liabilities during the year ended December 31, 2022, and what is the connection between this amount and the total lease cost for that year?",
+    "answer": "The estimated cash paid for operating lease liabilities during the year ended December 31, 2022, was $730,000. This amount is part of the total lease cost of $835,000, which includes both the operating lease cost of $701,000 and variable lease costs of $134,000."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "128k",
+    "file": "128k_paper_27.md",
+    "context_order": 4,
+    "question": "In paper 4, why do the authors believe that listing items one by one can boost multimodal understanding even when visual tags are omitted during inference?",
+    "answer": "The authors suggest that listing items one by one boosts multimodal understanding because it strengthens the alignment between object features and text, leading to a finer image comprehension. This approach encourages the model to internalize spatial and semantic relationships, which remain beneficial in reasoning tasks without visual tags, thus improving performance by reducing hallucinations and enhancing object-text associations."
+  }
+]

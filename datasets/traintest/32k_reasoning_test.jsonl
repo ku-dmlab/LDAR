@@ -1,0 +1,425 @@
+[
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-Fathom Digital Manufacturing Corp-j.txt",
+    "context_order": 1,
+    "question": "How much was the increase in the Reorganization liability balance from December 31, 2023, to March 31, 2024, and what does it signify about the Company's current actions with its workforce?",
+    "answer": "The Reorganization liability increased from $747 to $987, which is an increase of $240. This indicates that the Company is continuing to incur costs associated with the workforce reductions and other reorganization activities to adjust to market conditions and focus on near-term revenue generation."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-Hapi Metaverse Inc.-j.txt",
+    "context_order": 2,
+    "question": "How did the termination of the AI chatbot service impact the company's revenue and cost of revenue for the three months ended March 31, 2024 compared to 2023?",
+    "answer": "The termination of the AI chatbot service led to a decrease in total revenue from $62,563 in 2023 to $47,103 in 2024 and a decrease in the cost of revenue from $23,548 in 2023 to $16,424 in 2024, as there were no revenues or costs associated with the AI chatbot service post-termination on June 30, 2023."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-China Foods Holdings Ltd.-j.txt",
+    "context_order": 1,
+    "question": "What was the change in the gross profit for the wine segment between the three months ended March 31, 2023, and March 31, 2024, and what factors contributed to this change?",
+    "answer": "The gross profit for the wine segment increased from $2,658 in the three months ended March 31, 2023, to $17,891 in the same period in 2024. This change was primarily due to an increase in revenue from the sale of wine products, which rose from $12,100 to $23,866, while the cost of revenue decreased marginally, leading to higher overall profitability."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-CFN Enterprises Inc.-j.txt",
+    "context_order": 0,
+    "question": "What is the change in net revenues between the first quarters of 2023 and 2024, and what percentage increase does this represent?",
+    "answer": "The net revenues increased from $112,957 in Q1 2023 to $3,844,592 in Q1 2024. This represents an increase of $3,731,635, which is approximately a 3,305.4% increase year-over-year."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "32k_paper_7.md",
+    "context_order": 2,
+    "question": "In paper 2, how does the Positional Skip-wisE (PoSE) method maintain the model's pre-trained capabilities while extending the context window of a Large Language Model (LLM)?",
+    "answer": "PoSE retains the pre-trained capabilities by ensuring the continuity of position indices within each chunk during fine-tuning, which closely resembles the structure of pre-training. This design minimizes disruptions to the language modeling abilities acquired during pre-training, allowing the model to preserve its original language comprehension while adapting to extended context windows."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-form10-k.txt",
+    "context_order": 1,
+    "question": "How did the percentage of inventory purchases accounted for by the three main vendors change from 2022 to 2023?",
+    "answer": "In 2022, four vendors accounted for 73.6% of inventory purchases, whereas in 2023, only three vendors accounted for approximately 73.3% of inventory purchases. This indicates a consolidation of purchasing among a smaller number of vendors with a slight decrease in their combined purchasing percentage, suggesting more concentrated or larger orders from fewer suppliers."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "32k_paper_14.md",
+    "context_order": 2,
+    "question": "Based on paper 2, what could be a reason for the observed subject bias in the performance of LLMs on the GAOKAO benchmark?",
+    "answer": "The subject bias observed in LLM performance on the GAOKAO benchmark, as noted in paper 2, can be attributed to the distinct competencies required for different subjects. For instance, language comprehension and summarization skills are necessary for Chinese and English, while mathematics and physics demand more significant logical reasoning and computational ability. The disparities in these competencies, coupled with possibly uneven pre-training corpus richness across subjects, contribute to the observed subject bias."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-Blue Star Foods Corp.-j.txt",
+    "context_order": 1,
+    "question": "How much did the Company reduce its derivative liability on convertible debt during the three months ended March 31, 2024, and what were the components of this change?",
+    "answer": "The Company reduced its derivative liability on convertible debt by $89,784 during the three months ended March 31, 2024. The components of this change were settlement of derivative liability amounting to $8,320 and a reduction of $81,464 due to changes in derivative liability during the period."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "32k_paper_8.md",
+    "context_order": 1,
+    "question": "In paper 1, why does the introduction of an early exiting mechanism in the Kangaroo framework significantly improve its end-to-end speedup ratio compared to Medusa?",
+    "answer": "The early exiting mechanism in the Kangaroo framework improves the end-to-end speedup ratio by minimizing unnecessary computation on difficult tokens, which reduces inference latency. By halting predictions when the confidence level falls below a certain threshold, Kangaroo avoids wasting resources on tokens that are likely to be rejected, thereby enhancing operational efficiency compared to Medusa, which lacks such dynamic drafting optimizations."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-DecisionPoint Systems, Inc.-j.txt",
+    "context_order": "full",
+    "question": "What is the primary reason for the decrease in accounts receivable and inventory between December 31, 2023 and March 31, 2024?",
+    "answer": "The primary reason for the decrease in accounts receivable from $23,768,000 to $19,292,000 and inventory from $2,133,000 to $1,193,000 is likely due to significant collections during this period and possibly lower purchase activity or improved inventory management, as inferred from the net cash provided by operating activities and corresponding changes in working capital components."
+  },
+  {
+    "type": "novelette_fake",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "The Old Man and The Sea.txt",
+    "context_order": 0,
+    "question": "Why does Guillermo choose to go fishing alone despite the boy's offer to assist him?",
+    "answer": "Guillermo feels that the boy is now with a lucky boat and shouldn't leave it, as luck in fishing plays a significant role. Additionally, Guillermo respects the decision made by the boy's parents and believes the boy left him out of duty, not doubt. Thus, despite appreciating the boy's help, Guillermo insists that the boy remain with the luckier boat, which demonstrates his humility and strong sense of responsibility."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-Charlie's Holdings, Inc.-j.txt",
+    "context_order": 2,
+    "question": "What accounted for the decrease in revenue for the three months ended March 31, 2024, compared to March 31, 2023, and how did it affect Charlie's net loss?",
+    "answer": "The decrease in revenue by $979,000 for the three months ended March 31, 2024, was primarily due to a $657,000 decline in sales of nicotine-based vapor products and a $322,000 decline in sales of hemp-derived products. Despite a decrease in revenue, the net loss decreased by $345,000 compared to the previous year, reflecting mainly a reduction in operating expenses as a result of cost-cutting measures."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "32k_paper_8.md",
+    "context_order": 2,
+    "question": "Why does Mistral 7B outperform larger Llama models, like Llama 2 13B and Llama 1 34B, on reasoning and mathematics benchmarks as discussed in paper 2?",
+    "answer": "Mistral 7B achieves superior performance over larger Llama models due to its use of grouped-query attention and sliding window attention, which enhance inference speed and sequence handling efficiency. This architectural choice reduces memory requirements and boosts throughput, offering competitive advantages on benchmarks where efficiency and handling longer contexts are critical. Consequently, even with fewer parameters, Mistral 7B manages to excel in reasoning and mathematics tasks by optimizing the trade-off between model size, performance, and computational efficiency."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "32k_paper_8.md",
+    "context_order": 0,
+    "question": "In paper 0, how does the alignment of empirical results with the formulated scaling law of LOOKAHEAD DECODING provide insight into its potential scalability on multiple GPUs?",
+    "answer": "The alignment of empirical results with the formulated scaling law indicates that LOOKAHEAD DECODING can linearly reduce the number of decoding steps relative to per-step $\\log$ (FLOPs). This suggests that the method's strong scalability allows it to leverage increased computational resources on multiple GPUs efficiently, potentially reducing per-token latency even further in latency-sensitive tasks."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-Charlie's Holdings, Inc.-j.txt",
+    "context_order": 1,
+    "question": "How did the change in fair value of the derivative liability (warrants) affect the company's liabilities for the three-month period ended March 31, 2024?",
+    "answer": "The change in fair value of the derivative liability (warrants) resulted in a decrease of the company's liabilities by $79,000, reducing the derivative liability from $79,000 to $0 by the end of the period."
+  },
+  {
+    "type": "novelette_fake",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "THE UNPARALLELED ADVENTURES OF ONE HANS PFAAL.txt",
+    "context_order": 1,
+    "question": "Why does the narrator believe that the height at which animals can survive may be higher than previously thought?",
+    "answer": "The narrator argues that existing data on survival at high altitudes is limited to human experiments near Earth's surface, and he suggests that life itself might be capable of modifying to survive higher altitudes, using the behavior of Encke's comet and the concept of a vast ethereal medium as supporting analogies."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-Edible Garden AG Inc-j.txt",
+    "context_order": 0,
+    "question": "How did the change in total current liabilities from December 31, 2023, to March 31, 2024, affect Edible Garden's working capital position, given the unchanged total current assets?",
+    "answer": "Edible Garden's total current liabilities increased from $2,904,000 to $9,583,000, while total current assets slightly decreased from $2,647,000 to $2,617,000, leading to a decline in working capital from a positive $257,000 to a deficit of $6,966,000. This significant increase in current liabilities compared to the minimal change in current assets negatively impacted the company's ability to cover short-term obligations with its available current assets."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-Global Gas Corp-j.txt",
+    "context_order": "full",
+    "question": "How did Global Gas Corporation's subscription receivable change from December 31, 2023, to March 31, 2024, and what does this imply about the company's financial actions during this period?",
+    "answer": "The subscription receivable reduced from $(2,608,141) on December 31, 2023, to $(2,483,141) on March 31, 2024, which implies that the company received cash or other benefit of $125,000 tied to its outstanding subscription agreements."
+  },
+  {
+    "type": "novelette_fake",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "THE GOLD-BUG.txt",
+    "context_order": 0,
+    "question": "How does the narrator deduce that the insect Stern describes resembles a skull?",
+    "answer": "The narrator deduces that the insect resembles a skull after examining the rough drawing Stern provided. The two black spots look like eyes, the longer one like a mouth, and the overall shape is oval, closely matching the form of a death’s-head."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-CalEthos, Inc.-j.txt",
+    "context_order": 0,
+    "question": "What is the primary reason for the difference in the accumulated deficit between March 31, 2024, and December 31, 2023?",
+    "answer": "The primary reason for the increase in the accumulated deficit from $19,280,000 as of December 31, 2023, to $26,294,000 as of March 31, 2024, is the net loss of $7,014,000 incurred during the three months ended March 31, 2024."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-Fathom Digital Manufacturing Corp-j.txt",
+    "context_order": 0,
+    "question": "How did the company's cash position change from December 31, 2023, to March 31, 2024, and what were the main contributors to this change?",
+    "answer": "The company's cash position decreased from $5,573,000 at December 31, 2023, to $2,276,000 at March 31, 2024. The primary contributors to this decrease were net cash used in financing activities of $3,283,000, which included debt payments, and cash used in investing activities of $277,000."
+  },
+  {
+    "type": "novelette_fake",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "THE UNPARALLELED ADVENTURES OF ONE HANS PFAAL.txt",
+    "context_order": "full",
+    "question": "What reasoning led Lars Finkel to attempt a journey to the moon?",
+    "answer": "Lars Finkel, distressed by his financial situation and inspired after reading a treatise on Speculative Astronomy, believed that traveling to the moon was theoretically possible. He reasoned that with the proper materials, a powerful gas, and knowledge from studying practical mechanics and astronomy, he could overcome both the distance and the atmospheric challenges to reach the moon."
+  },
+  {
+    "type": "novelette_fake",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "The Little Prince.txt",
+    "context_order": "full",
+    "question": "Why does the little prince insist on a drawing of a sheep even after rejecting several attempts from the narrator?",
+    "answer": "The little prince rejects the first drawings because one sheep is too sickly, another is a ram, and the last one is too old. Ultimately, what he seeks isn't a perfect physical representation of a sheep but rather something imaginative and practical. Once the narrator draws a box, saying the sheep is inside, the little prince is satisfied because it allows him to project his own imagination onto the drawing, fitting his need for a small sheep for his planet."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "32k_paper_12.md",
+    "context_order": 0,
+    "question": "In paper 0, how does the GRU-SVM model achieve faster prediction and testing times compared to the GRU-Softmax model?",
+    "answer": "The GRU-SVM model achieves faster prediction and testing times because the SVM decision function has a computational complexity of O(1), which means it requires a fixed number of operations regardless of input size. In contrast, the Softmax function's complexity is O(n), requiring operations proportional to the number of classes. This inherent efficiency allows the GRU-SVM model to outperform the GRU-Softmax model in prediction speed."
+  },
+  {
+    "type": "novelette_fake",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "A Christmas Carol.txt",
+    "context_order": 2,
+    "question": "Why does Hartman have difficulty understanding the conversations about a death at first?",
+    "answer": "Hartman initially struggles to understand that the conversations are about his own death because he expects to witness the future consequences of others' actions, not his own. He is unaware that the men speaking in the streets and the people looting the dead man's belongings refer to his fate, which only becomes clear to him when he sees his name on the gravestone."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-FORGE INNOVATION DEVELOPMENT CORP.-j.txt",
+    "context_order": 1,
+    "question": "How did the acquisition of Legend LP impact Forge's ownership structure in terms of equity distribution, and what was the resulting ownership percentage for the Seller, Legend LLC, after the acquisition?",
+    "answer": "Forge acquired 51% of Legend LP in exchange for 1,967,143 of its common shares, reducing Legend LLC's ownership to 15%. This equity transaction reflected an ownership shift where Forge became the majority owner, now holding 51% of Legend LP."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "32k_paper_4.md",
+    "context_order": 0,
+    "question": "How does Minimod evaluate the performance scalability of propagators on different HPC platforms compared to node-level parallelism, according to the benchmark results in paper 0?",
+    "answer": "Minimod evaluates the scalability of propagators by conducting single node-level tests across various computer systems, like IBM Power, AMD EYPC, and Fujitsu A64FX, and comparing them to the ideal scalability trend. The results show that Fujitsu A64FX provides better performance, approaching the efficiency of Nvidia's V100 GPU, establishing a benchmark for scalability beyond what node-level parallelism typically achieves on less optimized systems."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-FOCUS UNIVERSAL INC.-j.txt",
+    "context_order": "full",
+    "question": "How did the change in accounts payable and accrued liabilities impact cash flow from operating activities for the three months ended March 31, 2024?",
+    "answer": "The accounts payable and accrued liabilities increased by $268,420, which positively impacted cash flow from operating activities by increasing cash, as an increase in liabilities leads to a cash inflow."
+  },
+  {
+    "type": "novelette_fake",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "THE UNPARALLELED ADVENTURES OF ONE HANS PFAAL.txt",
+    "context_order": 0,
+    "question": "Why did the discovery of Lars Finkel's hat in the balloon generate significant interest among the citizens of Rotterdam?",
+    "answer": "The hat in the balloon caused a stir because Lars Finkel, the previous owner, had mysteriously disappeared five years prior with three other men. His sudden reappearance signaled that the unexplained disappearance might be connected to his strange flight in the balloon, igniting curiosity and concern among the citizens."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "32k_paper_4.md",
+    "context_order": 1,
+    "question": "In paper 1, how do the authors ensure the 3D grid domain in the stencil computation fully utilizes the WSE's processing capabilities?",
+    "answer": "The authors ensure full utilization of the WSE's processing capabilities by mapping the X and Y dimensions of the 3D grid onto the processor fabric and storing the Z dimension entirely within the local memory of each processing element. This mapping strategy maximizes concurrency while maintaining localized communication, allowing each processing element to perform stencil computations independently on its subset of data, leveraging the massively parallel architecture of the WSE."
+  },
+  {
+    "type": "novelette_fake",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "The CALL of CTHULHU.txt",
+    "context_order": 2,
+    "question": "Why did only two sailors from the Emma survive after encountering Cthulhu on the island?",
+    "answer": "Only two sailors survived because many of them either died from fright, were consumed by Cthulhu, or were lost due to the warped geometry of the city. The horror of confronting Cthulhu’s form, the monster’s attacks, and the strange non-Euclidean landscape caused the deaths of four of the six men who disembarked."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "32k_paper_16.md",
+    "context_order": 0,
+    "question": "What main factor suggests that monolingual tuning can improve instruction-following capabilities in other languages according to paper 0, and how do multilingual datasets compare in terms of performance?",
+    "answer": "The main factor is that monolingual instruction tuning transfers non-negligible instruction-following abilities to other languages due to the cross-lingual nature of the LLM's pre-training data. In comparison, training on multilingual datasets achieves comparable or superior performance to monolingual tuning, especially as it enables better instruction-following abilities with even fewer examples per language in the tuning set."
+  },
+  {
+    "type": "novelette_fake",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "Metamorphosis.txt",
+    "context_order": 0,
+    "question": "Why does Victor initially decide not to call for help to get out of bed, even though it would make things easier for him?",
+    "answer": "Victor considers calling for help, imagining two strong people could easily lift him out of bed. However, he dismisses the idea with a smile, likely due to a combination of pride and the fact that calling for help would expose his bizarre transformation. He seems to prefer struggling on his own rather than letting others see his current state."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-Cepton, Inc.-j.txt",
+    "context_order": 0,
+    "question": "By how much did Cepton, Inc.'s net loss decrease for the three months ended March 31, 2024, compared to the same period in 2023, and what was a major contributing factor?",
+    "answer": "Cepton, Inc.'s net loss decreased by $7,909,000, from $14,742,000 in 2023 to $6,833,000 in 2024. A major contributing factor to this decrease was the net other income of $4,022,000 in 2024, significantly higher than the $19,000 in 2023."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-FLEXIBLE SOLUTIONS INTERNATIONAL INC-j.txt",
+    "context_order": 1,
+    "question": "How did the early termination of the lease in Naperville, IL impact the financial statements for the three months ended March 31, 2024?",
+    "answer": "The early termination of the lease in Naperville, IL resulted in a penalty of $35,910 and forfeiture of a $5,440 security deposit, leading to a total loss of $41,350. This financial impact is reflected in the right-of-use asset and lease liability accounts both having a balance of $0 at March 31, 2024, after removing $101,599 for the terminated lease from these accounts."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-Dominari Holdings Inc.-j.txt",
+    "context_order": 2,
+    "question": "How much unrecognized stock-based compensation expense was there as of March 31, 2024, and how does it compare to the estimated future expense for unvested stock options?",
+    "answer": "The unrecognized stock-based compensation expense related to restricted stock awards was approximately $0.2 million as of March 31, 2024. The estimated future stock-based compensation expense for unvested stock options is higher at approximately $0.4 million, indicating that stock options present a larger anticipated future expense."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-Hapi Metaverse Inc.-j.txt",
+    "context_order": 1,
+    "question": "What was the change in fair value of the investment in securities at fair value between December 31, 2023, and March 31, 2024, and what does this change signify?",
+    "answer": "The fair value of the investment in securities decreased from $3,913,508 on December 31, 2023, to $1,382,045 on March 31, 2024, signifying a decline of $2,531,463. This change reflects a significant decrease in the market value of the investment, likely due to market conditions affecting the value of VEII's common stock and warrants."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "32k_paper_15.md",
+    "context_order": 0,
+    "question": "In paper 0, why do the authors believe that language agents struggle with complex multi-constraint tasks like those in TravelPlanner, despite improvements in LLM capabilities?",
+    "answer": "The authors of paper 0 suggest that language agents struggle with complex multi-constraint tasks in TravelPlanner because they often fail to appropriately manage multiple constraints due to their inability to handle prompted information comprehensively and holistically. Current language models, including advanced ones like GPT-4, suffer from errors in information collection and reasoning alignment, which limit their capability to address all necessary constraints effectively, as evidenced by low pass rates and repeated failures when trying to dynamize their plans according to environmental feedback."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-GD Culture Group Ltd-j.txt",
+    "context_order": "full",
+    "question": "What accounts for the change in Shareholders' Equity from March 31, 2024, compared to December 31, 2023, and what is the impact of noncontrolling interest in this change?",
+    "answer": "The change in Shareholders' Equity from December 31, 2023, to March 31, 2024, is accounted for by an increase in additional paid-in capital due to the issuance of common stock, offset by a significant increase in accumulated deficit. The noncontrolling interest decreased by approximately $3.4 million, reflecting SH Xianzhui's purchase that reduced noncontrolling ownership and contributed to the net reduction in total equity."
+  },
+  {
+    "type": "paper",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "32k_paper_13.md",
+    "context_order": 2,
+    "question": "In paper 2, how does the Rolling Buffer Cache mechanism contribute to the efficiency of Mistral 7B during inference?",
+    "answer": "The Rolling Buffer Cache reduces memory overhead by maintaining a fixed cache size of W and overwriting past values as the sequence progresses beyond W. This prevents cache growth and reduces memory usage by 8x on a 32k token sequence, allowing efficient handling of large inputs without degrading model performance."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-HCW Biologics Inc.-j.txt",
+    "context_order": "full",
+    "question": "How did the net change in accounts payable affect the cash flow from operating activities for the three months ended March 31, 2024, compared to the same period in 2023?",
+    "answer": "The net change in accounts payable contributed an increase in cash of $2.5 million for the three months ended March 31, 2024, compared to an increase of $718,675 for the same period in 2023. This change in accounts payable indicates that the company delayed some payments, thereby improving cash flow from operating activities."
+  },
+  {
+    "type": "novelette_fake",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "THE GOLD-BUG.txt",
+    "context_order": 2,
+    "question": "How did Stern deduce that the skull on the parchment appeared due to heat?",
+    "answer": "Stern realized that the skull must have appeared when the parchment was exposed to heat because there was no skull visible when he had first sketched the beetle. He remembered the parchment had been close to the fire while the other person was inspecting it, which led him to the conclusion that it was some heat-reactive chemical that caused the skull to become visible."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-Genprex, Inc.-j.txt",
+    "context_order": "full",
+    "question": "What financial impact did changes in operating assets and liabilities have on the net cash used in operating activities for the three months ended March 31, 2024, compared to the same period in 2023?",
+    "answer": "Changes in operating assets and liabilities contributed to a change in net cash used in operating activities by an amount that resulted from multiple factors. Accounts payable increased by $754,601 in 2024 compared to 2023, while prepaid expenses and other decreased by $216,623, contributing to reduced cash outflow. These adjustments in operating balances accounted for a portion of the decrease in net cash used of $1,634,546 year-over-year."
+  },
+  {
+    "type": "novelette_fake",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "Daisy Miller.txt",
+    "context_order": 0,
+    "question": "Why does Violet's brother Lucas refuse to go to the Chateau de Chillon?",
+    "answer": "Lucas refuses to go to the Chateau de Chillon because, as Violet explains, he doesn’t care much about old castles. He is only nine years old and prefers staying at the hotel, where he is more interested in talking to waiters or doing things that entertain him."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-FOCUS UNIVERSAL INC.-j.txt",
+    "context_order": 2,
+    "question": "How did the changes in cost of revenue for IoT Products and IoT Installation Services impact the overall gross profit from the three months ended March 31, 2023, to the same period in 2024?",
+    "answer": "For the IoT Products segment, cost of revenue increased due to a 53% rise, reducing gross profit despite a revenue increase. The IoT Installation Services experienced a 33% cost increase alongside a significant revenue decrease, turning its segment gross profit positive in 2023 to negative in 2024, overall resulting in a decline of total gross profit by $55,550."
+  },
+  {
+    "type": "financial",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "2024-FLEXIBLE SOLUTIONS INTERNATIONAL INC-j.txt",
+    "context_order": 2,
+    "question": "How did the company's balance of short-term borrowings change from December 31, 2023, to March 31, 2024, and what may have contributed to this change?",
+    "answer": "The short-term borrowings increased from $1,810,479 as of December 31, 2023, to $3,259,935 by March 31, 2024. This increase could be due to the company drawing additional funds from its revolving line of credit, potentially aligning with the reported rise in borrowing from the short-term line of credit of $1,449,456 during the period."
+  },
+  {
+    "type": "novelette_fake",
+    "level": "reasoning",
+    "length": "32k",
+    "file": "Daisy Miller.txt",
+    "context_order": 1,
+    "question": "Why does Alexander ultimately decide to accompany Violet to the Pincio despite his reservations about Mr. Romano?",
+    "answer": "Alexander decides to accompany Violet because he feels a sense of responsibility for her well-being and does not want her to meet Mr. Romano alone, as he doubts the man's character and senses that the situation could be improper. By staying with her, he hopes to protect her from making questionable decisions."
+  }
+]

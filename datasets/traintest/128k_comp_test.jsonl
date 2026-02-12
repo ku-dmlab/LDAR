@@ -1,0 +1,494 @@
+[
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Cranford.txt",
+    "comp_parts": [
+      2,
+      4
+    ],
+    "question": "What contrasting events influence how Cranford society diffuses tension between characters during the return of Mr. Peter compared to following Signor Brunoni's appearance?",
+    "answer": "Mr. Peter's return leads to resolutions and harmony within Cranford society as he facilitates reconciliation and strengthens community ties, whereas Signor Brunoni's appearance initially incites fear and suspicion among the residents."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_24.md",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How do the studies in paper 1 and paper 2 differ in terms of assessing the performance of quantum machine learning models compared to classical models?",
+    "answer": "Paper 1 introduces SantaQlaus, a novel quantum-inspired optimizer, demonstrating its superiority over classical optimizers like Adam in certain tasks, whereas paper 2 provides a large-scale benchmark study revealing that classical models systematically outperform quantum models on small-scale tasks, suggesting that 'quantumness' might not yet be a crucial factor for the datasets considered."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_9.md",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What are the main challenges and solutions for memory efficiency proposed in paper 1 and paper 2 for handling large-scale data?",
+    "answer": "Paper 1 tackles memory efficiency through 3D parallelism in large language models like MT-NLG by combining data, tensor, and pipeline parallelism, while paper 2 addresses memory TCO savings in data centers using TierScape's multiple software-defined compressed memory tiers to balance memory use and system performance."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_6.md",
+    "comp_parts": [
+      0,
+      4
+    ],
+    "question": "How do the methodologies for reducing prefill and decoding interferences in DistServe (paper 0) and TetriInfer (paper 4) compare?",
+    "answer": "DistServe addresses prefill and decoding interferences by disaggregating the two phases into separate GPU instances, while TetriInfer mitigates interference by not only disaggregating prefill and decode instances but also using a smart scheduling algorithm and fixed-size chunk processing."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "White Fang.txt",
+    "comp_parts": [
+      0,
+      3
+    ],
+    "question": "What contrasting elements are used to depict the wilderness in 'THE TRAIL OF THE MEAT' and White Fang's perception of human society?",
+    "answer": "While 'THE TRAIL OF THE MEAT' portrays the wilderness as a desolate, savage, and humorously indifferent force, White Fang perceives human society as a realm of cruelty and power struggles, highlighting his isolation and how he navigates these harsh environments."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_6.md",
+    "comp_parts": [
+      2,
+      4
+    ],
+    "question": "How do the scheduling approaches of Aladdin in paper 2 and TetriInfer in paper 4 address resource utilization and interference in LLM inference serving?",
+    "answer": "Aladdin employs a co-adaptive scheduler to minimize GPUs by predicting resource needs and optimizing placement for service level objectives, whereas TetriInfer disaggregates prefill and decode phases and uses a two-level scheduling to mitigate interference and enhance efficiency."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Harry Potter and the Chamber of Secrets.txt",
+    "comp_parts": [
+      2,
+      4
+    ],
+    "question": "What role does Hagrid play in the events related to the Chamber of Secrets being opened?",
+    "answer": "Hagrid is initially suspected of opening the Chamber of Secrets due to his past with Aragog, but it is later revealed that he was not the one responsible, as Aragog tells Harry that Hagrid had never released the monster contained within the Chamber."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Cranford.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How do the residents of Cranford in 'Cranford' by Elizabeth Cleghorn Gaskell deal with unusual events or strangers in their town?",
+    "answer": "The residents of Cranford respond to unusual events and strangers with a mix of cautious curiosity and imagination, often relying on each other for verification and embellishment of their concerns, as seen in their reactions to Signor Brunoni's visit and the subsequent rumors of robberies."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_14.md",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How do the proposed methodologies in Automatic Tool Chain (ATC) from paper 1 and FUNCODER from paper 2 address the challenges of handling complex problem requirements using large language models?",
+    "answer": "Automatic Tool Chain (ATC) in paper 1 uses a framework that enables LLMs to act as multi-tool learners utilizing a chain of tools and includes a black-box probing method, whereas FUNCODER in paper 2 employs a divide-and-conquer strategy paired with functional consensus to decompose complex tasks into simpler sub-functions for code generation."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_23.md",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What similarities in evaluation criteria are utilized in both the RAG framework from paper 1 and the KN thesis evaluation from paper 2?",
+    "answer": "Both paper 1 and paper 2 emphasize the importance of evaluating model capabilities through reliability and generality, with paper 2 additionally proposing criteria like bijective symmetry and synonymous invariance to test the robustness of model-editing methods."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_30.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How do the autoregressive approaches differ between AIM in paper 0 and ARVideo in paper 1 in terms of application to vision and video representation learning?",
+    "answer": "In paper 0, AIM uses autoregressive modeling for visual features with a focus on scaling and downstream image tasks, whereas in paper 1, ARVideo adapts autoregressive modeling to video data by creating spatiotemporal clusters to learn from multi-dimensional video sequences."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "Paratek Pharmaceuticals Inc.txt",
+    "comp_parts": [
+      3,
+      4
+    ],
+    "question": "How did the full-year net product revenue change for Paratek Pharmaceuticals' NUZYRA from 2021 to 2022, and what was the impact on the company's net loss for the same period?",
+    "answer": "The net product revenue for Paratek Pharmaceuticals' NUZYRA increased from $106.1 million in 2021 to $136.8 million in 2022, while the net loss increased from $59.1 million in 2021 to $63.6 million in 2022."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_18.md",
+    "comp_parts": [
+      1,
+      3
+    ],
+    "question": "In paper 1 and paper 3, how do the applications of the Llama 2 model differ in the context of their specific tasks or domains?",
+    "answer": "Paper 1 applies Llama 2 for predictive tasks in data science specifically focusing on tabular data, showing significant improvement in classification, regression, and missing value predictions, whereas Paper 3 explores its use as a base and fine-tuned model for dialogue applications, emphasizing safety and alignment with human preferences to outperform open-source chat models."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_29.md",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What is the primary difference in approach between paper 0 and paper 2 towards improving multilingual capabilities of language models?",
+    "answer": "Paper 0 focuses on efficient language capability transfer for non-English languages using minimal pretraining data on LLMs like LLaMA, while paper 2 introduces Aya 23, focusing on in-depth pretraining aligned with 23 languages to balance breadth and depth, thereby improving multilingual modeling capabilities."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Scarlet Letter.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How do Hester Prynne and Reverend Dimmesdale each respond to the visible and invisible symbols of their sin?",
+    "answer": "Hester Prynne openly embraces the visible symbol of her sin, the scarlet letter, as a form of penance, while Reverend Dimmesdale suffers internally and hides his sin, leading to guilt and physical deterioration."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "Block, Inc..txt",
+    "comp_parts": [
+      0,
+      4
+    ],
+    "question": "How did the classification of consumer receivables and their allowance for credit losses change from January 31, 2022 to December 31, 2023?",
+    "answer": "The consumer receivables classified as 'Pass' increased to $2.5 billion with $185.275 million in credit loss allowance by December 31, 2023, from the time of Afterpay's acquisition in January 2022 where the beginning allowance was $115.552 million."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_30.md",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What are the main differences in the approaches of dataset filtration or curation in paper 1 and paper 2?",
+    "answer": "Paper 1 introduces a novel ARVideo framework focusing on autoregressive video token clustering for self-supervised learning, whereas paper 2 discusses DATACOMP and the curation of multimodal datasets from a large candidate pool, emphasizing filtering via CLIP score and text-based methods."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_28.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How do the concepts of radiation protection in ionised biomolecules from paper 0 and optimal transport in economic resource allocation in paper 1 address the challenges posed by their respective domains?",
+    "answer": "Paper 0 demonstrates that a single water molecule can reduce radiation damage probability in ionised pyrrole by enabling dissociative pathways, while paper 1 shows that optimal transport provides a structured mathematical framework to resolve resource allocation problems efficiently by maximizing surplus under given constraints."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_19.md",
+    "comp_parts": [
+      1,
+      3
+    ],
+    "question": "How do the PRUNE framework in paper 1 and the MEMoE architecture in paper 3 differ in preserving the general abilities of LLMs during model editing?",
+    "answer": "PRUNE in paper 1 uses condition number restraints to reduce perturbation in sequential editing, whereas MEMoE in paper 3 employs a Mixture of Experts architecture to preserve general ability by keeping original parameters unchanged and using knowledge anchor routing for efficient knowledge updates."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_25.md",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How do the two papers (paper 1 and paper 2) address the issue of detecting anomalies in time series within the context of IT operations or AIOps?",
+    "answer": "Paper 1 discusses various deep learning models like RNNs, CNNs, and VAEs specifically for the task of detecting anomalies in time series data across different domains, while paper 2 extends this by applying anomaly detection techniques in the context of AIOps to monitor IT system health using metrics, logs, and traces."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Pere Goriot.txt",
+    "comp_parts": [
+      1,
+      4
+    ],
+    "question": "How is the theme of parental sacrifice portrayed differently between Anastasie de Restaud and Delphine de Nucingen towards their father, Goriot?",
+    "answer": "Anastasie de Restaud's actions lead to a financial strain on Goriot, ultimately disregarding his sacrifice, while Delphine de Nucingen seems more aware of her father's sacrifices and expresses a desire to reconcile her enjoyment of luxury with her responsibilities towards him."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Brave New World.txt",
+    "comp_parts": [
+      2,
+      4
+    ],
+    "question": "How does the concept of personal freedom differ between the two scenarios involving soma in the narrative?",
+    "answer": "In the first scenario, soma is used by Linda and civilized society to escape reality and find happiness, while in the second scenario, the Savage condemns soma, trying to 'free' others by discarding it, which leads to chaos and conflict."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "2U, Inc..txt",
+    "comp_parts": [
+      1,
+      4
+    ],
+    "question": "How did the level of impairment charges for goodwill change in the Degree Program Segment and Alternative Credential Segment from 2022 to 2023?",
+    "answer": "In the Degree Program Segment, there were no impairment charges for goodwill in either 2022 or 2023, whereas in the Alternative Credential Segment, goodwill impairment charges increased from $78.991 million in 2022 to $79.471 million in 2023."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Sun Also Rises.txt",
+    "comp_parts": [
+      0,
+      3
+    ],
+    "question": "What are the contrasting perceptions of Robert Cohn's behavior when it comes to romantic entanglements in the story?",
+    "answer": "In the first part, Cohn's entanglements are perceived as naive and impulsive, particularly with Frances, while in the latter part, his involvement with Brett and subsequent actions are viewed by others as obsessive and detrimental."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_3.md",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How do the convolutional approaches for omnidirectional images differ between paper 1 and paper 2?",
+    "answer": "Paper 1 proposes a spherical CNN approach using parameterized differential operators on unstructured grids, while paper 2 introduces pseudocylindrical convolutions with pseudocylindrical padding for 360-degree image compression, focusing on addressing the over-sampling problem of ERP projections."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Frankenstein; Or, The Modern Prometheus.txt",
+    "comp_parts": [
+      1,
+      3
+    ],
+    "question": "What impact does the creature's interaction with the child and subsequent actions in Geneva have on Victor's perception of his own responsibilities and guilt in creating the creature?",
+    "answer": "The creature's interaction with the child, leading to the child's murder, coupled with placing incriminating evidence on Justine, intensifies Victor's sense of responsibility and guilt as he realizes his creation is causing immeasurable harm."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "Tesla, Inc..txt",
+    "comp_parts": [
+      1,
+      5
+    ],
+    "question": "How do the commitments for capital expenditure and tax revenues in the state of New York compare to those in Shanghai, China for Tesla as of December 31, 2023?",
+    "answer": "As of December 31, 2023, Tesla committed to $5 billion in combined expenditures and costs in New York state by the end of 2029, while in Shanghai, China, Tesla committed to RMB 14.08 billion in capital expenditures and RMB 2.23 billion in annual tax revenues by the end of 2023, both of which have been achieved."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "Mrs. Dalloway.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What emotions do both Clarissa Dalloway and Peter Walsh feel when reflecting on their past relationship and its impact on their present lives?",
+    "answer": "Clarissa Dalloway feels a sense of self-assurance and relief at not marrying Peter, recognizing the independence she gains in her marriage with Richard, while Peter Walsh experiences lingering jealousy and regret over lost possibilities, realizing how much Clarissa's rejection still affects him."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_26.md",
+    "comp_parts": [
+      1,
+      3
+    ],
+    "question": "How does the integration of coreference information in context-aware machine translation models in paper 1 compare to the use of large language models for machine translation tasks in paper 3?",
+    "answer": "Paper 1 proposes enhancing context-aware machine translation models by predicting coreference clusters to improve translation accuracy, while paper 3 describes large language models' significant advancements in multilingual and few-shot translation through cross-lingual instruction-tuning, highlighting different methods of improving machine translation."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_17.md",
+    "comp_parts": [
+      2,
+      3
+    ],
+    "question": "What key mechanisms are proposed in paper 2 and paper 3 to address drift during LLM fine-tuning with human feedback?",
+    "answer": "Paper 2 introduces a payment scheme to ensure truthful reporting in multiparameter mechanism design, addressing strategic misreporting, while Paper 3 proposes Elastic Reset, periodically resetting the model to mitigate drift without modifying the training objective."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "White Fang.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "What is the significant difference in White Fang's upbringing after he encounters humans compared to his early life in the wild?",
+    "answer": "In the wild, White Fang experiences freedom and learns from his environment, but after encountering humans, his movements and interactions are controlled and restricted, primarily due to their power and dominance."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Hound of the Baskervilles.txt",
+    "comp_parts": [
+      1,
+      3
+    ],
+    "question": "What role does the Grimpen Mire play in the story, according to both segments?",
+    "answer": "The Grimpen Mire is portrayed as a treacherous and deadly location, where danger lurks, demonstrated by Stapleton's familiarity with its paths and the incidents of creatures being swallowed by it."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_7.md",
+    "comp_parts": [
+      3,
+      4
+    ],
+    "question": "How do the integration and application areas of LLMs in traffic signal control in paper 3 and in particle accelerator tuning in paper 4 compare?",
+    "answer": "In paper 3, LLMs are integrated into traffic signal control to enhance decision-making in complex urban environments, whereas in paper 4, LLMs are employed for autonomous tuning of particle accelerators by providing optimization capabilities through natural language prompts."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "Block, Inc..txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How did the organizational structure change with respect to Block, Inc's management reporting in the fourth quarter of 2023 affect the allocation of BNPL platform financial results?",
+    "answer": "In the fourth quarter of 2023, Block, Inc. changed its management reporting structure, moving the business activities and management of its BNPL platform fully under the Cash App segment, thus ceasing the previous practice of allocating 50% of revenue and gross profit from the BNPL platform to both the Square and Cash App segments."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_20.md",
+    "comp_parts": [
+      2,
+      3
+    ],
+    "question": "What are the differences in generalizability between the models proposed in paper 2 and paper 3 when assessing visual quality across datasets?",
+    "answer": "In paper 2, the model VisualCritic exhibits unprecedented cross-dataset generalizability for visual subjective quality assessment, while in paper 3, the enhanced BVQA model is primarily focused on robust performance across diverse social media video quality datasets."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "3D Systems Corp..txt",
+    "comp_parts": [
+      2,
+      5
+    ],
+    "question": "How did the impairment charges on property and equipment and the amortization expense related to intangible assets change from 2021 to 2022?",
+    "answer": "The impairment charges decreased from $788,000 in 2021 to $18,000 in 2022, while amortization expense increased from $10,469,000 in 2021 to $15,480,000 in 2022."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "128k",
+    "file": "Mind Medicine (MindMed) Inc..txt",
+    "comp_parts": [
+      1,
+      3
+    ],
+    "question": "What are some potential consequences mentioned in the financial statements if the company fails to comply with controlled substance laws and regulations when developing its product candidates?",
+    "answer": "Failure to comply with controlled substance laws and regulations may result in increased costs, enforcement actions, regulatory scrutiny, potential litigation, and criminal prosecution, which could delay or prevent product development and commercialization."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Enchanted April.txt",
+    "comp_parts": [
+      2,
+      3
+    ],
+    "question": "How do Mrs. Arbuthnot's feelings towards her husband Frederick contrast with Lady Caroline's interactions with Mr. Wilkins during their stay at San Salvatore?",
+    "answer": "Mrs. Arbuthnot yearns for a private emotional connection with her husband Frederick and struggles with inviting him, while Lady Caroline, despite initial assumptions, finds Mr. Wilkins respectfully non-intrusive and even willing to assist those around him, contrasting with Mrs. Arbuthnot's uncertainty and longing."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "128k",
+    "file": "128k_paper_13.md",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "In terms of fairness, how do paper 1 and paper 2 address the challenges and opportunities in balancing bias and equity in LLMs?",
+    "answer": "Paper 1 focuses on fairness in LLMs through analysis and mitigation algorithms, while paper 2 discusses bias in LLM supply chains and suggests opportunities like ethical guidelines for model training to improve fairness."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Adventures of Tom Sawyer.txt",
+    "comp_parts": [
+      1,
+      3
+    ],
+    "question": "How does Tom Sawyer's approach to secrecy and adventure differ in his conversations with Huck Finn and Becky Thatcher?",
+    "answer": "With Huck Finn, Tom Sawyer shares secrets and makes solemn oaths about not revealing their knowledge of the murder, while with Becky Thatcher, he uses adventure, like exploring the cave, as a means to entertain and engage her without serious secrets involved."
+  },
+  {
+    "type": "novel",
+    "level": "comp",
+    "length": "128k",
+    "file": "The Blue Castle.txt",
+    "comp_parts": [
+      1,
+      4
+    ],
+    "question": "How does Valancy's attitude towards her life and family change from the beginning of the story until she has met Barney?",
+    "answer": "Initially, Valancy feels trapped and unfulfilled in her life, resigned to a lack of love and personal freedom, but after meeting Barney and experiencing genuine affection and independence, she gains a sense of empowerment and purpose."
+  }
+]

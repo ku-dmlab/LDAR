@@ -1,0 +1,1649 @@
+[
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "Daisy Miller.txt",
+    "context_order": "full",
+    "question": "What were the specific contents of Violet's letter to Mr. Alexander after their excursion to Chillon?",
+    "answer": "The text does not mention any specific letters or correspondence from Violet to Mr. Alexander after their excursion to Chillon."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "Bartleby, The Scrivener.txt",
+    "context_order": "full",
+    "question": "What was Quimby's favorite book to read in his leisure time?",
+    "answer": "The text does not mention any specific book that Quimby preferred to read in his leisure time."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Brand Engagement Network Inc.-j.txt",
+    "context_order": 2,
+    "question": "What is the company's projected revenue growth for the next fiscal year?",
+    "answer": "The financial statement does not mention any projections for the company's revenue growth for the next fiscal year."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Fathom Digital Manufacturing Corp-j.txt",
+    "context_order": 1,
+    "question": "What is the company's strategy for entering new international markets?",
+    "answer": "The document does not provide any information about the company's strategy for entering new international markets."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-FOCUS UNIVERSAL INC.-j.txt",
+    "context_order": "full",
+    "question": "What is the planned investment for new IoT product development in the upcoming year?",
+    "answer": "The financial statement does not mention any specific planned investment for new IoT product development in the upcoming year."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-GBT Technologies Inc.-j.txt",
+    "context_order": 0,
+    "question": "What is the company's strategy for expanding its market presence in Asia?",
+    "answer": "The document does not provide any information regarding the company's strategy for expanding its market presence in Asia."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-EOS INC.-j.txt",
+    "context_order": "full",
+    "question": "What is the strategic plan for expanding market presence in Europe?",
+    "answer": "The financial statement does not provide information regarding a strategic plan for expanding market presence in Europe."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "Daisy Miller.txt",
+    "context_order": 1,
+    "question": "What was the name of Violet's favorite pet cat?",
+    "answer": "The text does not mention the name of Violet's favorite pet cat."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Dominari Holdings Inc.-j.txt",
+    "context_order": 1,
+    "question": "What strategies does the company have in place for expanding into international markets?",
+    "answer": "The financial statement does not outline any strategies for expanding into international markets."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Old Man and The Sea.txt",
+    "context_order": 0,
+    "question": "What is the secret technique that Guillermo uses to ensure his fishing lines are always perfectly positioned?",
+    "answer": "The text does not provide any details about a secret technique used by Guillermo to perfectly position his fishing lines."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Murders in the Rue Morgue.txt",
+    "context_order": "full",
+    "question": "What specific chess strategy did Mr. Julien Verne excel at?",
+    "answer": "The text does not mention any specific chess strategy that Mr. Julien Verne excelled at."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Hapi Metaverse Inc.-j.txt",
+    "context_order": 2,
+    "question": "What is the projected growth rate for Hapi Metaverse Inc.'s sales over the next two years?",
+    "answer": "The financial statement does not provide any projections or forecasts regarding the growth rate of Hapi Metaverse Inc.'s sales over the next two years."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_6.md",
+    "context_order": 0,
+    "question": "In paper 0, how does the introduction of very deep Transformers affect the energy consumption compared to less deep models in distributed computing environments?",
+    "answer": "Paper 0 does not address the impact of introducing very deep Transformers on energy consumption in distributed computing environments compared to less deep models."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-EQUUS TOTAL RETURN, INC.-j.txt",
+    "context_order": 2,
+    "question": "What is the projected future value of Morgan's oil and gas reserves for the next five years?",
+    "answer": "The financial statement does not provide any information or projections about the future value of Morgan's oil and gas reserves for the next five years."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The CALL of CTHULHU.txt",
+    "context_order": 0,
+    "question": "What were the exact words that Professor Thorn heard in his dream during the summer of 1925?",
+    "answer": "The text does not provide any details about specific words Professor Thorn might have heard in his dreams during the summer of 1925."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "A Christmas Carol.txt",
+    "context_order": 2,
+    "question": "What did Hartman discover in the hidden attic of his house on Christmas Eve?",
+    "answer": "The text does not mention Hartman discovering anything in the hidden attic of his house on Christmas Eve."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_8.md",
+    "context_order": 2,
+    "question": "In paper 2, how does Mistral 7B's architecture incorporate quantum computing techniques to improve natural language processing tasks?",
+    "answer": "Paper 2 does not discuss the incorporation of quantum computing techniques in Mistral 7B's architecture for natural language processing tasks."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-China Foods Holdings Ltd.-j.txt",
+    "context_order": 2,
+    "question": "What are the future plans for expansion into new international markets?",
+    "answer": "The financial statement does not address any plans for expansion into new international markets."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Little Prince.txt",
+    "context_order": 0,
+    "question": "What species of bird did the stellar boy use for his escape from his planet?",
+    "answer": "The text does not specify the species of bird that the stellar boy used for his escape from his planet."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-CalEthos, Inc.-j.txt",
+    "context_order": "full",
+    "question": "What is the projected launch date for the clean-energy-powered data center?",
+    "answer": "The financial statement does not provide a specific projected launch date for the clean-energy-powered data center."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Edible Garden AG Inc-j.txt",
+    "context_order": "full",
+    "question": "What is the company's strategy for expansion in international markets?",
+    "answer": "The financial statement does not address the company's strategy for expansion in international markets."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_16.md",
+    "context_order": 2,
+    "question": "In paper 2, what specific computational techniques were employed to optimize the speed of multilingual fine-tuning beyond just reducing model size?",
+    "answer": "Paper 2 does not provide specific information on computational techniques employed to optimize the speed of multilingual fine-tuning beyond just reducing model size."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-ExchangeRight Income Fund-j.txt",
+    "context_order": 0,
+    "question": "What are the company's plans for entering the renewable energy sector?",
+    "answer": "The financial statement does not provide any information regarding the company's plans for entering the renewable energy sector."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Pearl.txt",
+    "context_order": 2,
+    "question": "What kind of musical instrument did Pearl play while in the heavenly city?",
+    "answer": "The text does not mention any specific musical instrument that Pearl played while in the heavenly city."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Cepton, Inc.-j.txt",
+    "context_order": 0,
+    "question": "What is the expected impact of new accounting standards on Cepton, Inc.'s financial results?",
+    "answer": "The document does not discuss the expected impact of new accounting standards on Cepton, Inc.'s financial results."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_1.md",
+    "context_order": 2,
+    "question": "In paper 2, what specific metrics do the authors propose to evaluate the performance of LLMs in accurately distinguishing between overlapping SDG classifications?",
+    "answer": "Paper 2 does not propose specific metrics to evaluate the performance of LLMs in distinguishing between overlapping SDG classifications."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "Metamorphosis.txt",
+    "context_order": 0,
+    "question": "What happened to the pet cat that belonged to Victor's family?",
+    "answer": "The text does not mention anything about a pet cat belonging to Victor's family."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_16.md",
+    "context_order": 1,
+    "question": "In paper 1, how does the computational efficiency of adding all 52 languages simultaneously for instruction fine-tuning compare to sequentially adding them?",
+    "answer": "Paper 1 does not address the computational efficiency comparison between adding all 52 languages simultaneously and sequentially during instruction fine-tuning."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-ExchangeRight Income Fund-j.txt",
+    "context_order": 1,
+    "question": "What is the expected growth rate for the company’s net income over the next five years?",
+    "answer": "The financial statement does not provide information on the expected growth rate for the company’s net income over the next five years."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Murders in the Rue Morgue.txt",
+    "context_order": 0,
+    "question": "What was Julien Verne's favorite book that he read while living in Paris?",
+    "answer": "The text does not mention any specific book that Julien Verne favored while living in Paris."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Blue Star Foods Corp.-j.txt",
+    "context_order": 0,
+    "question": "What is the future projected revenue growth rate for Blue Star Foods Corp.?",
+    "answer": "The financial statement does not provide any projections or estimates regarding the future revenue growth rate for Blue Star Foods Corp."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Genprex, Inc.-j.txt",
+    "context_order": 2,
+    "question": "What are the projected revenues for the diabetes gene therapy products?",
+    "answer": "The financial statement does not provide any information on projected revenues for the diabetes gene therapy products."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-DecisionPoint Systems, Inc.-j.txt",
+    "context_order": 1,
+    "question": "What are the environmental policies and sustainability practices of the company post-acquisition?",
+    "answer": "The financial statement does not mention any information regarding environmental policies and sustainability practices of the company post-acquisition."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-FOCUS UNIVERSAL INC.-j.txt",
+    "context_order": 0,
+    "question": "What is the company's plan for expanding its operations internationally?",
+    "answer": "The financial report does not mention any plans for expanding operations internationally."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Can B Corp-j.txt",
+    "context_order": "full",
+    "question": "What is the expected revenue growth rate for Can B Corp. for the fiscal year 2025?",
+    "answer": "The document does not specify the expected revenue growth rate for Can B Corp. for the fiscal year 2025."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_0.md",
+    "context_order": 0,
+    "question": "In paper 0, what are the primary ethical considerations associated with using LSTM-based NLG systems in real-time financial trading scenarios?",
+    "answer": "Paper 0 does not address any ethical considerations related to using LSTM-based NLG systems in real-time financial trading scenarios."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Strange Case Of Dr. Jekyll And Mr. Hyde.txt",
+    "context_order": 0,
+    "question": "What is the secret ingredient in Mr. Blackwood's favorite drink?",
+    "answer": "The text does not mention or infer any specific secret ingredient in Mr. Blackwood's favorite drink."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_7.md",
+    "context_order": 1,
+    "question": "In paper 1, how does the integration of quantum computing techniques influence the training efficiency of the Llama-3-8B-Instruct-80K-QLoRA model?",
+    "answer": "Paper 1 does not discuss the integration of quantum computing techniques or how it influences the training efficiency of the Llama-3-8B-Instruct-80K-QLoRA model."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Edible Garden AG Inc-j.txt",
+    "context_order": 2,
+    "question": "What are the implications of the company's sustainability efforts on its greenhouse gas emissions over the next decade?",
+    "answer": "The financial statement does not provide information on the long-term implications of the company's sustainability efforts on its greenhouse gas emissions."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Global Gas Corp-j.txt",
+    "context_order": 1,
+    "question": "What is the specific year-over-year growth rate of Global Gas Corporation's hydrogen production capacity?",
+    "answer": "The document does not provide any information on the year-over-year growth rate of Global Gas Corporation's hydrogen production capacity."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_4.md",
+    "context_order": 1,
+    "question": "In paper 1, how does the partitioning strategy affect the resiliency of stencil computations against hardware failures?",
+    "answer": "Paper 1 does not discuss the impact of partitioning strategy on the resiliency of stencil computations against hardware failures."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_1.md",
+    "context_order": 0,
+    "question": "In paper 0, how does the contrastive decoding approach perform when applied to real-time voice-to-text transcription tasks?",
+    "answer": "Paper 0 does not discuss the application of contrastive decoding in real-time voice-to-text transcription tasks, nor does it evaluate its performance in such scenarios."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-GIVEMEPOWER CORP-j.txt",
+    "context_order": 0,
+    "question": "What is GiveMePower Corporation's strategy for international expansion?",
+    "answer": "The financial statement does not provide any information on GiveMePower Corporation's strategy for international expansion."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_13.md",
+    "context_order": 0,
+    "question": "In paper 0, what impact do geographical variations have on the performance of Kahneman-Tversky Optimization (KTO) in terms of language generation?",
+    "answer": "Paper 0 does not discuss the impact of geographical variations on the performance of Kahneman-Tversky Optimization (KTO) in terms of language generation."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Can B Corp-j.txt",
+    "context_order": 1,
+    "question": "What strategies has Can B Corp. implemented to increase its market share in the hemp industry?",
+    "answer": "The financial statement does not mention any specific strategies implemented by Can B Corp. to increase its market share in the hemp industry."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Can B Corp-j.txt",
+    "context_order": 0,
+    "question": "What are the projected revenue figures for Can B Corp. for the fiscal year 2024?",
+    "answer": "The financial statement does not provide any projected revenue figures for Can B Corp. for the fiscal year 2024."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Death of Ivan Ilich.txt",
+    "context_order": "full",
+    "question": "What was the color and texture of the wallpaper in Leonid Ivanovich's childhood bedroom?",
+    "answer": "The text does not mention the color or texture of the wallpaper in Leonid Ivanovich's childhood bedroom."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-DUOS TECHNOLOGIES GROUP, INC.-j.txt",
+    "context_order": 0,
+    "question": "What are the future plans for research and development in the field of biotechnology?",
+    "answer": "The financial statements do not provide any information on future plans for research and development in the field of biotechnology."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_7.md",
+    "context_order": 0,
+    "question": "Does paper 0 discuss the implications of Activation Beacon on the alignment of ethical considerations in AI applications with LLMs?",
+    "answer": "Paper 0 does not discuss the implications of Activation Beacon on the alignment of ethical considerations in AI applications with LLMs."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Dominari Holdings Inc.-j.txt",
+    "context_order": "full",
+    "question": "What is the company's projected growth rate for the fiscal year 2025?",
+    "answer": "The financial statement does not provide any projections or estimates of the company's growth rate for the fiscal year 2025."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-EQUUS TOTAL RETURN, INC.-j.txt",
+    "context_order": 1,
+    "question": "What is the estimated gain from the conversion of non-affiliate investments to affiliate investments?",
+    "answer": "The financial report does not provide information on any estimated gains from converting non-affiliate investments to affiliate investments."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Pearl.txt",
+    "context_order": 0,
+    "question": "What was the favorite type of music of the writer of the poems in the British Museum manuscript?",
+    "answer": "The text does not provide any information on the favorite type of music of the writer of the poems in the British Museum manuscript."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_5.md",
+    "context_order": 0,
+    "question": "In paper 0, what role does quantum computing play in enhancing the LLM-Modulo Framework's ability to verify plans?",
+    "answer": "Paper 0 does not discuss the role of quantum computing in enhancing the LLM-Modulo Framework's ability to verify plans."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-GBT Technologies Inc.-j.txt",
+    "context_order": "full",
+    "question": "What is the expected revenue from the new product pipeline for the next fiscal year?",
+    "answer": "The document does not provide any information about the expected revenue from the new product pipeline for the next fiscal year."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-DUOS TECHNOLOGIES GROUP, INC.-j.txt",
+    "context_order": 2,
+    "question": "What is the expected revenue from the company's expansion into the European market?",
+    "answer": "The financial statement does not provide any information on expected revenue from expansion into the European market."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "THE GOLD-BUG.txt",
+    "context_order": 1,
+    "question": "What was the specific reason behind Maxwell Brody's fear of climbing trees since childhood?",
+    "answer": "The text does not provide any specific reason for Maxwell Brody's fear of climbing trees since childhood."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-DUOS TECHNOLOGIES GROUP, INC.-j.txt",
+    "context_order": "full",
+    "question": "What are the projected revenue figures for Duos Technologies Group, Inc. for the next fiscal quarter?",
+    "answer": "The financial statement does not provide any projected revenue figures for Duos Technologies Group, Inc. for the next fiscal quarter."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_17.md",
+    "context_order": 0,
+    "question": "In paper 0, what is the ecological impact of using LSTM models for churn prediction in financial services?",
+    "answer": "Paper 0 does not discuss the ecological impact of using LSTM models for churn prediction in financial services."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-HCW Biologics Inc.-j.txt",
+    "context_order": "full",
+    "question": "What are the future plans for expansion into international markets for HCW Biologics Inc.?",
+    "answer": "The financial report does not mention any future plans for expansion into international markets for HCW Biologics Inc."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-EOS INC.-j.txt",
+    "context_order": 2,
+    "question": "What is the long-term strategic plan for EOS Inc. to diversify its product offerings?",
+    "answer": "The financial statement does not provide information about the long-term strategic plan for EOS Inc. to diversify its product offerings."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_14.md",
+    "context_order": 1,
+    "question": "In paper 1, what are the implications of Vikhr's tokenizer adaptation on the development of future Russian bilingual LLMs with regards to resource allocation for low-resource languages?",
+    "answer": "Paper 1 does not discuss the implications of Vikhr's tokenizer adaptation on the development of future Russian bilingual LLMs concerning resource allocation for low-resource languages."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Genprex, Inc.-j.txt",
+    "context_order": "full",
+    "question": "What are the specific marketing strategies employed by Genprex for the promotion of its diabetes gene therapy?",
+    "answer": "The financial statements do not provide any information regarding the specific marketing strategies employed by Genprex for its diabetes gene therapy."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_18.md",
+    "context_order": 1,
+    "question": "In paper 1, how does the implementation of blockchain technology enhance the privacy aspect of the Local GD method in federated learning?",
+    "answer": "Paper 1 does not address the implementation of blockchain technology in enhancing the privacy aspects of the Local GD method in federated learning."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-HIGH WIRE NETWORKS, INC.-j.txt",
+    "context_order": 1,
+    "question": "What is the company's strategy for innovation in its product lines?",
+    "answer": "The financial statement does not provide information on the company's strategy for innovation in its product lines."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Blue Star Foods Corp.-j.txt",
+    "context_order": 2,
+    "question": "What are the projected financial outcomes of the Afritex Master Services Agreement?",
+    "answer": "The financial statement does not provide projected financial outcomes of the Afritex Master Services Agreement."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "Bartleby, The Scrivener.txt",
+    "context_order": 2,
+    "question": "What was the exact wording of the letter Quimby received from the Dead Letter Office about his termination?",
+    "answer": "The text does not provide any specific details or wording of the termination letter received by Quimby from the Dead Letter Office."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-HCW Biologics Inc.-j.txt",
+    "context_order": 0,
+    "question": "What is the growth rate of HCW Biologics Inc.'s revenue for the second quarter of 2024?",
+    "answer": "The financial statement does not provide information on the revenue growth rate for the second quarter of 2024."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-DecisionPoint Systems, Inc.-j.txt",
+    "context_order": "full",
+    "question": "What are the projected long-term benefits of the merger with Barcoding Holdings for DecisionPoint Systems?",
+    "answer": "The financial statement does not provide any specific information on the projected long-term benefits of the merger with Barcoding Holdings for DecisionPoint Systems."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-form10-k.txt",
+    "context_order": "full",
+    "question": "What strategies does ADM Endeavors plan to implement for market expansion in international markets?",
+    "answer": "The financial statement does not mention any specific strategies for ADM Endeavors' market expansion in international markets."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Great Divorce.txt",
+    "context_order": 0,
+    "question": "What is the name of the bus driver in the book?",
+    "answer": "The text does not mention the name of the bus driver."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "THE GOLD-BUG.txt",
+    "context_order": 2,
+    "question": "What treasure did Captain Blake hide under the ruins of an ancient temple in the Caribbean?",
+    "answer": "The text does not mention any treasure hidden by Captain Blake under the ruins of an ancient temple in the Caribbean."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Edible Garden AG Inc-j.txt",
+    "context_order": 0,
+    "question": "What are the company's plans for mergers and acquisitions in the upcoming year?",
+    "answer": "The financial statement does not mention any plans for mergers and acquisitions in the upcoming year."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-GIVEMEPOWER CORP-j.txt",
+    "context_order": "full",
+    "question": "What is the projected growth rate for GiveMePower Corporation over the next five years?",
+    "answer": "The document does not provide any specific projections for the growth rate of GiveMePower Corporation over the next five years."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-EQUUS TOTAL RETURN, INC.-j.txt",
+    "context_order": "full",
+    "question": "What is the expected growth rate for Equus Total Return, Inc.'s investments in renewable energy for 2024?",
+    "answer": "The financial statement does not mention any expected growth rate for Equus Total Return, Inc.'s investments in renewable energy for 2024."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-CalEthos, Inc.-j.txt",
+    "context_order": 0,
+    "question": "What are the forecasted sales figures for CalEthos, Inc. for the next fiscal quarter?",
+    "answer": "The document does not provide any information regarding forecasted sales figures for CalEthos, Inc. for the next fiscal quarter."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Cepton, Inc.-j.txt",
+    "context_order": 1,
+    "question": "What is the company's strategy for reducing its carbon footprint?",
+    "answer": "The financial statement does not mention the company's strategy for reducing its carbon footprint."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-ExchangeRight Income Fund-j.txt",
+    "context_order": "full",
+    "question": "What is the anticipated growth rate for the company's portfolio in the next fiscal year?",
+    "answer": "The document does not provide any information on the anticipated growth rate for the company's portfolio in the next fiscal year."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Dominari Holdings Inc.-j.txt",
+    "context_order": 2,
+    "question": "What are the projected costs for the planned merger with a fintech company in 2025?",
+    "answer": "The document does not mention or provide any details about a planned merger with a fintech company in 2025."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_9.md",
+    "context_order": 0,
+    "question": "In paper 0, how does quantum annealing perform when integrated with machine learning models for predicting meteorological patterns?",
+    "answer": "Paper 0 does not discuss the integration of quantum annealing with machine learning models for predicting meteorological patterns."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "A Christmas Carol.txt",
+    "context_order": 0,
+    "question": "What was the name of the tavern where Hartman enjoyed dining during the summer months?",
+    "answer": "The text does not provide the name of the tavern where Hartman enjoyed dining during the summer months."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Dominari Holdings Inc.-j.txt",
+    "context_order": 0,
+    "question": "What are the future projected cash flows from the new division mentioned in the report?",
+    "answer": "The financial statement does not provide information on future projected cash flows from any new division."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Hapi Metaverse Inc.-j.txt",
+    "context_order": "full",
+    "question": "What is the company's strategy for expanding its presence in European markets?",
+    "answer": "The financial statement does not provide information about the company's strategy for expanding its presence in European markets."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Global Gas Corp-j.txt",
+    "context_order": 0,
+    "question": "What is the company's forecast for hydrogen production volume for the next fiscal year?",
+    "answer": "The document does not provide any forecast for hydrogen production volume for the next fiscal year."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_2.md",
+    "context_order": 2,
+    "question": "In paper 2, what specific algorithm does the author propose to replace LGDE in domains where semantic word relationships are not the primary focus?",
+    "answer": "Paper 2 does not propose an alternative algorithm to replace LGDE in domains where semantic word relationships are not the primary focus."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "Daisy Miller.txt",
+    "context_order": 2,
+    "question": "What type of flower did Alexander place on Violet's grave in the cemetery?",
+    "answer": "The text does not mention Alexander placing any type of flower on Violet's grave in the cemetery."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Charlie's Holdings, Inc.-j.txt",
+    "context_order": "full",
+    "question": "What are the strategic goals outlined for Charlie's Hemp-derived products in international markets?",
+    "answer": "The document does not provide specific strategic goals for Charlie's Hemp-derived products in international markets."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-CISO Global, Inc.-j.txt",
+    "context_order": "full",
+    "question": "What strategic partnerships has the company entered to enhance its cybersecurity offerings?",
+    "answer": "The financial statement does not mention any strategic partnerships entered by the company to enhance its cybersecurity offerings."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "THE GOLD-BUG.txt",
+    "context_order": "full",
+    "question": "What was the color of the wallpaper in Mr. Oliver Stern's hut?",
+    "answer": "The text does not mention or describe the color of the wallpaper in Mr. Oliver Stern's hut."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Blue Star Foods Corp.-j.txt",
+    "context_order": 1,
+    "question": "What is the annual revenue generated from operating leases?",
+    "answer": "The financial statement does not specify the annual revenue generated from operating leases."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Brand Engagement Network Inc.-j.txt",
+    "context_order": 1,
+    "question": "What is the strategic plan for expansion into international markets?",
+    "answer": "The financial statement does not discuss any strategic plan for expansion into international markets."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-FOCUS UNIVERSAL INC.-j.txt",
+    "context_order": 2,
+    "question": "What are the projected revenues for the company for the upcoming fiscal year?",
+    "answer": "The document does not provide any information regarding the projected revenues for the company for the upcoming fiscal year."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-CalEthos, Inc.-j.txt",
+    "context_order": 2,
+    "question": "What is the expected completion date for the Phase II construction of the data center?",
+    "answer": "The document does not specify an expected completion date for the Phase II construction of the data center."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Strange Case Of Dr. Jekyll And Mr. Hyde.txt",
+    "context_order": "full",
+    "question": "What was the exact recipe for the chemical transformation potion that Dr. Hawthorne used?",
+    "answer": "The text does not provide the exact recipe for the chemical transformation potion that Dr. Hawthorne used."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-GBT Technologies Inc.-j.txt",
+    "context_order": 2,
+    "question": "What is the expected annual growth rate for the Metaverse Kit Corp. revenue?",
+    "answer": "The document does not provide any information regarding the expected annual growth rate for the Metaverse Kit Corp. revenue."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Old Man and The Sea.txt",
+    "context_order": 2,
+    "question": "What technique did Guillermo use to communicate with the fish telepathically?",
+    "answer": "The text does not mention any technique used by Guillermo to communicate with the fish telepathically."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Edible Garden AG Inc-j.txt",
+    "context_order": 1,
+    "question": "What is the company's policy on sustainable sourcing of raw materials?",
+    "answer": "The document does not specify the company's policy on sustainable sourcing of raw materials."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Time Machine.txt",
+    "context_order": 0,
+    "question": "What was the exact mechanism of communication between the Chrono Voyager and the beings from the future?",
+    "answer": "The specific mechanism of communication between the Chrono Voyager and the future beings is not detailed in the text."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Little Prince.txt",
+    "context_order": 2,
+    "question": "What type of musical instrument does stellar boy play during his journey?",
+    "answer": "The text does not mention stellar boy playing any type of musical instrument during his journey."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-DecisionPoint Systems, Inc.-j.txt",
+    "context_order": 2,
+    "question": "What are the environmental sustainability initiatives undertaken by the company in 2024?",
+    "answer": "The financial statement does not mention any environmental sustainability initiatives undertaken by the company in 2024."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Murders in the Rue Morgue.txt",
+    "context_order": 2,
+    "question": "What color were the drapes in Madame Chastain's bedroom before the incident occurred?",
+    "answer": "The text does not mention the color of the drapes in Madame Chastain's bedroom."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-HIGH WIRE NETWORKS, INC.-j.txt",
+    "context_order": 2,
+    "question": "What is the projected revenue growth rate for the company in the next fiscal year?",
+    "answer": "The financial statement does not provide any projections or estimates for the company's revenue growth rate in the next fiscal year."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Death of Ivan Ilich.txt",
+    "context_order": 1,
+    "question": "What was the name of the dog that Leonid Ivanovich used to play with during his childhood?",
+    "answer": "The text does not mention any dog that Leonid Ivanovich played with during his childhood."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_2.md",
+    "context_order": 0,
+    "question": "In paper 0, what is the impact of query2doc on the environmental sustainability of large-scale data centers?",
+    "answer": "Paper 0 does not discuss the impact of query2doc on the environmental sustainability of large-scale data centers."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-FLEXIBLE SOLUTIONS INTERNATIONAL INC-j.txt",
+    "context_order": 0,
+    "question": "What is the strategic plan to address the rising cost of raw materials from China?",
+    "answer": "The document does not provide a strategic plan to address the rising cost of raw materials from China."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_15.md",
+    "context_order": 0,
+    "question": "In paper 0, how do the authors propose to handle real-time changes in travel plans due to sudden inclement weather conditions?",
+    "answer": "Paper 0 does not propose a method to handle real-time changes in travel plans due to sudden inclement weather conditions."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_13.md",
+    "context_order": 2,
+    "question": "In paper 2, how does the implementation of quantum computing principles enhance the performance of the Mistral 7B model in natural language processing tasks?",
+    "answer": "Paper 2 does not discuss the implementation of quantum computing principles in enhancing the performance of the Mistral 7B model for natural language processing tasks."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_10.md",
+    "context_order": 1,
+    "question": "In paper 1, what is the impact of using augmented reality (AR) in combination with LLMs to enhance the diary writing process in ICU settings?",
+    "answer": "Paper 1 does not discuss the use of augmented reality (AR) in combination with LLMs to enhance the diary writing process in ICU settings."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-GIVEMEPOWER CORP-j.txt",
+    "context_order": 1,
+    "question": "What are the company's future expansion plans for the real estate segment?",
+    "answer": "The financial statement does not outline any future expansion plans for the real estate segment."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_11.md",
+    "context_order": 0,
+    "question": "In paper 0, how do LLMs' interactions with quantum computing systems contribute to enhanced planning capabilities?",
+    "answer": "Paper 0 does not discuss the interaction between LLMs and quantum computing systems or how it may contribute to enhanced planning capabilities."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_8.md",
+    "context_order": 0,
+    "question": "In paper 0, what impact does LOOKAHEAD DECODING have on the energy consumption of LLM inference tasks in sustainable AI environments?",
+    "answer": "Paper 0 does not discuss the impact of LOOKAHEAD DECODING on energy consumption during LLM inference tasks in the context of sustainable AI environments."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Little Prince.txt",
+    "context_order": "full",
+    "question": "What was the name of the specific planet made entirely of cheese that the little prince visited before arriving on Earth?",
+    "answer": "The text does not mention any specific planet made entirely of cheese that the little prince visited before arriving on Earth."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-FOCUS UNIVERSAL INC.-j.txt",
+    "context_order": 1,
+    "question": "What is the revenue forecast for IoT Products for the next quarter?",
+    "answer": "The financial statement does not provide any revenue forecast for IoT Products for the next quarter."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-GD Culture Group Ltd-j.txt",
+    "context_order": "full",
+    "question": "What are the specific future business development plans for GD Culture Group Limited?",
+    "answer": "The financial statement does not provide details on specific future business development plans for GD Culture Group Limited."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Great Divorce.txt",
+    "context_order": 1,
+    "question": "What were the precise words of the horn that the Spirit blew?",
+    "answer": "The text does not provide any details on the precise words or sounds of the horn that the Spirit blew."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Can B Corp-j.txt",
+    "context_order": 2,
+    "question": "What is the projected annual growth rate of Can B Corp's hemp-derived product sales over the next five years?",
+    "answer": "The document does not provide any information or projections regarding the annual growth rate of Can B Corp's hemp-derived product sales over the next five years."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_9.md",
+    "context_order": 1,
+    "question": "In paper 1, how does the introduction of 4-clique network minor embedding impact quantum annealer performance in weather prediction models?",
+    "answer": "Paper 1 does not discuss the impact of 4-clique network minor embedding on quantum annealer performance in weather prediction models."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "THE UNPARALLELED ADVENTURES OF ONE HANS PFAAL.txt",
+    "context_order": 0,
+    "question": "What is the formula Lars Finkel used to generate the unique gas for the balloon?",
+    "answer": "The text does not provide any details about the specific formula Lars Finkel used to generate the unique gas for the balloon."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "THE UNPARALLELED ADVENTURES OF ONE HANS PFAAL.txt",
+    "context_order": 2,
+    "question": "What did Hans Pfaall name the first plant he discovered on the moon?",
+    "answer": "The text does not mention any plant discoveries made by Hans Pfaall on the moon or any names given to them."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_14.md",
+    "context_order": 0,
+    "question": "In paper 0, what are the implications of cultural factors on the cross-lingual training metrics used for LLaMA model adaptation?",
+    "answer": "Paper 0 does not discuss the implications of cultural factors on cross-lingual training metrics used for LLaMA model adaptation."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_5.md",
+    "context_order": 2,
+    "question": "In paper 2, how do the authors propose to integrate self-critiquing capabilities of LLMs with quantum computing algorithms to enhance planning system accuracy?",
+    "answer": "Paper 2 does not propose integrating self-critiquing capabilities of LLMs with quantum computing algorithms to enhance planning system accuracy."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-FLEXIBLE SOLUTIONS INTERNATIONAL INC-j.txt",
+    "context_order": 2,
+    "question": "What is the expected financial impact of the company's expansion into the Asian market?",
+    "answer": "The financial statement does not mention any expected financial impact or plans regarding the company's expansion into the Asian market."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_8.md",
+    "context_order": 1,
+    "question": "In paper 1, how does the introduction of Kangaroo impact the ecological footprint of data centers hosting large language models?",
+    "answer": "Paper 1 does not discuss the ecological footprint of data centers or the impact of introducing Kangaroo on it."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-China Foods Holdings Ltd.-j.txt",
+    "context_order": 1,
+    "question": "What is the projected increase in revenue for the next fiscal year?",
+    "answer": "The financial statement does not provide any projections for revenue increase in the next fiscal year."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-GD Culture Group Ltd-j.txt",
+    "context_order": 2,
+    "question": "How did the company plan to address its environmental sustainability goals in 2024?",
+    "answer": "The financial statement does not mention any plans or measures related to the company's environmental sustainability goals for 2024."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Death of Ivan Ilich.txt",
+    "context_order": 0,
+    "question": "What was the secret code shared between Leonid Ivanovich and his youngest brother?",
+    "answer": "The text does not mention any secret code shared between Leonid Ivanovich and his youngest brother."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Global Gas Corp-j.txt",
+    "context_order": "full",
+    "question": "What is the company's strategy for expansion into Asian markets?",
+    "answer": "The financial statement does not provide any information on the company's strategy for expansion into Asian markets."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_12.md",
+    "context_order": 0,
+    "question": "In paper 0, what are the potential implications of using quantum computing to enhance the GRU-SVM model for intrusion detection?",
+    "answer": "Paper 0 does not discuss the potential implications or use of quantum computing to enhance the GRU-SVM model for intrusion detection."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_12.md",
+    "context_order": 2,
+    "question": "In paper 2, what are the implications of AI-enhanced NMR processing on the prediction of chemical reaction pathways?",
+    "answer": "Paper 2 does not discuss the implications of AI-enhanced NMR processing on the prediction of chemical reaction pathways."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Pearl.txt",
+    "context_order": 1,
+    "question": "What type of attire did the jeweler decide to wear during his visit to the mystical land?",
+    "answer": "The text does not specify the type of attire the jeweler decided to wear during his visit to the mystical land."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_17.md",
+    "context_order": 1,
+    "question": "In paper 1, what methodologies are presented for extracting non-verbal consumer behavior from multi-modal data sources in predicting customer ratings?",
+    "answer": "Paper 1 does not present methodologies for extracting non-verbal consumer behavior from multi-modal data sources in predicting customer ratings."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_11.md",
+    "context_order": 1,
+    "question": "In paper 1, what specific strategies are employed to address ethical concerns in the deployment of the Co-driver system in urban environments?",
+    "answer": "Paper 1 does not discuss specific strategies to address ethical concerns in the deployment of the Co-driver system in urban environments."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Hapi Metaverse Inc.-j.txt",
+    "context_order": 0,
+    "question": "What strategic initiatives does Hapi Metaverse Inc. plan to implement for international expansion?",
+    "answer": "The financial report does not mention any strategic initiatives for international expansion by Hapi Metaverse Inc."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_3.md",
+    "context_order": 0,
+    "question": "In paper 0, how do the authors propose integrating environmental sustainability measures into the ranking algorithms for eCommerce search?",
+    "answer": "Paper 0 does not propose integrating environmental sustainability measures into the ranking algorithms for eCommerce search."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Brand Engagement Network Inc.-j.txt",
+    "context_order": "full",
+    "question": "What is the projected revenue for Brand Engagement Network Inc. for the fiscal year 2025?",
+    "answer": "The financial statement does not provide any projected revenue figures for Brand Engagement Network Inc. for the fiscal year 2025."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-EOS INC.-j.txt",
+    "context_order": 0,
+    "question": "What is the projected revenue growth rate for EOS, Inc. for the next fiscal year?",
+    "answer": "The financial statement does not provide any information about the projected revenue growth rate for EOS, Inc. for the next fiscal year."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-CFN Enterprises Inc.-j.txt",
+    "context_order": 1,
+    "question": "What is the company's projected growth rate for the next fiscal year?",
+    "answer": "The financial statement does not include any projections or estimates for the company's growth rate for the next fiscal year."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_6.md",
+    "context_order": 2,
+    "question": "In paper 2, what is the impact of MonaCoBERT on the overall sustainability of educational technologies concerning energy consumption and environmental effects?",
+    "answer": "Paper 2 does not discuss the impact of MonaCoBERT on the sustainability of educational technologies in terms of energy consumption or environmental effects."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "Metamorphosis.txt",
+    "context_order": 1,
+    "question": "What is the color of the rug in Victor's bedroom?",
+    "answer": "The text does not mention the color of the rug in Victor's bedroom."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Chosen, Inc.-j.txt",
+    "context_order": 2,
+    "question": "What are the projected sales figures for Season 8 of the series?",
+    "answer": "The financial statement does not provide any projected sales figures for Season 8 of the series."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_4.md",
+    "context_order": 0,
+    "question": "In paper 0, how does the use of quantum computing technology impact the performance improvements achieved by Minimod in seismic modeling?",
+    "answer": "Paper 0 does not discuss or mention the impact of quantum computing technology on the performance improvements achieved by Minimod in seismic modeling."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Strange Case Of Dr. Jekyll And Mr. Hyde.txt",
+    "context_order": 2,
+    "question": "What is the favorite color of Dr. Faulkner's wife?",
+    "answer": "The text does not mention the favorite color of Dr. Faulkner's wife."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_11.md",
+    "context_order": 2,
+    "question": "In paper 2, what are the main reasons behind the failure of LLMs in accurately solving non-linear optimization problems within the self-critiquing framework?",
+    "answer": "Paper 2 does not examine the failure of LLMs in solving non-linear optimization problems within the self-critiquing framework, nor does it provide reasons for such failures."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-FLEXIBLE SOLUTIONS INTERNATIONAL INC-j.txt",
+    "context_order": 1,
+    "question": "Has the company faced any legal disputes related to intellectual property this year?",
+    "answer": "The document does not mention any legal disputes related to intellectual property this year."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_2.md",
+    "context_order": 1,
+    "question": "In paper 1, what are the implications of query expansion using LLMs on cross-language information retrieval tasks with a focus on low-resource languages?",
+    "answer": "Paper 1 does not explore the implications of query expansion using LLMs on cross-language information retrieval tasks, nor does it focus on low-resource languages in this context."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-FORGE INNOVATION DEVELOPMENT CORP.-j.txt",
+    "context_order": 0,
+    "question": "What percentage of the company's revenue comes from international markets?",
+    "answer": "The financial statement does not specify the percentage of revenue that comes from international markets."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Murders in the Rue Morgue.txt",
+    "context_order": 1,
+    "question": "What type of footwear was Alexandre Renaud wearing during his visit to view the bodies?",
+    "answer": "The text does not provide any information about what type of footwear Alexandre Renaud was wearing during his visit to view the bodies."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "A Christmas Carol.txt",
+    "context_order": "full",
+    "question": "What was Hartman's favorite activity as a child during Christmas time?",
+    "answer": "The text does not provide any specific information about Hartman's favorite activity as a child during Christmas time."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_12.md",
+    "context_order": 1,
+    "question": "In paper 1, what impact does utilizing ReLU at the classification layer have on natural language processing tasks compared to traditional models?",
+    "answer": "Paper 1 does not address the impact of utilizing ReLU at the classification layer specifically on natural language processing tasks compared to traditional models."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-DecisionPoint Systems, Inc.-j.txt",
+    "context_order": 0,
+    "question": "What are the company's plans for expanding its operations into international markets?",
+    "answer": "The financial statements do not provide any information on the company's plans for international expansion."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-CFN Enterprises Inc.-j.txt",
+    "context_order": 2,
+    "question": "What were the specific marketing strategies employed for the e-commerce network launch?",
+    "answer": "The document does not mention the specific marketing strategies employed for the e-commerce network launch."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-CFN Enterprises Inc.-j.txt",
+    "context_order": 0,
+    "question": "What is the company's future strategy for entering new international markets?",
+    "answer": "The financial report does not provide any details regarding the company's future strategy for entering new international markets."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Hapi Metaverse Inc.-j.txt",
+    "context_order": 1,
+    "question": "What is the anticipated budget for travel expenses for the fiscal year 2024?",
+    "answer": "The financial statement does not provide any information about the anticipated budget for travel expenses for the fiscal year 2024."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Pearl.txt",
+    "context_order": "full",
+    "question": "What was the name of the author who first discovered 'The Pearl' manuscript in the British Museum?",
+    "answer": "The text does not mention the name of any author who first discovered 'The Pearl' manuscript in the British Museum."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-FORGE INNOVATION DEVELOPMENT CORP.-j.txt",
+    "context_order": 2,
+    "question": "What is the company's strategy for managing environmental, social, and governance (ESG) risks?",
+    "answer": "The document does not mention or provide details on the company's strategy for managing environmental, social, and governance (ESG) risks."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Fathom Digital Manufacturing Corp-j.txt",
+    "context_order": 2,
+    "question": "What is the percentage of market share held by Fathom in Europe?",
+    "answer": "The document does not provide information on Fathom's market share in Europe."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-HIGH WIRE NETWORKS, INC.-j.txt",
+    "context_order": 0,
+    "question": "What is the projected revenue growth for High Wire Networks, Inc. over the next five years?",
+    "answer": "The document does not provide any projections for revenue growth over the next five years."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Time Machine.txt",
+    "context_order": 1,
+    "question": "What color were the original clothes worn by the inventor during his journey in the time machine?",
+    "answer": "The text does not provide any information about the color of the clothes worn by the inventor during his journey in the time machine."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The CALL of CTHULHU.txt",
+    "context_order": 2,
+    "question": "What was the color of the hat Brannigan wore during his voyage?",
+    "answer": "The text does not provide any information about the color of the hat Brannigan wore during his voyage."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "Metamorphosis.txt",
+    "context_order": "full",
+    "question": "What unusual gift did Victor receive from his childhood friend?",
+    "answer": "The text does not mention any unusual gift that Victor received from his childhood friend."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-GBT Technologies Inc.-j.txt",
+    "context_order": 1,
+    "question": "What is the total number of employees in the company as of March 31, 2024?",
+    "answer": "The financial statement does not provide any information on the total number of employees in the company as of March 31, 2024."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Old Man and The Sea.txt",
+    "context_order": 1,
+    "question": "What was the name of the boy's favorite baseball team?",
+    "answer": "The text does not mention the name of the boy's favorite baseball team."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_15.md",
+    "context_order": 1,
+    "question": "In paper 1, what specific data preprocessing steps are necessary to ensure LLMs can integrate quantum computing principles into travel planning tasks?",
+    "answer": "Paper 1 does not discuss the integration of quantum computing principles into travel planning tasks, nor does it specify any data preprocessing steps relevant to such integration."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-China Foods Holdings Ltd.-j.txt",
+    "context_order": "full",
+    "question": "What is the projected revenue growth rate for China Foods Holdings Ltd. over the next five years?",
+    "answer": "The financial statement does not provide a projected revenue growth rate for the company over the next five years."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-form10-k.txt",
+    "context_order": 2,
+    "question": "What environmental sustainability initiatives has the company implemented?",
+    "answer": "The financial statement does not provide any information on environmental sustainability initiatives implemented by the company."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "A Christmas Carol.txt",
+    "context_order": 1,
+    "question": "What was the name of the horse that Hartman rode during his morning commute?",
+    "answer": "The text does not mention the name of any horse that Hartman rode during his morning commute."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_15.md",
+    "context_order": 2,
+    "question": "In paper 2, what unique data augmentation techniques were employed to enhance the performance of Mistral 7B on uncommon languages?",
+    "answer": "Paper 2 does not mention any unique data augmentation techniques used specifically to enhance the performance of Mistral 7B on uncommon languages."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Fathom Digital Manufacturing Corp-j.txt",
+    "context_order": 0,
+    "question": "What strategies does the company have in place for reducing its environmental footprint?",
+    "answer": "The document does not mention any specific strategies related to reducing the company's environmental footprint."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "The Death of Ivan Ilich.txt",
+    "context_order": 2,
+    "question": "What was Leonid Ivanovich's favorite book during his childhood?",
+    "answer": "The text does not mention what Leonid Ivanovich's favorite book was during his childhood."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_5.md",
+    "context_order": 1,
+    "question": "In paper 1, how does the intrinsic self-correction process of LLMs affect their performance in language translation tasks?",
+    "answer": "Paper 1 does not discuss or provide information on the intrinsic self-correction process of LLMs in relation to their performance in language translation tasks."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_17.md",
+    "context_order": 2,
+    "question": "In paper 2, how does the use of reinforcement learning improve the optimization process of attention weights in cross-modal architectures?",
+    "answer": "Paper 2 does not discuss the use of reinforcement learning to optimize attention weights in cross-modal architectures."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-EOS INC.-j.txt",
+    "context_order": 1,
+    "question": "How did the implementation of new environmental regulations affect the company's transportation costs?",
+    "answer": "The document does not provide information on the impact of new environmental regulations on the company's transportation costs."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "Bartleby, The Scrivener.txt",
+    "context_order": 1,
+    "question": "What was Quimby's favorite book to read during his breaks at the office?",
+    "answer": "The text does not mention Quimby having a favorite book or what he read during his breaks at the office."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Chosen, Inc.-j.txt",
+    "context_order": 1,
+    "question": "What was the growth rate of the company's international sales in the first quarter of 2024?",
+    "answer": "The financial statement does not provide information on the growth rate of the company's international sales in the first quarter of 2024."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "THE UNPARALLELED ADVENTURES OF ONE HANS PFAAL.txt",
+    "context_order": 1,
+    "question": "What was the name of the device used by the protagonist to measure the intensity of the zodiacal light?",
+    "answer": "The text does not mention a specific device used by the protagonist to measure the intensity of the zodiacal light."
+  },
+  {
+    "type": "paper",
+    "level": "hallu",
+    "length": "32k",
+    "file": "32k_paper_18.md",
+    "context_order": 0,
+    "question": "In paper 0, how does the convergence rate of FedAvg compare to that of other federated learning algorithms like FedNova and FedOpt on non-iid data?",
+    "answer": "Paper 0 does not provide a comparison of the convergence rate of FedAvg with other federated learning algorithms such as FedNova and FedOpt on non-iid data."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-CISO Global, Inc.-j.txt",
+    "context_order": 0,
+    "question": "What is the company's strategy for integrating artificial intelligence into its cybersecurity offerings?",
+    "answer": "The financial statement does not mention any strategy for integrating artificial intelligence into the company's cybersecurity offerings."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-GD Culture Group Ltd-j.txt",
+    "context_order": 1,
+    "question": "What are the company's plans for expanding into new international markets?",
+    "answer": "The financial statement does not provide any information about the company's plans for expanding into new international markets."
+  },
+  {
+    "type": "book",
+    "level": "hallu",
+    "length": "32k",
+    "file": "Bartleby, The Scrivener.txt",
+    "context_order": 0,
+    "question": "What was the secret message hidden in the painting on the office wall of the narrator?",
+    "answer": "The text does not mention any secret message hidden in a painting on the office wall of the narrator."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Cepton, Inc.-j.txt",
+    "context_order": "full",
+    "question": "What cost control measures are being implemented to reduce the operational expenses?",
+    "answer": "The document does not specify any cost control measures being implemented to reduce operational expenses."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-HCW Biologics Inc.-j.txt",
+    "context_order": 1,
+    "question": "What is the company's total carbon footprint for the fiscal year 2024?",
+    "answer": "The financial statement does not provide any information regarding the company's total carbon footprint for the fiscal year 2024."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-Genprex, Inc.-j.txt",
+    "context_order": 1,
+    "question": "What strategies is the company implementing to expand into international markets?",
+    "answer": "The financial statement does not mention any strategies for expanding into international markets."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-GIVEMEPOWER CORP-j.txt",
+    "context_order": 2,
+    "question": "What are the specific terms and conditions of the company's involvement in cryptocurrency mining?",
+    "answer": "The financial statement does not provide specific terms and conditions regarding the company's involvement in cryptocurrency mining."
+  },
+  {
+    "type": "financial",
+    "level": "hallu",
+    "length": "32k",
+    "file": "2024-DUOS TECHNOLOGIES GROUP, INC.-j.txt",
+    "context_order": 1,
+    "question": "What is the projected growth rate for Duos Technologies Group, Inc. in 2025?",
+    "answer": "The financial statement does not provide a projected growth rate for Duos Technologies Group, Inc. in 2025."
+  }
+]

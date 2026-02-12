@@ -1,0 +1,374 @@
+[
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-DUOS TECHNOLOGIES GROUP, INC.-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did the net loss for Duos Technologies Group, Inc. change from the first quarter of 2023 to the first quarter of 2024, and how did it impact cash used in operating activities?",
+    "answer": "The net loss increased from $2,143,683 in Q1 2023 to $2,752,309 in Q1 2024, which contributed to a cash usage in operating activities from nearly breakeven of $7,086 in Q1 2023 to $2,032,719 in Q1 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Charlie's Holdings, Inc.-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How did Charlie's Holdings, Inc.'s operating costs and expenses change for the three months ended March 31, 2024, compared to the same period in 2023, and what impact did it have on loss from operations?",
+    "answer": "Charlie's Holdings, Inc.'s operating costs and expenses decreased by $1,555,000 (28.0%) for the three months ended March 31, 2024, compared to the same period in 2023, resulting in a reduction of loss from operations by $576,000 (38.0%)."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Genprex, Inc.-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How did the number of shares sold and the net proceeds from Genprex's ATM Offering under the 2023 ATM Facility differ in the first quarter of 2024 compared to the 2023 ATM Facility sales in the first quarter of 2023?",
+    "answer": "Genprex sold 158,474 shares for net proceeds of $881,946 under the 2023 ATM Facility in Q1 2024, while it sold 1,342 shares for net proceeds of $78,355 under the 2022 ATM Facility in Q1 2023."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "32k",
+    "file": "32k_paper_7.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How do the context extension methods in paper 0 and paper 1 differ in terms of training efficiency and model performance on long-context tasks?",
+    "answer": "Paper 0 proposes the Activation Beacon as a cost-effective plugin for extending context with short-sequence data, while paper 1 uses QLoRA fine-tuning with synthetic data from GPT-4 for quick training, achieving high evaluation scores on long-context tasks with minimal training instances."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-GD Culture Group Ltd-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How did the amount of cash at banks change from December 31, 2023 to March 31, 2024, and what factors contributed to this change according to the financial statement?",
+    "answer": "The cash at banks decreased from $5,175,518 on December 31, 2023, to $486,201 on March 31, 2024, predominantly due to net cash used in operating and investing activities amounting to approximately $3.6 million and $1.9 million, respectively."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "32k",
+    "file": "32k_paper_12.md",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What novel application of artificial intelligence is highlighted in paper 2 compared to the use of AI in deep neural networks in paper 1?",
+    "answer": "Paper 2 proposes using artificial intelligence for advanced NMR spectrum processing tasks such as quadrature detection and uncertainty prediction, surpassing traditional methods, while paper 1 focuses on integrating AI with deep neural networks for improved model classification tasks."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Little Prince.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How does the concept of taming relate to the importance of a singular entity in both cases involving the little prince and his rose?",
+    "answer": "In the first segment, the little prince realizes that his rose is unique because it has tamed him, whereas in the second segment, the fox explains that taming something makes it unique and significant among many similar things, like the rose."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Death of Ivan Ilich.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How do the characters of Schwartz and Gerasim differ in their interactions with Ivan Ilych during his illness?",
+    "answer": "Schwartz is depicted as indifferent to Ivan Ilych's suffering and is more concerned with maintaining social engagements, while Gerasim displays compassion and empathy, providing genuine comfort to Ivan Ilych."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "Metamorphosis.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How does Gregor's family initially react to his transformation compared to their reaction as the situation progresses?",
+    "answer": "Initially, Gregor's family is shocked and tries to help him by providing food, but as time progresses, they become more distant and struggle with the burden of his condition, leading to neglect and hostility."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-HIGH WIRE NETWORKS, INC.-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did High Wire Networks, Inc.'s net income or loss change from the three months ended March 31, 2023 to March 31, 2024?",
+    "answer": "High Wire Networks, Inc.'s net income changed from a net income of $168,309 for the three months ended March 31, 2023, to a net loss of $414,438 for the three months ended March 31, 2024."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Murders in the Rue Morgue.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How does Dupin's methodology in solving the Rue Morgue murders highlight his unique analytical abilities as compared to others involved in the case?",
+    "answer": "Dupin's methodical approach focuses on an unparalleled attention to detail, understanding of human psychology, and knowledge of unusual possibilities, such as attributing the murders to an Ourang-Outang, whereas others, like the police, are misled by conventional assumptions and overlook key evidence."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "Daisy Miller.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How do Winterbourne's interactions with Daisy Miller at Vevey compare to their interactions in Rome?",
+    "answer": "At Vevey, Winterbourne is charmed by Daisy's sociability and flirtatious nature, but in Rome, he becomes increasingly puzzled and concerned by her indiscriminate socializing and perceived impropriety."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-CFN Enterprises Inc.-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What is the total change in cash and restricted cash from March 31, 2023, to March 31, 2024, and how does it relate to operating activities?",
+    "answer": "The total change in cash and restricted cash from March 31, 2023, to March 31, 2024, was an increase of $134,730, primarily influenced by net cash provided by operating activities amounting to $203,529 during the same period in 2024."
+  },
+  {
+    "type": "paper",
+    "level": "comp",
+    "length": "32k",
+    "file": "32k_paper_18.md",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How is the convergence rate affected by non-iid data in FedAvg as discussed in paper 0, compared to the assumptions made about local gradient descent in paper 1?",
+    "answer": "In paper 0, the convergence rate of FedAvg on non-iid data is shown to be affected by data heterogeneity, requiring diminishing learning rates, whereas paper 1 highlights that local gradient descent with constant step sizes achieves convergence on heterogeneous data by characterizing variance and assuming bounded synchronization intervals."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-GIVEMEPOWER CORP-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How did the company's total line of credit obligations for related parties change from December 31, 2023, to March 31, 2024?",
+    "answer": "The company's total line of credit obligations for related parties increased from $237,903 as of December 31, 2023, to $238,553 as of March 31, 2024."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Strange Case Of Dr. Jekyll And Mr. Hyde.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "What effect does Hyde's presence have on both Dr. Lanyon and Dr. Jekyll according to their narratives?",
+    "answer": "Hyde's presence causes Dr. Lanyon a profound shock and horror, leading to his ultimate demise, while for Dr. Jekyll, Hyde's presence creates a struggle with his dual nature, ending in Jekyll's loss of control over his transformations."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Great Divorce.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How do the Ghosts in 'The Great Divorce' manifest their unresolved attachments or desires in the afterlife?",
+    "answer": "In both segments, the Ghosts are shown to carry their earthly desires and attachments, such as the Big Man's demand for his rights and the Ghost mother's possessive love for her son, which prevent them from fully embracing the afterlife's potential."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "Daisy Miller.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How do Winterbourne's perceptions of Daisy Miller's behavior evolve from their trip to the Castle of Chillon to her time in Rome?",
+    "answer": "Initially, Winterbourne is charmed and intrigued by Daisy's carefree demeanor during their trip to Chillon, but later in Rome, he becomes puzzled and critical of her actions, especially as she openly associates with Giovanelli, which conflicts with his views on propriety."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Time Machine.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "What similar characteristic is observed in both the Eloi and the Morlocks' relationship in the future world of the Time Traveller's exploration?",
+    "answer": "Both the Eloi and the Morlocks have evolved into distinct species that reflect a degeneration or transformation from their ancestral human origins, highlighting a complex shift in societal hierarchy and interdependence."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "THE GOLD-BUG.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What was the approach taken by Legrand to solve the mystery compared to the others' perception of his actions?",
+    "answer": "Legrand took a systematic approach based on reasoning, clues, and deciphering a code, whereas others perceived his actions as madness or superstition."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "The Death of Ivan Ilich.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "What are the contrasting perceptions of Ivan Ilych's death between the people attending his funeral and Ivan Ilych himself?",
+    "answer": "The attendees of Ivan Ilych's funeral are concerned with their own career advancements and social proprieties, while Ivan Ilych deeply reflects on the meaning of life and death, realizing the inevitability and personal nature of his mortality."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-EOS INC.-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How did the revenue contribution from major customers change from the first quarter of 2023 to the first quarter of 2024?",
+    "answer": "In the first quarter of 2023, one customer, B, accounted for 88% of total revenues, while in the first quarter of 2024, Customer A accounted for 88% of total revenues."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-CISO Global, Inc.-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "How did the total gross profit margin change for the three months ended March 31 from 2023 to 2024, and what were the associated revenue figures?",
+    "answer": "The total gross profit margin improved from $399,084 in 2023 to $989,426 in 2024, with total revenue decreasing from $13,726,681 in 2023 to $11,833,336 in 2024."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-FOCUS UNIVERSAL INC.-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How did the IoT product revenue compare to IoT installation service revenue for the three months ended March 31, 2024 and 2023?",
+    "answer": "For the three months ended March 31, 2024, IoT product revenue was $179,505 and IoT installation service revenue was $39,653, while for the three months ended March 31, 2023, IoT product revenue was $13,281 and IoT installation service revenue was $222,814."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-GBT Technologies Inc.-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did the total current liabilities change for GBT Technologies Inc. from December 31, 2023, to March 31, 2024, and what was the main contributing factor?",
+    "answer": "The total current liabilities decreased from $31,859,619 at December 31, 2023, to $23,461,728 at March 31, 2024, primarily due to a reduction in the derivative liability."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-HCW Biologics Inc.-j.txt",
+    "comp_parts": [
+      0,
+      2
+    ],
+    "question": "How did HCW Biologics Inc.'s operating cash flow for the three months ended March 31, 2024, compare to the same period in 2023?",
+    "answer": "The operating cash flow for HCW Biologics Inc. for the three months ended March 31, 2024, was $3,603,870, compared to $3,638,213 in 2023, showing a slight decrease."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-EQUUS TOTAL RETURN, INC.-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "What was the change in fair value of Morgan E&P, LLC's equity from December 31, 2023 to March 31, 2024?",
+    "answer": "The fair value of Morgan E&P, LLC's equity decreased by $1.35 million from $22.6 million to $21.25 million between December 31, 2023 and March 31, 2024."
+  },
+  {
+    "type": "novelette",
+    "level": "comp",
+    "length": "32k",
+    "file": "Bartleby, The Scrivener.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "In both segments, how does the narrator's initial response to Bartleby's refusals evolve over time?",
+    "answer": "Initially, the narrator is shocked and tries to reason with Bartleby, but over time, he becomes resigned to Bartleby's passive resistance and even accommodates his peculiarities within the office."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-Charlie's Holdings, Inc.-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did the net revenue and net loss for Charlie's Holdings, Inc. change from the three months ended March 31, 2023, to the same period in 2024?",
+    "answer": "Charlie's Holdings' net revenue decreased from $4,030,000 to $3,051,000, and net loss decreased from $1,390,000 to $1,045,000 from the three months ended March 31, 2023, to 2024, respectively."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-China Foods Holdings Ltd.-j.txt",
+    "comp_parts": [
+      0,
+      1
+    ],
+    "question": "How did China Foods Holdings Ltd.'s net loss for the three months ended March 31, 2024, compare to the same period in 2023, and what segments contributed to revenue during these periods?",
+    "answer": "China Foods Holdings Ltd. reported a net loss of $61,661 for the three months ended March 31, 2024, compared to a net loss of $107,871 for the same period in 2023, with revenue in 2024 solely from the Wine Segment at $23,866, while in 2023, revenue was from both the Healthcare and Wine Segments at $12,205, with the majority from wine product sales."
+  },
+  {
+    "type": "financial",
+    "level": "comp",
+    "length": "32k",
+    "file": "2024-CalEthos, Inc.-j.txt",
+    "comp_parts": [
+      1,
+      2
+    ],
+    "question": "What were the total operating expenses for CalEthos, Inc. in the three months ended March 31, 2024, and how do they compare to the same period in 2023?",
+    "answer": "The total operating expenses for CalEthos, Inc. increased to $292,000 in the three months ended March 31, 2024, from $97,000 in the same period in 2023, representing an increase of $195,000 or 201%."
+  }
+]
