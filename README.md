@@ -1,5 +1,14 @@
 ## Beyond RAG vs. Long-Context: Learning Distraction-Aware Retrieval for Efficient Knowledge Grounding
-This is the official PyTorch implementation of "Learning Distraction-Aware Retrieval for Efficient Knowledge Grounding"
+<p align="center">
+  <font size=5>📑</font>
+  <a target="_self" href="https://arxiv.org/abs/2509.21865">
+    <img style="height:14pt" src="https://img.shields.io/badge/-Paper-red?style=flat&logo=arxiv">
+  </a>
+  <a target="_self" href="https://openreview.net/forum?id=c8CZWLy4T4">
+    <img style="height:14pt" src="https://img.shields.io/badge/-OpenReview-1b5e9e?style=flat&logo=openreview">
+  </a>
+</p>
+This is the official PyTorch implementation of "Beyond RAG vs. Long-Context: Learning Distraction-Aware Retrieval for Efficient Knowledge Grounding"
 
 ![Main results of Loong](figs/main.png)
 > Performance of LLMs across token-usage ratios. Higher ratio corresponds to retrieving more passages. Lines indicate performance when retrieving top-similarity passages within a fixed token usage ratio (1.0 = full context). ☆ marks the performance of LDAR optimized for each LLM, illustrating its ability to strike a balance between information coverage and distraction that surpasses all fixed token usage baselines.
